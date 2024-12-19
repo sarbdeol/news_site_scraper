@@ -528,7 +528,7 @@ def check_today_news_date_eqaul(date):
     # API headers
     headers = {
         'Content-Type': 'application/json',
-        # 'Authorization': 'Bearer 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',  # Replace with your actual API key
+        # 'Authorization': '',  # Replace with your actual API key
         'Authorization': auth,  # Replace with your actual API key
     }
 
