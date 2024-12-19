@@ -1,0 +1,422 @@
+<div class="inner" bis_skin_checked="1">
+            <!-- INTERIOR CONTENT -->
+            <div class="content-main" bis_skin_checked="1">
+                                    <div class="grid-x page-header" bis_skin_checked="1">
+                        <div class="content-title large-11 cell" bis_skin_checked="1">
+                            <h1>Press Releases</h1>
+                        </div>
+                        <div class="content-share-widget-wrap toggle-parent large-1 cell" bis_skin_checked="1">
+  <button class="share-trigger toggle-button" aria-expanded="false">Share</button>
+  <div class="share-widget-menu toggle-content grid-x" role="menu" bis_skin_checked="1">
+    <a role="menuitem" href="https://www.facebook.com/sharer.php?u=http://www.historichotels.org/press/press-releases.php&amp;quote=Historic Hotels Worldwide - All Rights Reserved." class="share-fb sm-link" aria-label="Share on Facebook" target="_blank" tabindex="-1">Facebook</a>
+    <a role="menuitem" href="https://twitter.com/share?text=Check Out this page on https://www.historichotels.org:&amp;url=http://www.historichotels.org/press/press-releases.php&amp;via=Historic Hotels Worldwide - All Rights Reserved.&amp;hashtags=HHW" class="share-tw sm-link" aria-label="Share on Twitter" target="_blank" tabindex="-1">Twitter</a>
+    <!--code not updated properly--->
+    <a role="menuitem" href="mailto:?subject=Check Out this page on https://www.historichotels.org:&amp;body=Historic Hotels Worldwide® is dedicated to promoting heritage and cultural travel to prestigious historic treasures. http://www.historichotels.org/press/press-releases.php %0D%0A%0D%0AHistoric Hotels Worldwide - All Rights Reserved." class="share-email sm-link" aria-label="Email this Link" target="_blank" tabindex="-1">Email</a>
+  </div>
+</div>
+
+                    </div>
+                                                    <p><span>Hot off the Press! Read the latest news releases from <span>Historic Hotels Worldwide®</span>.</span></p>
+                                    <div id="search-results-wrapper" class="hot-deals experiences-overview column--3" bis_skin_checked="1">
+    <ul class="grid-x">
+                    <li class="item card ">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/Press_Room/Misc./The_grand_York.jpg" src="https://phgcdn.com/images/uploads/Press_Room/Misc./The_grand_York.jpg">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        November 21, 2024                    </p>
+                    <h2>2024 Historic Hotels Worldwide® Annual Awards of Excellence Winners Announced</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/2024-historic-hotels-worldwide-annual-awards-of-excellence-winners-announced">read</a></div>
+            </li>
+                            <li class="item card ">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/Press_Room/Top_25/Bavarez_Family_.jpg" src="https://phgcdn.com/images/uploads/Press_Room/Top_25/Bavarez_Family_.jpg">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        October 31, 2024                    </p>
+                    <h2>Baverez Family Receive 2024 Historic Hotels Worldwide® Legendary Family Hoteliers of the Year Award</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/baverez-family-receive-2024-historic-hotels-worldwide-legendary-family-hoteliers-of-the-year-award">read</a></div>
+            </li>
+                            <li class="item card ">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/Press_Room/Top_25/October_2024/HHW/hero_2.jpg" src="https://phgcdn.com/images/uploads/Press_Room/Top_25/October_2024/HHW/hero_2.jpg">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        October 21, 2024                    </p>
+                    <h2>The 2024 Top 25 Historic Hotels Worldwide® Afternoon Tea Experiences List Is Announced</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/the-2024-top-25-historic-hotels-worldwide-afternoon-tea-experiences-list-is-announced">read</a></div>
+            </li>
+                            <li class="item card ">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/Press_Room/Top_25/October_2024/Historian_of_the_year_Hero.jpg" src="https://phgcdn.com/images/uploads/Press_Room/Top_25/October_2024/Historian_of_the_year_Hero.jpg">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        September 30, 2024                    </p>
+                    <h2>Andreas and Carola Augustin to Receive 2024 Historic Hotels Worldwide® Historian of the Year Award</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/andreas-and-carola-augustin-to-receive-2024-historic-hotels-worldwide-historian-of-the-year-award">read</a></div>
+            </li>
+                            <li class="item card ">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/Press_Room/AwardsWinners/2024/Award_of_Excellence_1.jpg" src="https://phgcdn.com/images/uploads/Press_Room/AwardsWinners/2024/Award_of_Excellence_1.jpg">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        August 27, 2024                    </p>
+                    <h2>The 2024 Historic Hotels Worldwide® Awards of Excellence Nominee Finalists Announced</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/the-2024-historic-hotels-worldwide-awards-of-excellence-nominee-finalists-announced">read</a></div>
+            </li>
+                            <li class="item card ">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/Press_Room/Top_25/July_2024_HHW/Hero.jpg" src="https://phgcdn.com/images/uploads/Press_Room/Top_25/July_2024_HHW/Hero.jpg">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        July 16, 2024                    </p>
+                    <h2>The 2024 Top 25 Historic Hotels Worldwide® Most Magnificent Ceilings and Domes List Is Announced</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/the-2024-top-25-historic-hotels-worldwide-most-magnificent-ceilings-and-domes-list-is-announced">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/Press_Room/Top_25/May_2024_HHW/The_K_Club_Hero.jpg" src="https://phgcdn.com/images/uploads/Press_Room/Top_25/May_2024_HHW/The_K_Club_Hero.jpg">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        May 02, 2024                    </p>
+                    <h2>Top 25 Historic Hotels Worldwide® Most Magnificent Gardens List Is Announced</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/top-25-historic-hotels-worldwide-most-magnificent-gardens">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/Press_Room/Feb_24_HHA/Thumbnail.png" src="https://phgcdn.com/images/uploads/Press_Room/Feb_24_HHA/Thumbnail.png">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        February 26, 2024                    </p>
+                    <h2>De Historiske And Historic Hotels Worldwide Expand Relationship</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/de-historiske-and-historic-hotels-worldwide-expand-relationship-26th-february-2024">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/Press_Room/Feb_24_WW/WW_Hero.png" src="https://phgcdn.com/images/uploads/Press_Room/Feb_24_WW/WW_Hero.png">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        February 07, 2024                    </p>
+                    <h2>The 2024 Top 25 Historic Hotels Worldwide® Most Romantic Hotels List Is Announced</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/the-2024-top-25-historic-hotels-worldwide-most-romantic-hotels-list-is-announced">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/Press_Room/Misc./Misc._14.png" src="https://phgcdn.com/images/uploads/Press_Room/Misc./Misc._14.png">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        January 04, 2024                    </p>
+                    <h2>23 Historic Hotels Inducted into Historic Hotels Worldwide® in 2023</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/23-historic-hotels-inducted-into-historic-hotels-worldwide-in-2023">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/Press_Room/Dec_23_Gingerbread_WW/PR_Hero.png" src="https://phgcdn.com/images/uploads/Press_Room/Dec_23_Gingerbread_WW/PR_Hero.png">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        December 14, 2023                    </p>
+                    <h2>The 2023 Top 25 Historic Hotels Worldwide® Holiday Traditions and Spectacular Displays List</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/the-2023-top-25-historic-hotels-worldwide-holiday-traditions-and-spectacular-displays-list">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/Press_Room/Nov._23_Culinary_Traditions_WW/Untitled_design_56.png" src="https://phgcdn.com/images/uploads/Press_Room/Nov._23_Culinary_Traditions_WW/Untitled_design_56.png">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        November 29, 2023                    </p>
+                    <h2>The 2023 Top 25 Historic Hotels Worldwide Culinary Heritage and Traditions List</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/the-2023-top-25-historic-hotels-worldwide-culinary-heritage-and-traditions-list">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/PHXWG/masthead/Image_of_exterior_front_porch_of_The_Wigwam_1929_Member_of_Historic_Hotels_of_America_in_Litchfield_Park_Arizona_Discover.png" src="https://phgcdn.com/images/uploads/PHXWG/masthead/Image_of_exterior_front_porch_of_The_Wigwam_1929_Member_of_Historic_Hotels_of_America_in_Litchfield_Park_Arizona_Discover.png">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        October 12, 2023                    </p>
+                    <h2>2023 Historic Hotels Worldwide® Annual Awards of Excellence Winners Announced</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/2023-historic-hotels-worldwide-annual-awards-of-excellence-winners-announced">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/TOP_25_LISTS/Art_Collections/2023/HHW/Sofitel_Legend_The_Grand_Amsterdam.png" src="https://phgcdn.com/images/uploads/TOP_25_LISTS/Art_Collections/2023/HHW/Sofitel_Legend_The_Grand_Amsterdam.png">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        September 14, 2023                    </p>
+                    <h2>The 2023 Top 25 Historic Hotels Worldwide® Most Magnificent Art Collections List Is Announced</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/the-2023-top-25-historic-hotels-worldwide-most-magnificent-art-collections-list-is-announced">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/historichotels/homepage/mastheads/W26_Castlemartyr_Resort.png" src="https://phgcdn.com/images/uploads/historichotels/homepage/mastheads/W26_Castlemartyr_Resort.png">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        August 29, 2023                    </p>
+                    <h2>2023 Historic Hotels Worldwide® Awards of Excellence Nominee Finalists Announced</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/2023-historic-hotels-worldwide-awards-of-excellence-nominee-finalists-announced">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/TOP_25_LISTS/WW_2023_Ceilings_Domes/Image_of_intricate_ceiling_over_staircase_at_Hotel_Bristol_Palace_1905_Member_of_Historic_Hotels_Worldwide_in_Genova_Italy_2023_Top_25_Most_Magnificent_Ceilings_and_Domes.png" src="https://phgcdn.com/images/uploads/TOP_25_LISTS/WW_2023_Ceilings_Domes/Image_of_intricate_ceiling_over_staircase_at_Hotel_Bristol_Palace_1905_Member_of_Historic_Hotels_Worldwide_in_Genova_Italy_2023_Top_25_Most_Magnificent_Ceilings_and_Domes.png">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        June 27, 2023                    </p>
+                    <h2>The 2023 Top 25 Historic Hotels Worldwide Most Magnificent Ceilings and Domes</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/the-2023-top-25-historic-hotels-worldwide-most-magnificent-ceilings-and-domes">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/Inspiration/2023_WW_Tea/Fairmont_Empress_Hotel_Lobby_Lounge_-_Victoria_BC_Canada_-_Afternoon_Tea_-_Historic_Hotels_Worldwide_16_9.jpg" src="https://phgcdn.com/images/uploads/Inspiration/2023_WW_Tea/Fairmont_Empress_Hotel_Lobby_Lounge_-_Victoria_BC_Canada_-_Afternoon_Tea_-_Historic_Hotels_Worldwide_16_9.jpg">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        February 15, 2023                    </p>
+                    <h2>The 2023 Historic Hotels Worldwide Top 25 Afternoon Tea Experiences</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/the-2023-historic-hotels-worldwide-top-25-afternoon-tea">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/Press_Room/AwardsWinners/hero_Fairmont_Empress_Victoria_Canada_Credit_Historic_Hotels_Worldwide.jpg.png" src="https://phgcdn.com/images/uploads/Press_Room/AwardsWinners/hero_Fairmont_Empress_Victoria_Canada_Credit_Historic_Hotels_Worldwide.jpg.png">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        December 16, 2022                    </p>
+                    <h2>The 2022 Top 25 Historic Hotels Worldwide Holiday Traditions and Spectacular Displays Is Announced</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/2022-top-25-holiday-traditions-and-spectacular-displays">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/SNNDC/2-column-mastheads-c1/SNNDC-masthead-2C1-dromolandcastle.jpg" src="https://phgcdn.com/images/uploads/SNNDC/2-column-mastheads-c1/SNNDC-masthead-2C1-dromolandcastle.jpg">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        November 18, 2022                    </p>
+                    <h2>2022 Historic Hotels Worldwide® Annual Awards of Excellence Winners Announced</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/2022-historic-hotels-worldwide-annual-awards-of-excellence-winners-announced">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/awards/HHW/Raffles_Singapore_1887_Singapore_Singapore_Credit_Historic_Hotels_Worldwide_and_Raffles_Singapore.jpg" src="https://phgcdn.com/images/uploads/awards/HHW/Raffles_Singapore_1887_Singapore_Singapore_Credit_Historic_Hotels_Worldwide_and_Raffles_Singapore.jpg">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        September 22, 2022                    </p>
+                    <h2>2022 Historic Hotels Worldwide® Awards of Excellence Nominee Finalists Announced</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/2022-historic-hotels-awards-of-excellence-nominee-finalists-announced">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/LISBA/overviewimages/1600x813-Hotel-Britania-Art-Deco-Lobby-Sphere.jpg" src="https://phgcdn.com/images/uploads/LISBA/overviewimages/1600x813-Hotel-Britania-Art-Deco-Lobby-Sphere.jpg">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        September 19, 2022                    </p>
+                    <h2>Five Lisbon Heritage Hotels Join Historic Hotels Worldwide</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/five-lisbon-heritage-hotels-join-historic-hotels-worldwide">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/Top25Lists/art/HHW/1600x813-Pulitzer-Amsterdam-Art-Art-Collectors-Suite.jpg" src="https://phgcdn.com/images/uploads/Top25Lists/art/HHW/1600x813-Pulitzer-Amsterdam-Art-Art-Collectors-Suite.jpg">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        August 25, 2022                    </p>
+                    <h2>2022 Top 25 Historic Hotels Worldwide Most Magnificent Art Collections</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/2022-top-25-historic-hotels-worldwide-most-magnificent-art-collections">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/package/dromolandgolf.png" src="https://phgcdn.com/images/uploads/package/dromolandgolf.png">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        May 25, 2022                    </p>
+                    <h2>2022 Top 12 Historic Hotels Worldwide Most Historic Golf Courses List Announced</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/2022-top-12-historic-hotels-worldwide-most-historic-golf-courses-list-announced">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/Top25Lists/2022_Gardens/HHW/1600x813-Grand-Hotel-Tremezzo.jpg" src="https://phgcdn.com/images/uploads/Top25Lists/2022_Gardens/HHW/1600x813-Grand-Hotel-Tremezzo.jpg">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        April 27, 2022                    </p>
+                    <h2>The 2022 Top 25 Historic Hotels Worldwide Most Magnificent Gardens</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/the-2022-top-25-historic-hotels-worldwide-most-magnificent-gardens-27th-april-2022">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/LUGTP/masthead/1600x813-Grand-Hotel-Tremezzo2.jpg" src="https://phgcdn.com/images/uploads/LUGTP/masthead/1600x813-Grand-Hotel-Tremezzo2.jpg">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        February 09, 2022                    </p>
+                    <h2>2022 Top 25 Historic Hotels Worldwide® Most Romantic Hotels</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/2022-top-25-historic-hotels-worldwide-most-romantic-hotels">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/package/Fairmont-Hotel-MacDonald-1b.jpg" src="https://phgcdn.com/images/uploads/package/Fairmont-Hotel-MacDonald-1b.jpg">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        December 08, 2021                    </p>
+                    <h2>The 2021 Historic Hotels Worldwide Most Magnificent Gingerbread Displays List Announced</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/the-historic-hotels-worldwide-most-magnificent-gingerbread-displays-list-announced">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/SPCHH/overviewimages/1600x813-hacienda-de-abajo-exterior2.jpg" src="https://phgcdn.com/images/uploads/SPCHH/overviewimages/1600x813-hacienda-de-abajo-exterior2.jpg">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        November 12, 2021                    </p>
+                    <h2>Historic Hotels of America &amp; Historic Hotels Worldwide 2021 Awards of Excellence Winners Announced</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/historic-hotels-of-america-and-historic-hotels-worldwide-2021-awards-of-excellence-winners-announced">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/YQBLM/search/456x333_Image_of_Exterior_Fairmont_Le_Manoir_Richelieu_Charlevoix.jpg" src="https://phgcdn.com/images/uploads/YQBLM/search/456x333_Image_of_Exterior_Fairmont_Le_Manoir_Richelieu_Charlevoix.jpg">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        September 24, 2021                    </p>
+                    <h2>2021 Historic Hotels Awards of Excellence Nominee Finalists Announced</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/2021-historic-hotels-awards-of-excellence-nominee-finalists-announced">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/package/19A9843-bd-Facade-rogne-2200x987.jpg" src="https://phgcdn.com/images/uploads/package/19A9843-bd-Facade-rogne-2200x987.jpg">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        February 11, 2021                    </p>
+                    <h2>The 2021 Top 25 Historic Hotels Worldwide® for a Romantic Proposal Announced</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/the-historic-hotels-worldwide-2021-top-25-historic-hotels-for-a-romantic-proposal-announced">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/package/Image-of-Exterior-Front-Entrance-Great-Southern-Killarney-County-Kerry-Ireland.jpg" src="https://phgcdn.com/images/uploads/package/Image-of-Exterior-Front-Entrance-Great-Southern-Killarney-County-Kerry-Ireland.jpg">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        December 21, 2020                    </p>
+                    <h2>2020 Historic Hotels Awards of Excellence Winners Announced</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/2020-historic-hotels-awards-of-excellence-winners-announced">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="" data-cfsrc="https://phgcdn.com/images/uploads/package/Image-of-Villa-Sola-Cabiati-Exterior-Grand-Hotel-Tremezzo-Tremezzina-Italy.jpg" src="https://phgcdn.com/images/uploads/package/Image-of-Villa-Sola-Cabiati-Exterior-Grand-Hotel-Tremezzo-Tremezzina-Italy.jpg">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        December 21, 2020                    </p>
+                    <h2>2020 Historic Hotels Awards of Excellence Nominee Finalists Announced</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/2020-historic-hotels-awards-of-excellence-nominee-finalists-announced">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="The 2019 Historic Hotels Worldwide Top 10 Most Magnificent Gardens Announced featuring the Sofitel Legend The Grand Amsterdam" data-cfsrc="https://phgcdn.com/images/uploads/historichotels/press/cards/Sofitel_Legend_The_Grand_Amsterdam_Garden_Terrace1.jpg" src="https://phgcdn.com/images/uploads/historichotels/press/cards/Sofitel_Legend_The_Grand_Amsterdam_Garden_Terrace1.jpg">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        April 15, 2019                    </p>
+                    <h2>The 2019 Historic Hotels Worldwide Top 10 Most Magnificent Gardens Announced</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/the-2019-historic-hotels-worldwide-top-10-most-magnificent-gardens-announced">read</a></div>
+            </li>
+                            <li class="item card loaded-group">
+                <div class="inset" bis_skin_checked="1">
+                    <img alt="75 Legendary Hotels Inducated into Historic Hotels Worldwide in 2018 including Fairmont Banff Springs" data-cfsrc="https://phgcdn.com/images/uploads/historichotels/press/cards/Fairmont-Banff-Springs.jpg" src="https://phgcdn.com/images/uploads/historichotels/press/cards/Fairmont-Banff-Springs.jpg">
+                </div>
+                <div class="card-content" bis_skin_checked="1">
+                    <p>
+                        February 20, 2019                    </p>
+                    <h2>75 Legendary Hotels Inducted into Historic Hotels Worldwide in 2018</h2>
+
+                </div>
+                <div class="card-cta" bis_skin_checked="1"><a href="/press/press-releases/75-legendary-hotels-inducted-into-historic-hotels-worldwide-in-2018">read</a></div>
+            </li>
+                    </ul>
+</div>
+        <a href="javascript:void(0)" class="btn--button btn--primary btn--block mt--20 load-more">Load More</a>
+                </div>
+        </div>
