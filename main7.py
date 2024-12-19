@@ -4,7 +4,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import csv
 import requests
-from PIL import Image
 from io import BytesIO
 
 def scrape_with_selenium():
@@ -24,7 +23,7 @@ def scrape_with_selenium():
 
     # Define the websites and selectors
     websites = [
-        # {"url": "https://www.absolutehotelservices.net/news-1", "selector": "Zc7IjY", "date_selector": "font_8", "content_selector": "wixui-rich-text__text"},
+        {"url": "https://www.absolutehotelservices.net/news-1", "selector": "Zc7IjY", "date_selector": "font_8", "content_selector": "wixui-rich-text__text"},
         # {"url": "https://www.amarahotels.com/about-us/press-releases", "selector": "views-row", "date_selector": "node__content", "content_selector": "field--name-body"},
         # {"url": "https://www.discoverasr.com/en/the-ascott-limited/newsroom#", "selector": "news-title-info", "date_selector": "news-date", "content_selector": "news-title-info"},
         # {"url":"https://news.groupbanyan.com/", "selector": "c-card__list", "date_selector": "c-card__item", "content_selector": "h5 c-card__title"}

@@ -1,90 +1,160 @@
-import os
+
+
 import csv
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-import urllib.request
+import time
+from insert_csv_into_sql_db import generate_news,generate_subtitle,generate_title
+from insert_csv_into_sql_db import generate_random_filename,check_and_remove_file,download_image
+from upload_and_reference import upload_photo_to_ftp
+from insert_csv_into_sql_db import date_format,insert_csv_data,append_unique_records
 from datetime import datetime
+from selenium.webdriver.chrome.options import Options
+chrome_options = Options()
+chrome_options.add_argument("--headless")  # Run Chrome in headless mode (no GUI)
+chrome_options.add_argument("--disable-gpu")  # Disable GPU hardware acceleration
+chrome_options.add_argument("--no-sandbox")  # Disabling sandbox for headless mode
+chrome_options.add_argument("--disable-dev-shm-usage")
+chrome_options.add_argument(
+    "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.199 Safari/537.36"
+)  # Set user-agent to mimic a real browser
 
-# Initialize Selenium WebDriver
-driver = webdriver.Chrome()  # Ensure the correct WebDriver is in PATH
-driver.get("https://stories.hilton.com/releases")  # Update this with the target URL
 
-# Prepare directory for saving images
-os.makedirs("stories_hilton_news_images", exist_ok=True)
+# Add headers to mimic a browser
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+    "Referer": "https://www.rotana.com",  # Set a referer from the same domain if needed
+}
+# Setup Selenium WebDriver
+driver = webdriver.Chrome(options=chrome_options)
+# Setup the WebDriver (e.g., ChromeDriver)
+# driver = webdriver.Chrome()  # Ensure the correct path for your webdriver
 
-# Prepare CSV file
-csv_file = "stories_hilton_news_data.csv"
+# CSV headers
 headers = [
-    "id", "title", "slug", "lead", "content", "image", "type",
-    "custom_field", "parent_id", "created_at", "updated_at",
-    "language", "seo_title", "seo_content", "seo_title_desc",
+    "id", "title", "subtitle", "slug", "lead", "content", "image", "type",
+    "custom_field", "parent_id", "created_at", "updated_at", "added_timestamp",
+    "language", "seo_title", "seo_content", "seo_title_desc", 
     "seo_content_desc", "category_id"
 ]
 
-# Open CSV file for writing
+# Placeholder for data rows
+data_rows = []
+
+try:
+    # Load the page
+    driver.get("https://stories.hilton.com/releases")  # Replace with the actual URL
+    
+    # Wait for the page to load (adjust as necessary for your use case)
+    time.sleep(5)
+    
+    # Locate the most recent card
+    card = driver.find_element(By.CLASS_NAME, "card-grid-item__title-contain")
+    
+    # Extract the details
+    latest_href = card.find_element(By.CSS_SELECTOR, "a.card-grid-item__title-link").get_attribute("href")
+    latest_title = card.find_element(By.CSS_SELECTOR, "h2.card-grid-item__title").text
+    latest_date = card.find_element(By.CSS_SELECTOR, "time.card-grid-item__date").get_attribute("datetime")
+    
+    print(f"Latest href: {latest_href}")
+    print(f"Title: {latest_title}")
+    print(f"Date: {latest_date}")
+    
+    # Navigate to the latest link
+    driver.get(latest_href)
+    
+    # Extract title and other details from the loaded page
+    time.sleep(3)  # Wait for the new page to load
+    page_title = driver.title
+    print(f"Page Title: {page_title}")
+
+    # Execute the JavaScript in Selenium
+    all_text = driver.execute_script("""
+        const paragraphs = Array.from(document.querySelectorAll('p'));
+        return paragraphs.map(p => p.innerText).join('\\n\\n');
+    """)
+    print(all_text)
+
+    # (Optional) Extract other elements like images
+
+    js_script = """
+// Select the image element by its class or any other attribute
+const imageElement = document.querySelector('.article-hero__image');
+
+// Extract the `src` attribute for the main image
+const mainImageUrl = imageElement.getAttribute('src');
+
+// Alternatively, extract the `srcset` attribute if you want all sizes
+const srcset = imageElement.getAttribute('srcset');
+
+// Log the values
+console.log('Main Image URL:', mainImageUrl);
+console.log('Srcset:', srcset);
+
+return mainImageUrl
+
+
+"""
+    # try:
+    #     image_element = driver.find_element(By.TAG_NAME, "img")
+    #     image_url = image_element.get_attribute("src")
+    #     print(f"Image URL: {image_url}")
+    # except Exception as e:
+    #     print("No image found:", e)
+    #     image_url = None
+    img_name = generate_random_filename()
+
+    img_url = driver.execute_script(js_script)
+
+    download_image(img_url,img_name)
+
+    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+
+    latest_title= generate_title(latest_title)
+    date = date_format(latest_date)
+
+    # Prepare a row for the CSV
+    row = {
+        "id": "1",  # Assuming static ID or generated elsewhere
+        "title": latest_title,
+        "subtitle": generate_subtitle(latest_title),  # Adjust as needed
+        "slug": latest_title.lower().replace(" ","-"),
+        "lead": "",  # Adjust as needed
+        "content": generate_news(all_text),
+        "image": "information/"+img_name,
+        "type": "news",  # Example type
+        "custom_field": None,
+        "parent_id": None,
+        "created_at": date,
+        "updated_at": datetime.now().today(),
+        "added_timestamp": date,
+        "language": "en",  # Assuming English
+        "seo_title": '',
+        "seo_content": None,  # Adjust as needed
+        "seo_title_desc": None,
+        "seo_content_desc": None,
+        "category_id": 100
+    }
+    data_rows.append(row)
+
+finally:
+    # Close the browser
+    driver.quit()
+
+# Save the data to a CSV file
+csv_file = "stories_hilton.csv"
+check_and_remove_file(csv_file)
 with open(csv_file, mode="w", newline="", encoding="utf-8") as file:
-    writer = csv.writer(file)
-    writer.writerow(headers)
+    writer = csv.DictWriter(file, fieldnames=headers)
+    writer.writeheader()
+    writer.writerows(data_rows)
 
-    # Wait for elements to load
-    try:
-        WebDriverWait(driver, 10).until(
-            EC.presence_of_all_elements_located((By.CSS_SELECTOR, '.card-grid-item'))
-        )
-    except Exception as e:
-        print(f"Error loading cards: {e}")
-        driver.quit()
-        exit()
-
-    # Locate news cards
-    cards = driver.find_elements(By.CSS_SELECTOR, '.card-grid-item')
-    for idx, card in enumerate(cards, start=1):
-        try:
-            # Extract data using JavaScript execution and standard methods
-            title = card.find_element(By.CSS_SELECTOR, '.card-grid-item__title').text
-            slug = title.lower().replace(" ", "-").replace("&", "and").replace("/", "-")
-            date_element = card.find_element(By.CSS_SELECTOR, '.card-grid-item__date')
-            created_at = date_element.get_attribute("datetime") or datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
-            updated_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-            category = card.find_element(By.CSS_SELECTOR, '.card-grid-item__meta-cat-text').text if card.find_elements(By.CSS_SELECTOR, '.card-grid-item__meta-cat-text') else "Uncategorized"
-            image_url = card.find_element(By.CSS_SELECTOR, 'img').get_attribute('src') if card.find_elements(By.CSS_SELECTOR, 'img') else ""
-
-            # Download the image if URL exists
-            img_filename = ""
-            if image_url:
-                img_filename = f"stories_hilton_news_images/{slug}.jpg"
-                urllib.request.urlretrieve(image_url, img_filename)
-
-            # Populate row for CSV
-            row = [
-                idx,              # id
-                title,            # title
-                slug,             # slug
-                "",               # lead
-                "",               # content
-                img_filename,     # image
-                "news",           # type (example)
-                "",               # custom_field
-                "",               # parent_id
-                created_at,       # created_at
-                updated_at,       # updated_at
-                "en",             # language
-                title,            # seo_title
-                "",               # seo_content
-                f"{title} desc",  # seo_title_desc
-                "",               # seo_content_desc
-                "1"               # category_id (example)
-            ]
-
-            # Write row to CSV
-            writer.writerow(row)
-            print(f"Processed: {title}")
-
-        except Exception as e:
-            print(f"Error processing card: {e}")
-
-# Close the browser
-driver.quit()
 print(f"Data saved to {csv_file}")
+
+# append_unique_records(csv_file,"combined_news_data.csv")
+
+if date==date_format(datetime.now().today()):
+    append_unique_records(csv_file,"combined_news_data.csv")
+    insert_csv_data(csv_file,"informations")
+else:
+     print("WE DO NOT HAVE DATA FOR TODAY")

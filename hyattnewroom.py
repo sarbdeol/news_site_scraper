@@ -1,145 +1,163 @@
-import os
+
+
 import csv
+import time
+import os
+from datetime import datetime
 import requests
+from PIL import Image
+from io import BytesIO
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-import datetime
+from webdriver_manager.chrome import ChromeDriverManager
+from insert_csv_into_sql_db import generate_news,generate_subtitle,append_unique_records,generate_random_filename,generate_title,check_and_remove_file
+from upload_and_reference import upload_photo_to_ftp
+from insert_csv_into_sql_db import insert_csv_data,date_format
 
-# Setup Chrome in headless mode
+# Function to download and resize the image
+def download_and_resize_image(url, folder, width=865, height=590):
+    try:
+        # Get the image response
+        response = requests.get(url)
+        if response.status_code == 200:
+            # Open the image using PIL
+            img = Image.open(BytesIO(response.content))
+            
+            # Resize the image to the desired dimensions
+            img = img.resize((width, height), Image.Resampling.LANCZOS)  # Corrected line
+            
+            # Extract image filename from the URL
+            image_name = url.split("/")[-1]
+            image_path = os.path.join(folder, image_name)
+
+            # Save the resized image
+            img.save(image_name)
+            return image_name  # Return the local path of the image
+        else:
+            print(f"Failed to download image: {url}")
+            return None
+    except Exception as e:
+        print(f"Error downloading or resizing image: {e}")
+        return None
+
+# Set up Chrome options for headless mode (optional)
 chrome_options = Options()
 chrome_options.add_argument("--headless")
-chrome_options.add_argument("--disable-gpu")
-chrome_options.add_argument("--no-sandbox")
-chrome_options.add_argument("--disable-dev-shm-usage")
-chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.199 Safari/537.36")
-chrome_options.add_argument("--disable-blink-features=AutomationControlled")
 
-driver = webdriver.Chrome(options=chrome_options)  # Ensure chromedriver is installed and in PATH
+# Set up the WebDriver
+driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
 
-# Define the target URL
-url = "https://newsroom.hyatt.com/"  # Replace with the correct URL
+# Open the target webpage
+url = "https://newsroom.hyatt.com"  # Replace with the actual URL of the page
 driver.get(url)
 
-# Wait for elements to load
-try:
-    WebDriverWait(driver, 10).until(
-        EC.presence_of_element_located((By.CSS_SELECTOR, "ul.wd_layout-simple.wd_item_list"))
-    )
-except Exception as e:
-    print("Error: Elements not found or page took too long to load.")
-    print(driver.page_source)  # Debug: Check if content is loaded
-    driver.quit()
-    exit()
+# Give the page some time to load
+time.sleep(2)
 
-# Create a folder to save images
-image_folder = "hyatt_images"
-os.makedirs(image_folder, exist_ok=True)
+# Get the most recent href link (you may customize this based on your needs)
+latest_link = driver.find_element(By.XPATH, "(//a[contains(@href, '2024-')])[1]").get_attribute("href")
 
-# Locate all the news items
-news_items = driver.find_elements(By.CSS_SELECTOR, "ul.wd_layout-simple.wd_item_list > li.wd_item")
+# Open the link
+driver.get(latest_link)
+time.sleep(2)
 
-# Prepare data for CSV
-data = []
+# Extract the title, date, and news content using JavaScript executed via Selenium
+title = driver.execute_script("return document.querySelector('h1').innerText")
+date = driver.execute_script("return document.querySelector('.wd_date').innerText")
+content = driver.execute_script("""
+var paragraphs = document.querySelectorAll('div.wd_body.wd_news_body p');
+var textContent = [];
+for (var i = 0; i < paragraphs.length; i++) {
+    textContent.push(paragraphs[i].innerText);
+}
+return textContent.join('\\n');  // Join the paragraph texts with line breaks
+""")
+image_url = driver.execute_script("""
+var imgElement = document.querySelector('img');  // Modify the selector if needed
+if (imgElement) {
+    return imgElement.src;  // Return the image URL
+} else {
+    return 'Image not found';
+}
+""")
 
-for index, item in enumerate(news_items, start=1):
-    try:
-        # Extract the title
-        title_element = item.find_element(By.CSS_SELECTOR, ".wd_title a")
-        title = title_element.text.strip()
+# Close the browser
+driver.quit()
 
-        # Generate a slug from the title
-        slug = title.lower().replace(" ", "-").replace("®", "").replace(",", "").replace(".", "")
-
-        # Extract the date
-        date = item.find_element(By.CSS_SELECTOR, ".wd_date").text.strip()
-
-        # Extract the subtitle/lead
-        lead = item.find_element(By.CSS_SELECTOR, ".wd_subtitle").text.strip()
-
-        # Extract the summary/content
-        content = item.find_element(By.CSS_SELECTOR, ".wd_summary p").text.strip()
-
-        # Extract the image URL
-        image_element = item.find_element(By.CSS_SELECTOR, ".wd_thumbnail img")
-        image_url = image_element.get_attribute("src")
-        if image_url.startswith("/"):  # Handle relative URLs
-            image_url = f"https://newsroom.hyatt.com{image_url}"
-
-        # Download and save the image locally
-        image_filename = f"{slug}.jpg"
-        image_path = os.path.join(image_folder, image_filename)
-        try:
-            response = requests.get(image_url, stream=True)
-            if response.status_code == 200:
-                with open(image_path, "wb") as img_file:
-                    for chunk in response.iter_content(1024):
-                        img_file.write(chunk)
-            else:
-                print(f"Failed to download image: {image_url}")
-                image_path = None
-        except Exception as e:
-            print(f"Error downloading image: {e}")
-            image_path = None
-
-        # Extract the link
-        link = title_element.get_attribute("href")
-
-        # Placeholder values for remaining fields
-        type_field = "press_release"
-        custom_field = ""
-        parent_id = None
-        created_at = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        updated_at = created_at
-        language = "en"
-        seo_title = title
-        seo_content = f"Discover more about {title}."
-        seo_title_desc = f"{title} - SEO Title"
-        seo_content_desc = f"{title} - SEO Description"
-        category_id = None
-
-        # Append data to the list
-        data.append({
-            "id": index,
-            "title": title,
-            "slug": slug,
-            "lead": lead,
-            "content": content,
-            "image": image_path,
-            "type": type_field,
-            "custom_field": custom_field,
-            "parent_id": parent_id,
-            "created_at": created_at,
-            "updated_at": updated_at,
-            "language": language,
-            "seo_title": seo_title,
-            "seo_content": seo_content,
-            "seo_title_desc": seo_title_desc,
-            "seo_content_desc": seo_content_desc,
-            "category_id": category_id
-        })
-
-    except Exception as e:
-        print(f"Error processing news item: {e}")
-
-# Write to CSV
-output_file = "hyatt_newsroom_output.csv"
+# Define the headers for the CSV file
 headers = [
-    "id", "title", "slug", "lead", "content", "image", "type",
-    "custom_field", "parent_id", "created_at", "updated_at",
+    "id", "title", "subtitle", "slug", "lead", "content", "image", "type",
+    "custom_field", "parent_id", "created_at", "updated_at", "added_timestamp",
     "language", "seo_title", "seo_content", "seo_title_desc",
     "seo_content_desc", "category_id"
 ]
 
-with open(output_file, mode="w", newline="", encoding="utf-8") as file:
+# Prepare the data to be written to CSV
+csv_data = {
+    "id": "1",  # Example ID, should be dynamically generated if needed
+    "title": generate_title(title),  # Use the extracted title
+    "subtitle": generate_subtitle(title),  # You can add subtitle if needed
+    "slug": generate_title(generate_title(title)).lower().replace(" ", "-"),  # Example slug (you can customize this)
+    "lead": "",  # Use the first line of the content as lead
+    "content": generate_news(content),
+    "image": "",  # Placeholder for image URL or local path
+    "type": "news",  # Example type
+    "custom_field": "N/A",  # Example custom field
+    "parent_id": "0",  # Example parent_id
+    "created_at": datetime.strptime(date, '%b %d, %Y').strftime('%d %B %Y').lstrip('0'),  # Using the extracted date
+    "updated_at": datetime.now().today(),  # Assuming updated_at is the same as created_at
+    "added_timestamp": datetime.strptime(date, '%b %d, %Y').strftime('%d %B %Y').lstrip('0'),  # Example timestamp, should be dynamic if needed
+    "language": "en",  # Example language
+    "seo_title": "",  # Example SEO title
+    "seo_content": "",  # Example SEO content
+    "seo_title_desc": "",  # Example SEO title description
+    "seo_content_desc": "",  # Example SEO content description
+    "category_id": "100"  # Example category ID
+}
+
+# Create a folder to store images
+images_folder = "hyatt_images"
+os.makedirs(images_folder, exist_ok=True)
+
+# Download and resize the image
+image_filename = download_and_resize_image(image_url, images_folder)
+
+upload_photo_to_ftp(image_filename,"/public_html/storage/information/")
+# If an image was successfully downloaded, update the image field in the CSV data
+if image_filename:
+    csv_data["image"] = f"information/{image_filename}"
+
+# Create the CSV file and write the data
+csv_file_path = "hyatt_newsroom.csv"
+
+check_and_remove_file(csv_file_path)
+
+
+# Check if the file exists
+file_exists = os.path.isfile(csv_file_path)
+
+# Open the CSV file in append mode (or create it if it doesn't exist)
+with open(csv_file_path, mode='a', newline='', encoding='utf-8') as file:
     writer = csv.DictWriter(file, fieldnames=headers)
-    writer.writeheader()
-    writer.writerows(data)
+    
+    # If the file doesn't exist, write the header
+    if not file_exists:
+        writer.writeheader()
+    
+    # Write the extracted article data
+    writer.writerow(csv_data)
 
-print(f"Data successfully written to {output_file}")
-print(f"Images saved in the '{image_folder}' folder")
+print("CSV file has been created/updated with the extracted data.")
 
-# Quit the browser
-driver.quit()
+
+
+
+if date_format(date)==date_format(datetime.now().today()):
+    # Insert the CSV data into the database
+    insert_csv_data(csv_file_path,"informations")
+    append_unique_records(csv_file_path,"combined_news_data.csv")
+
+else:
+    print("--------WE DO NOT HAVE DATA FOR TODAY--------")
