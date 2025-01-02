@@ -11,6 +11,9 @@ from datetime import datetime
 import csv
 import os
 from dotenv import load_dotenv
+import smtplib
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
 
 # Load environment variables from .env file
 load_dotenv()
@@ -584,6 +587,42 @@ existing_data_file = "news_data.csv"  # Replace with your existing data file
 
 # Call the function
 # append_unique_records(new_data_file, existing_data_file)
+
+
+
+def send_email(smtp_server, smtp_port, username, password, sender_email, recipient_email, subject, body):
+    """
+    Sends an email using the specified SMTP server and credentials.
+
+    Parameters:
+    - smtp_server (str): The SMTP server address (e.g., 'smtp.example.com').
+    - smtp_port (int): The SMTP server port (e.g., 587 for TLS, 465 for SSL).
+    - username (str): Username for the SMTP server.
+    - password (str): Password for the SMTP server.
+    - sender_email (str): Email address of the sender.
+    - recipient_email (str): Email address of the recipient.
+    - subject (str): Subject of the email.
+    - body (str): Body of the email.
+
+    Returns:
+    - None
+    """
+    try:
+        # Create the email message
+        message = MIMEMultipart()
+        message["From"] = sender_email
+        message["To"] = recipient_email
+        message["Subject"] = subject
+        message.attach(MIMEText(body, "plain"))
+
+        # Connect to the SMTP server and send the email
+        with smtplib.SMTP(smtp_server, smtp_port) as server:
+            server.starttls()  # Upgrade to secure connection
+            server.login(username, password)
+            server.sendmail(sender_email, recipient_email, message.as_string())
+            print("Email sent successfully!")
+    except Exception as e:
+        print(f"Failed to send email: {e}")
 
 
 

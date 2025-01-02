@@ -90,62 +90,82 @@ if True:
                 return null;
             }
         """)
-
-        img_name = generate_random_filename()
-         
-        if recent_news['image'] != None:
-            download_image(recent_news['image'],img_name)
-            print("downloaded")
-            upload_photo_to_ftp(img_name,recent_news['image'])
-        else:
-            print("NO IMAGE")
-
-        
-        title=  generate_title(recent_news['title'])
-        date = date_format(recent_news['date'])
-        print(date)
-        # Save the extracted data in CSV format
         if recent_news:
-            csv_data = [
-                {
-                    "id": recent_news['id'],
-                    "title": title,
-                    "subtitle": generate_subtitle(title),  # No subtitle available
-                    "slug": title.lower().replace(" ","-"),  # No slug available
-                    "lead": None,  # No lead available
-                    "content": generate_news(title),  # No content available (PDF needs separate processing)
-                    "image":"information/"+img_name,  # Include the image URL
-                    "type": "Press Release",
-                    "custom_field": None,
-                    "parent_id": None,
-                    "created_at": date,
-                    "updated_at": time.time(),
-                    "added_timestamp": date,
-                    "language": "en",
-                    "seo_title": '',
-                    "seo_content": None,
-                    "seo_title_desc": None,
-                    "seo_content_desc": None,
-                    "category_id": 100,
-                }
-            ]
-            check_and_remove_file('recent_news_with_image.csv')
-            # Write to CSV file
-            with open("recent_news_with_image.csv", "w", newline="", encoding="utf-8") as csvfile:
-                writer = csv.DictWriter(csvfile, fieldnames=headers)
-                writer.writeheader()
-                writer.writerows(csv_data)
+            img_name = generate_random_filename()
+            
+            # if recent_news['image'] != None:
+            #     download_image(recent_news['image'],img_name)
+            #     print("downloaded")
+            #     upload_photo_to_ftp(img_name,recent_news['image'])
+            # else:
+            #     print("NO IMAGE")
 
-            print(f"Most Recent News saved to 'recent_news_with_image.csv':\nTitle: {recent_news['title']}\nDate: {recent_news['date']}\nLink: {recent_news['href']}\nImage: {recent_news['image']}")
+            
+            title=  generate_title(recent_news['title'])
+            date = date_format(recent_news['date'])
+            print(date)
+            # Save the extracted data in CSV format
+            if recent_news:
+                csv_data = [
+                    {
+                        "id": recent_news['id'],
+                        "title": title,
+                        "subtitle": generate_subtitle(title),  # No subtitle available
+                        "slug": title.lower().replace(" ","-"),  # No slug available
+                        "lead": None,  # No lead available
+                        "content": generate_news(title),  # No content available (PDF needs separate processing)
+                        "image":"information/"+img_name,  # Include the image URL
+                        "type": "Press Release",
+                        "custom_field": None,
+                        "parent_id": None,
+                        "created_at": date,
+                        "updated_at": time.time(),
+                        "added_timestamp": date,
+                        "language": "en",
+                        "seo_title": '',
+                        "seo_content": None,
+                        "seo_title_desc": None,
+                        "seo_content_desc": None,
+                        "category_id": 100,
+                    }
+                ]
+                check_and_remove_file('recent_news_with_image.csv')
+                # Write to CSV file
+                with open("recent_news_with_image.csv", "w", newline="", encoding="utf-8") as csvfile:
+                    writer = csv.DictWriter(csvfile, fieldnames=headers)
+                    writer.writeheader()
+                    writer.writerows(csv_data)
+
+                print(f"Most Recent News saved to 'recent_news_with_image.csv':\nTitle: {recent_news['title']}\nDate: {recent_news['date']}\nLink: {recent_news['href']}\nImage: {recent_news['image']}")
+                if date == date_format(time.time()):
+                    if recent_news['image'] != None:
+                        download_image(recent_news['image'],img_name)
+                        print("downloaded")
+                        upload_photo_to_ftp(img_name,recent_news['image'])
+                    else:
+                        print("NO IMAGE")
+                        
+                    insert_csv_data("recent_news_with_image.csv","informations")
+                    append_unique_records("recent_news_with_image.csv","combined_news_data.csv")
+                else:
+                    print("WE DO NOT HAVE DATA FOR TODAY")
+
         else:
             print("No recent news found.")
 
     finally:
         driver.quit()
 
-    if date == date_format(time.time()):
-        insert_csv_data("recent_news_with_image.csv","informations")
-        append_unique_records("recent_news_with_image.csv","combined_news_data.csv")
-    else:
-        print("WE DO NOT HAVE DATA FOR TODAY")
+    # if date == date_format(time.time()):
+    #     if recent_news['image'] != None:
+    #         download_image(recent_news['image'],img_name)
+    #         print("downloaded")
+    #         upload_photo_to_ftp(img_name,recent_news['image'])
+    #     else:
+    #         print("NO IMAGE")
+            
+    #     insert_csv_data("recent_news_with_image.csv","informations")
+    #     append_unique_records("recent_news_with_image.csv","combined_news_data.csv")
+    # else:
+    #     print("WE DO NOT HAVE DATA FOR TODAY")
 

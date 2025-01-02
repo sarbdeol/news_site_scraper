@@ -73,6 +73,8 @@ if most_recent_href:
     # Execute JavaScript to get the date
     date = date_format(driver.execute_script(js_code))
 
+    print(date)
+
     # JavaScript code to get the title from <h1>
     js_code = """
     const titleElement = document.querySelector('h1');
@@ -102,7 +104,7 @@ if most_recent_href:
     img_name = generate_random_filename()
     download_image(img_url,img_name)
 
-    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+    # upload_photo_to_ftp(img_name,"/public_html/storage/information/")
 
 
     # JavaScript code to get content of the first few <p> tags
@@ -159,6 +161,7 @@ driver.quit()
 
 if date==date_format(datetime.now().today()):
     # Insert the CSV data into the database
+    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
     insert_csv_data("mandarinoriental_scraped_data.csv", "informations")
     append_unique_records("mandarinoriental_scraped_data.csv","combined_news_data.csv")
 

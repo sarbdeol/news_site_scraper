@@ -157,13 +157,13 @@ if href:
     # Execute the JavaScript code
     # date_text = driver.execute_script(js_code)
 
-    # print(date)
+    print(date_text)
 
     img_name = generate_random_filename()
 
     download_image(image_url,img_name)
 
-    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+    # upload_photo_to_ftp(img_name,"/public_html/storage/information/")
 
     # Add data to the list in the specified format
     data.append({
@@ -205,6 +205,7 @@ print(f"Data saved to {csv_file}")
 
 if date==date_format(datetime.now().today()):
     # Insert the CSV data into the database
+    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
     insert_csv_data(csv_file, "informations")
     append_unique_records(csv_file,"combined_news_data.csv")
 

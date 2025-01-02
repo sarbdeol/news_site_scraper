@@ -124,7 +124,7 @@ with open('news_data.csv', mode='w', newline='', encoding='utf-8') as file:
         img_name = generate_random_filename()
 
         download_image(image_url,img_name)
-        upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+        # upload_photo_to_ftp(img_name,"/public_html/storage/information/")
         
         # JavaScript code to extract all <p> content
         js_code = """
@@ -177,6 +177,7 @@ print("Data extraction and CSV writing completed.")
 
 if extracted_date==date_format(datetime.now().today()):
     # Insert the CSV data into the database
+    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
     insert_csv_data("news_data.csv", "informations")
     append_unique_records("news_data.csv","combined_news_data.csv")
 

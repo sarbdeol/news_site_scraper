@@ -1,0 +1,54 @@
+Traceback (most recent call last):
+  File "/root/news_site_scraper/lemontreehotels.py", line 128, in <module>
+    import pdfplumber
+ModuleNotFoundError: No module named 'pdfplumber'
+Traceback (most recent call last):
+  File "/root/news_site_scraper/lemontreehotels.py", line 128, in <module>
+    import pdfplumber
+ModuleNotFoundError: No module named 'pdfplumber'
+Traceback (most recent call last):
+  File "/root/news_site_scraper/lemontreehotels.py", line 128, in <module>
+    import pdfplumber
+ModuleNotFoundError: No module named 'pdfplumber'
+/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py:1099: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.lemontreehotels.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+Most recent PDF link: https://www.lemontreehotels.com/
+PDF downloaded successfully: downloaded_pdf.pdf
+Traceback (most recent call last):
+  File "/root/news_site_scraper/lemontreehotels.py", line 200, in <module>
+    with pdfplumber.open(pdf_path) as pdf:
+  File "/usr/local/lib/python3.10/dist-packages/pdfplumber/pdf.py", line 101, in open
+    return cls(
+  File "/usr/local/lib/python3.10/dist-packages/pdfplumber/pdf.py", line 47, in __init__
+    self.doc = PDFDocument(PDFParser(stream), password=password or "")
+  File "/usr/local/lib/python3.10/dist-packages/pdfminer/pdfdocument.py", line 752, in __init__
+    raise PDFSyntaxError("No /Root object! - Is this really a PDF?")
+pdfminer.pdfparser.PDFSyntaxError: No /Root object! - Is this really a PDF?
+/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py:1099: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.lemontreehotels.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+Most recent PDF link: https://www.lemontreehotels.com/
+PDF downloaded successfully: downloaded_pdf.pdf
+Traceback (most recent call last):
+  File "/root/news_site_scraper/lemontreehotels.py", line 200, in <module>
+    with pdfplumber.open(pdf_path) as pdf:
+  File "/usr/local/lib/python3.10/dist-packages/pdfplumber/pdf.py", line 101, in open
+    return cls(
+  File "/usr/local/lib/python3.10/dist-packages/pdfplumber/pdf.py", line 47, in __init__
+    self.doc = PDFDocument(PDFParser(stream), password=password or "")
+  File "/usr/local/lib/python3.10/dist-packages/pdfminer/pdfdocument.py", line 752, in __init__
+    raise PDFSyntaxError("No /Root object! - Is this really a PDF?")
+pdfminer.pdfparser.PDFSyntaxError: No /Root object! - Is this really a PDF?
+/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py:1099: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.lemontreehotels.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+Most recent PDF link: https://www.lemontreehotels.com/
+PDF downloaded successfully: downloaded_pdf.pdf
+Traceback (most recent call last):
+  File "/root/news_site_scraper/lemontreehotels.py", line 200, in <module>
+    with pdfplumber.open(pdf_path) as pdf:
+  File "/usr/local/lib/python3.10/dist-packages/pdfplumber/pdf.py", line 101, in open
+    return cls(
+  File "/usr/local/lib/python3.10/dist-packages/pdfplumber/pdf.py", line 47, in __init__
+    self.doc = PDFDocument(PDFParser(stream), password=password or "")
+  File "/usr/local/lib/python3.10/dist-packages/pdfminer/pdfdocument.py", line 752, in __init__
+    raise PDFSyntaxError("No /Root object! - Is this really a PDF?")
+pdfminer.pdfparser.PDFSyntaxError: No /Root object! - Is this really a PDF?

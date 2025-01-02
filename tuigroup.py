@@ -82,6 +82,8 @@ if href:
     """
     date_text = date_format(driver.execute_script(js_code))
 
+    print(date_text)
+
     js_code = """
     const titleElement = document.querySelector('header.content-header h1');
     if (titleElement) {
@@ -115,7 +117,7 @@ if href:
     image_url = driver.execute_script(js_code,img_name)
     download_image(image_url,img_name)
 
-    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+    # upload_photo_to_ftp(img_name,"/public_html/storage/information/")
 
     # Prepare row data
     row_data = {
@@ -166,6 +168,7 @@ driver.quit()
 
 if date_text ==date_format(datetime.now().today()):
     # Insert the CSV data into the database
+    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
     insert_csv_data(output_file, "informations")
     append_unique_records(output_file,"combined_news_data.csv")
 

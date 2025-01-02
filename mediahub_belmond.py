@@ -89,7 +89,7 @@ with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
 
             download_image(image_url,img_name)
 
-            upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+            # upload_photo_to_ftp(img_name,"/public_html/storage/information/")
 
             # Prepare the data to save into the CSV file
             data = {
@@ -123,6 +123,7 @@ with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
 
 
 if date_text == date_format(datetime.now().today()):
+    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
     insert_csv_data(csv_file,"informations")
     append_unique_records(csv_file,"combined_news_data.csv")
 

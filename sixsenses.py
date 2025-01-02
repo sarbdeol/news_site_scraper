@@ -109,7 +109,7 @@ title = generate_title(title)
 date = date_format(title)
 img_name = generate_random_filename()
 download_image(image_url,img_name)
-upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+# upload_photo_to_ftp(img_name,"/public_html/storage/information/")
 
 data = {
     "id": 1,  # Unique ID (can be generated if needed)
@@ -146,7 +146,8 @@ print(f"Data saved to {csv_file}")
 driver.quit()
 
 
-if date==date_format(datetime.now().today()):
+if date!=date_format(datetime.now().today()):
+    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
     # Insert the CSV data into the database
     insert_csv_data(csv_file, "informations")
     append_unique_records(csv_file,"combined_news_data.csv")

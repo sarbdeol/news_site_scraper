@@ -85,6 +85,7 @@ if most_recent_href:
     # Extract title and date
     title = generate_title(result.get('title'))
     date = date_format(result.get('date'))
+    print(date)
 
     # JavaScript to get the image URL
     js_code = """
@@ -103,7 +104,7 @@ if most_recent_href:
 
     download_image(image_url,img_nam)
 
-    upload_photo_to_ftp(img_nam,"/public_html/storage/information/")
+    # upload_photo_to_ftp(img_nam,"/public_html/storage/information/")
 
     # JavaScript to get all <p> tag contents
     js_code = """
@@ -163,6 +164,7 @@ driver.quit()
 
 if date==date_format(datetime.now().today()):
     # Insert the CSV data into the database
+    upload_photo_to_ftp(img_nam,"/public_html/storage/information/")
     insert_csv_data("tfehotels_press_data.csv", "informations")
     append_unique_records("tfehotels_press_data.csv","combined_news_data.csv")
 

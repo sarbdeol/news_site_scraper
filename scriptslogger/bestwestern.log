@@ -1,0 +1,189 @@
+Traceback (most recent call last):
+  File "/root/news_site_scraper/bestwestern.py", line 173, in <module>
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, "a")))
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x5569a17fd8fa <unknown>
+#1 0x5569a130ed20 <unknown>
+#2 0x5569a135da66 <unknown>
+#3 0x5569a135dd01 <unknown>
+#4 0x5569a13a3184 <unknown>
+#5 0x5569a1381b1d <unknown>
+#6 0x5569a13a0560 <unknown>
+#7 0x5569a1381893 <unknown>
+#8 0x5569a135030d <unknown>
+#9 0x5569a135132e <unknown>
+#10 0x5569a17ca00b <unknown>
+#11 0x5569a17cdf97 <unknown>
+#12 0x5569a17b671c <unknown>
+#13 0x5569a17ceb17 <unknown>
+#14 0x5569a179b6cf <unknown>
+#15 0x5569a17ec6b8 <unknown>
+#16 0x5569a17ec880 <unknown>
+#17 0x5569a17fc776 <unknown>
+#18 0x7f40fcb4eac3 <unknown>
+
+Traceback (most recent call last):
+  File "/root/news_site_scraper/bestwestern.py", line 173, in <module>
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, "a")))
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x5570d179b8fa <unknown>
+#1 0x5570d12acd20 <unknown>
+#2 0x5570d12fba66 <unknown>
+#3 0x5570d12fbd01 <unknown>
+#4 0x5570d1341184 <unknown>
+#5 0x5570d131fb1d <unknown>
+#6 0x5570d133e560 <unknown>
+#7 0x5570d131f893 <unknown>
+#8 0x5570d12ee30d <unknown>
+#9 0x5570d12ef32e <unknown>
+#10 0x5570d176800b <unknown>
+#11 0x5570d176bf97 <unknown>
+#12 0x5570d175471c <unknown>
+#13 0x5570d176cb17 <unknown>
+#14 0x5570d17396cf <unknown>
+#15 0x5570d178a6b8 <unknown>
+#16 0x5570d178a880 <unknown>
+#17 0x5570d179a776 <unknown>
+#18 0x7f833a731ac3 <unknown>
+
+Traceback (most recent call last):
+  File "/root/news_site_scraper/bestwestern.py", line 173, in <module>
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, "a")))
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x55d22ca7b8fa <unknown>
+#1 0x55d22c58cd20 <unknown>
+#2 0x55d22c5dba66 <unknown>
+#3 0x55d22c5dbd01 <unknown>
+#4 0x55d22c621184 <unknown>
+#5 0x55d22c5ffb1d <unknown>
+#6 0x55d22c61e560 <unknown>
+#7 0x55d22c5ff893 <unknown>
+#8 0x55d22c5ce30d <unknown>
+#9 0x55d22c5cf32e <unknown>
+#10 0x55d22ca4800b <unknown>
+#11 0x55d22ca4bf97 <unknown>
+#12 0x55d22ca3471c <unknown>
+#13 0x55d22ca4cb17 <unknown>
+#14 0x55d22ca196cf <unknown>
+#15 0x55d22ca6a6b8 <unknown>
+#16 0x55d22ca6a880 <unknown>
+#17 0x55d22ca7a776 <unknown>
+#18 0x7f95fb31dac3 <unknown>
+
+Traceback (most recent call last):
+  File "/root/news_site_scraper/bestwestern.py", line 173, in <module>
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, "a")))
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x555f683e78fa <unknown>
+#1 0x555f67ef8d20 <unknown>
+#2 0x555f67f47a66 <unknown>
+#3 0x555f67f47d01 <unknown>
+#4 0x555f67f8d184 <unknown>
+#5 0x555f67f6bb1d <unknown>
+#6 0x555f67f8a560 <unknown>
+#7 0x555f67f6b893 <unknown>
+#8 0x555f67f3a30d <unknown>
+#9 0x555f67f3b32e <unknown>
+#10 0x555f683b400b <unknown>
+#11 0x555f683b7f97 <unknown>
+#12 0x555f683a071c <unknown>
+#13 0x555f683b8b17 <unknown>
+#14 0x555f683856cf <unknown>
+#15 0x555f683d66b8 <unknown>
+#16 0x555f683d6880 <unknown>
+#17 0x555f683e6776 <unknown>
+#18 0x7f3abe735ac3 <unknown>
+
+Traceback (most recent call last):
+  File "/root/news_site_scraper/bestwestern.py", line 173, in <module>
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, "a")))
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x55b5bb9e18fa <unknown>
+#1 0x55b5bb4f2d20 <unknown>
+#2 0x55b5bb541a66 <unknown>
+#3 0x55b5bb541d01 <unknown>
+#4 0x55b5bb587184 <unknown>
+#5 0x55b5bb565b1d <unknown>
+#6 0x55b5bb584560 <unknown>
+#7 0x55b5bb565893 <unknown>
+#8 0x55b5bb53430d <unknown>
+#9 0x55b5bb53532e <unknown>
+#10 0x55b5bb9ae00b <unknown>
+#11 0x55b5bb9b1f97 <unknown>
+#12 0x55b5bb99a71c <unknown>
+#13 0x55b5bb9b2b17 <unknown>
+#14 0x55b5bb97f6cf <unknown>
+#15 0x55b5bb9d06b8 <unknown>
+#16 0x55b5bb9d0880 <unknown>
+#17 0x55b5bb9e0776 <unknown>
+#18 0x7f096fbb8ac3 <unknown>
+
+Traceback (most recent call last):
+  File "/root/news_site_scraper/bestwestern.py", line 173, in <module>
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, "a")))
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x556003da88fa <unknown>
+#1 0x5560038b9d20 <unknown>
+#2 0x556003908a66 <unknown>
+#3 0x556003908d01 <unknown>
+#4 0x55600394e184 <unknown>
+#5 0x55600392cb1d <unknown>
+#6 0x55600394b560 <unknown>
+#7 0x55600392c893 <unknown>
+#8 0x5560038fb30d <unknown>
+#9 0x5560038fc32e <unknown>
+#10 0x556003d7500b <unknown>
+#11 0x556003d78f97 <unknown>
+#12 0x556003d6171c <unknown>
+#13 0x556003d79b17 <unknown>
+#14 0x556003d466cf <unknown>
+#15 0x556003d976b8 <unknown>
+#16 0x556003d97880 <unknown>
+#17 0x556003da7776 <unknown>
+#18 0x7fbaf8d03ac3 <unknown>
+
+Traceback (most recent call last):
+  File "/root/news_site_scraper/bestwestern.py", line 173, in <module>
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, "a")))
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x557ad91158fa <unknown>
+#1 0x557ad8c26d20 <unknown>
+#2 0x557ad8c75a66 <unknown>
+#3 0x557ad8c75d01 <unknown>
+#4 0x557ad8cbb184 <unknown>
+#5 0x557ad8c99b1d <unknown>
+#6 0x557ad8cb8560 <unknown>
+#7 0x557ad8c99893 <unknown>
+#8 0x557ad8c6830d <unknown>
+#9 0x557ad8c6932e <unknown>
+#10 0x557ad90e200b <unknown>
+#11 0x557ad90e5f97 <unknown>
+#12 0x557ad90ce71c <unknown>
+#13 0x557ad90e6b17 <unknown>
+#14 0x557ad90b36cf <unknown>
+#15 0x557ad91046b8 <unknown>
+#16 0x557ad9104880 <unknown>
+#17 0x557ad9114776 <unknown>
+#18 0x7f54312a0ac3 <unknown>
+

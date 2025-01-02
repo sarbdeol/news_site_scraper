@@ -236,6 +236,8 @@ script = """
 """
 date = driver.execute_script(script)
 
+print(date)
+
 # Execute JavaScript to extract the paragraphs
 script = """
     let paragraphs = document.querySelectorAll('div.generic-content-block__body.rich-text p');
@@ -259,9 +261,9 @@ base_url = "https://www.corinthia.com"  # The base URL of the website
 if not image_url.startswith("http"):
     image_url = base_url + image_url  # Convert relative URL to absolute URL
 
-# Create folder to save the image
-if not os.path.exists("corinthia_images"):
-    os.makedirs("corinthia_images")
+# # Create folder to save the image
+# if not os.path.exists("corinthia_images"):
+#     os.makedirs("corinthia_images")
 
 # Download the image and save it
 image_name = image_url.split("/")[-1].split("?")[0]  # Extract the image file name
@@ -275,7 +277,7 @@ try:
             for chunk in response.iter_content(1024):
                 file.write(chunk)
         print(f"Image saved at: {image_name}")
-        upload_photo_to_ftp(image_name,"/public_html/storage/information/")
+        # upload_photo_to_ftp(image_name,"/public_html/storage/information/")
     else:
         print(f"Failed to download image: {image_url}, Status code: {response.status_code}")
 except Exception as e:
@@ -332,6 +334,7 @@ driver.quit()
 
 if date_format(datetime.now().date())==date_format(date):
     print("Data is sending.......")
+    upload_photo_to_ftp(image_name,"/public_html/storage/information/")
     insert_csv_data(csv_filename,"informations")
     append_unique_records(csv_filename,"combined_news_data.csv")
 

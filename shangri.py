@@ -51,10 +51,10 @@ headers = [
 # Navigate to the page
 driver.get("https://www.shangri-la.com/group/media/")  # Replace with the actual URL of the page
 
-# Wait for the page to load completely before extracting content
-WebDriverWait(driver, 30).until(
-    EC.visibility_of_element_located((By.CSS_SELECTOR, '.single-media-posts-box'))
-)
+# # Wait for the page to load completely before extracting content
+# WebDriverWait(driver, 30).until(
+#     EC.visibility_of_element_located((By.CSS_SELECTOR, '.single-media-posts-box'))
+# )
 
 # JavaScript code to get the most recent href from the Learn More button
 js_code = """
@@ -98,10 +98,10 @@ if most_recent_href:
         print(f"Title: {title}")
         print(f"Date: {date}")
 
-    # Wait for the image URL to be available before extracting
-    WebDriverWait(driver, 30).until(
-        EC.visibility_of_element_located((By.CSS_SELECTOR, 'a.btn-banner-video'))
-    )
+    # # Wait for the image URL to be available before extracting
+    # WebDriverWait(driver, 30).until(
+    #     EC.visibility_of_element_located((By.CSS_SELECTOR, 'a.btn-banner-video'))
+    # )
 
     # JavaScript code to extract the image URL
     js_code = """
@@ -120,7 +120,7 @@ if most_recent_href:
         print(f"Image URL: {image_url}")
 
         download_image(image_url,img_nmae)
-        upload_photo_to_ftp(img_nmae,"/public_html/storage/information/")
+        # upload_photo_to_ftp(img_nmae,"/public_html/storage/information/")
     else:
         print("Image URL not found.")
 
@@ -184,6 +184,7 @@ driver.quit()
 
 if date==date_format(datetime.now().today()):
     # Insert the CSV data into the database
+    upload_photo_to_ftp(img_nmae,"/public_html/storage/information/")
     insert_csv_data("shangri_extracted_data.csv", "informations")
     append_unique_records("shangri_extracted_data.csv","combined_news_data.csv")
 

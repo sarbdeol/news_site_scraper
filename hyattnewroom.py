@@ -150,7 +150,7 @@ os.makedirs(images_folder, exist_ok=True)
 # Download and resize the image
 image_filename = download_and_resize_image(image_url, images_folder)
 
-upload_photo_to_ftp(image_filename,"/public_html/storage/information/")
+# upload_photo_to_ftp(image_filename,"/public_html/storage/information/")
 # If an image was successfully downloaded, update the image field in the CSV data
 if image_filename:
     csv_data["image"] = f"information/{image_filename}"
@@ -182,6 +182,7 @@ print("CSV file has been created/updated with the extracted data.")
 
 if date_format(date)==date_format(datetime.now().today()):
     # Insert the CSV data into the database
+    upload_photo_to_ftp(image_filename,"/public_html/storage/information/")
     insert_csv_data(csv_file_path,"informations")
     append_unique_records(csv_file_path,"combined_news_data.csv")
 

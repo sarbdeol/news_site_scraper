@@ -1,0 +1,266 @@
+Traceback (most recent call last):
+  File "/root/news_site_scraper/historichotels.py", line 131, in <module>
+    driver = webdriver.Chrome(options=options)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/chrome/webdriver.py", line 45, in __init__
+    super().__init__(
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/chromium/webdriver.py", line 66, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+#0 0x55c9ac55c8fa <unknown>
+#1 0x55c9ac06dd20 <unknown>
+#2 0x55c9ac0a5438 <unknown>
+#3 0x55c9ac0a0f96 <unknown>
+#4 0x55c9ac0ecd86 <unknown>
+#5 0x55c9ac0ec3d6 <unknown>
+#6 0x55c9ac0e0893 <unknown>
+#7 0x55c9ac0af30d <unknown>
+#8 0x55c9ac0b032e <unknown>
+#9 0x55c9ac52900b <unknown>
+#10 0x55c9ac52cf97 <unknown>
+#11 0x55c9ac51571c <unknown>
+#12 0x55c9ac52db17 <unknown>
+#13 0x55c9ac4fa6cf <unknown>
+#14 0x55c9ac54b6b8 <unknown>
+#15 0x55c9ac54b880 <unknown>
+#16 0x55c9ac55b776 <unknown>
+#17 0x7f19fbab8ac3 <unknown>
+
+Traceback (most recent call last):
+  File "/root/news_site_scraper/historichotels.py", line 131, in <module>
+    driver = webdriver.Chrome(options=options)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/chrome/webdriver.py", line 45, in __init__
+    super().__init__(
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/chromium/webdriver.py", line 66, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+#0 0x5584b5fe68fa <unknown>
+#1 0x5584b5af7d20 <unknown>
+#2 0x5584b5b2f438 <unknown>
+#3 0x5584b5b2af96 <unknown>
+#4 0x5584b5b76d86 <unknown>
+#5 0x5584b5b763d6 <unknown>
+#6 0x5584b5b6a893 <unknown>
+#7 0x5584b5b3930d <unknown>
+#8 0x5584b5b3a32e <unknown>
+#9 0x5584b5fb300b <unknown>
+#10 0x5584b5fb6f97 <unknown>
+#11 0x5584b5f9f71c <unknown>
+#12 0x5584b5fb7b17 <unknown>
+#13 0x5584b5f846cf <unknown>
+#14 0x5584b5fd56b8 <unknown>
+#15 0x5584b5fd5880 <unknown>
+#16 0x5584b5fe5776 <unknown>
+#17 0x7fe8a6535ac3 <unknown>
+
+Traceback (most recent call last):
+  File "/root/news_site_scraper/historichotels.py", line 131, in <module>
+    driver = webdriver.Chrome(options=options)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/chrome/webdriver.py", line 45, in __init__
+    super().__init__(
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/chromium/webdriver.py", line 66, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+#0 0x560c632878fa <unknown>
+#1 0x560c62d98d20 <unknown>
+#2 0x560c62dd0438 <unknown>
+#3 0x560c62dcbf96 <unknown>
+#4 0x560c62e17d86 <unknown>
+#5 0x560c62e173d6 <unknown>
+#6 0x560c62e0b893 <unknown>
+#7 0x560c62dda30d <unknown>
+#8 0x560c62ddb32e <unknown>
+#9 0x560c6325400b <unknown>
+#10 0x560c63257f97 <unknown>
+#11 0x560c6324071c <unknown>
+#12 0x560c63258b17 <unknown>
+#13 0x560c632256cf <unknown>
+#14 0x560c632766b8 <unknown>
+#15 0x560c63276880 <unknown>
+#16 0x560c63286776 <unknown>
+#17 0x7f4a2d1b1ac3 <unknown>
+
+Traceback (most recent call last):
+  File "/root/news_site_scraper/historichotels.py", line 131, in <module>
+    driver = webdriver.Chrome(options=options)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/chrome/webdriver.py", line 45, in __init__
+    super().__init__(
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/chromium/webdriver.py", line 66, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+#0 0x55b51167c8fa <unknown>
+#1 0x55b51118dd20 <unknown>
+#2 0x55b5111c5438 <unknown>
+#3 0x55b5111c0f96 <unknown>
+#4 0x55b51120cd86 <unknown>
+#5 0x55b51120c3d6 <unknown>
+#6 0x55b511200893 <unknown>
+#7 0x55b5111cf30d <unknown>
+#8 0x55b5111d032e <unknown>
+#9 0x55b51164900b <unknown>
+#10 0x55b51164cf97 <unknown>
+#11 0x55b51163571c <unknown>
+#12 0x55b51164db17 <unknown>
+#13 0x55b51161a6cf <unknown>
+#14 0x55b51166b6b8 <unknown>
+#15 0x55b51166b880 <unknown>
+#16 0x55b51167b776 <unknown>
+#17 0x7fa684241ac3 <unknown>
+
+Traceback (most recent call last):
+  File "/root/news_site_scraper/historichotels.py", line 131, in <module>
+    driver = webdriver.Chrome(options=options)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/chrome/webdriver.py", line 45, in __init__
+    super().__init__(
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/chromium/webdriver.py", line 66, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+#0 0x556ff19738fa <unknown>
+#1 0x556ff1484d20 <unknown>
+#2 0x556ff14bc438 <unknown>
+#3 0x556ff14b7f96 <unknown>
+#4 0x556ff1503d86 <unknown>
+#5 0x556ff15033d6 <unknown>
+#6 0x556ff14f7893 <unknown>
+#7 0x556ff14c630d <unknown>
+#8 0x556ff14c732e <unknown>
+#9 0x556ff194000b <unknown>
+#10 0x556ff1943f97 <unknown>
+#11 0x556ff192c71c <unknown>
+#12 0x556ff1944b17 <unknown>
+#13 0x556ff19116cf <unknown>
+#14 0x556ff19626b8 <unknown>
+#15 0x556ff1962880 <unknown>
+#16 0x556ff1972776 <unknown>
+#17 0x7f8998989ac3 <unknown>
+
+Traceback (most recent call last):
+  File "/root/news_site_scraper/historichotels.py", line 131, in <module>
+    driver = webdriver.Chrome(options=options)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/chrome/webdriver.py", line 45, in __init__
+    super().__init__(
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/chromium/webdriver.py", line 66, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+#0 0x55d35163a8fa <unknown>
+#1 0x55d35114bd20 <unknown>
+#2 0x55d351183438 <unknown>
+#3 0x55d35117ef96 <unknown>
+#4 0x55d3511cad86 <unknown>
+#5 0x55d3511ca3d6 <unknown>
+#6 0x55d3511be893 <unknown>
+#7 0x55d35118d30d <unknown>
+#8 0x55d35118e32e <unknown>
+#9 0x55d35160700b <unknown>
+#10 0x55d35160af97 <unknown>
+#11 0x55d3515f371c <unknown>
+#12 0x55d35160bb17 <unknown>
+#13 0x55d3515d86cf <unknown>
+#14 0x55d3516296b8 <unknown>
+#15 0x55d351629880 <unknown>
+#16 0x55d351639776 <unknown>
+#17 0x7f827a1baac3 <unknown>
+
+Traceback (most recent call last):
+  File "/root/news_site_scraper/historichotels.py", line 131, in <module>
+    driver = webdriver.Chrome(options=options)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/chrome/webdriver.py", line 45, in __init__
+    super().__init__(
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/chromium/webdriver.py", line 66, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+#0 0x562aaef5d8fa <unknown>
+#1 0x562aaea6ed20 <unknown>
+#2 0x562aaeaa6438 <unknown>
+#3 0x562aaeaa1f96 <unknown>
+#4 0x562aaeaedd86 <unknown>
+#5 0x562aaeaed3d6 <unknown>
+#6 0x562aaeae1893 <unknown>
+#7 0x562aaeab030d <unknown>
+#8 0x562aaeab132e <unknown>
+#9 0x562aaef2a00b <unknown>
+#10 0x562aaef2df97 <unknown>
+#11 0x562aaef1671c <unknown>
+#12 0x562aaef2eb17 <unknown>
+#13 0x562aaeefb6cf <unknown>
+#14 0x562aaef4c6b8 <unknown>
+#15 0x562aaef4c880 <unknown>
+#16 0x562aaef5c776 <unknown>
+#17 0x7f209cb4aac3 <unknown>
+

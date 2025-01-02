@@ -1,0 +1,94 @@
+Date not found
+Extracted Title: Access Denied
+Image not found
+['Reference #18.b41f1602.1735316404.4f2816a4', 'https://errors.edgesuite.net/18.b41f1602.1735316404.4f2816a4']
+Failed to download image: Invalid URL 'Image not found': No scheme supplied. Perhaps you meant https://Image not found?
+Connected to FTP server: hotelexplorer.net
+An error occurred: [Errno 2] No such file or directory: 'OQjo0aCVA7.jpg'
+File 'extracted_data.csv' has been removed.
+Data saved to extracted_data.csv
+--------WE DO NOT HAVE DATA FOR TODAY--------
+Date not found
+Extracted Title: Access Denied
+Image not found
+['Reference #18.5d8f1402.1735402804.205471cc', 'https://errors.edgesuite.net/18.5d8f1402.1735402804.205471cc']
+Failed to download image: Invalid URL 'Image not found': No scheme supplied. Perhaps you meant https://Image not found?
+Connected to FTP server: hotelexplorer.net
+An error occurred: [Errno 2] No such file or directory: 'S5FxlqaZLt.jpg'
+File 'extracted_data.csv' has been removed.
+Data saved to extracted_data.csv
+--------WE DO NOT HAVE DATA FOR TODAY--------
+Date not found
+Extracted Title: Access Denied
+Image not found
+['Reference #18.1c771302.1735489204.7ac2c7c2', 'https://errors.edgesuite.net/18.1c771302.1735489204.7ac2c7c2']
+Failed to download image: Invalid URL 'Image not found': No scheme supplied. Perhaps you meant https://Image not found?
+Connected to FTP server: hotelexplorer.net
+An error occurred: [Errno 2] No such file or directory: 'h5JcqnRTI2.jpg'
+File 'extracted_data.csv' has been removed.
+Data saved to extracted_data.csv
+--------WE DO NOT HAVE DATA FOR TODAY--------
+Date not found
+Extracted Title: Access Denied
+Image not found
+['Reference #18.b41f1602.1735575605.9e19b0f5', 'https://errors.edgesuite.net/18.b41f1602.1735575605.9e19b0f5']
+Failed to download image: Invalid URL 'Image not found': No scheme supplied. Perhaps you meant https://Image not found?
+File 'extracted_data.csv' has been removed.
+Data saved to extracted_data.csv
+Connected to FTP server: hotelexplorer.net
+An error occurred: [Errno 2] No such file or directory: '9mtLvYdpQu.jpg'
+Database error: 1045 (28000): Access denied for user 'root'@'135.181.138.186' (using password: NO)
+Traceback (most recent call last):
+  File "/root/news_site_scraper/sixsenses.py", line 152, in <module>
+    insert_csv_data(csv_file, "informations")
+  File "/root/news_site_scraper/insert_csv_into_sql_db.py", line 394, in insert_csv_data
+    if connection.is_connected():
+UnboundLocalError: local variable 'connection' referenced before assignment
+Date not found
+Extracted Title: Access Denied
+Image not found
+['Reference #18.a71f1602.1735662004.762477f2', 'https://errors.edgesuite.net/18.a71f1602.1735662004.762477f2']
+Failed to download image: Invalid URL 'Image not found': No scheme supplied. Perhaps you meant https://Image not found?
+File 'extracted_data.csv' has been removed.
+Data saved to extracted_data.csv
+Connected to FTP server: hotelexplorer.net
+An error occurred: [Errno 2] No such file or directory: '6dR4uguUoA.jpg'
+Database error: 1045 (28000): Access denied for user 'root'@'135.181.138.186' (using password: NO)
+Traceback (most recent call last):
+  File "/root/news_site_scraper/sixsenses.py", line 152, in <module>
+    insert_csv_data(csv_file, "informations")
+  File "/root/news_site_scraper/insert_csv_into_sql_db.py", line 394, in insert_csv_data
+    if connection.is_connected():
+UnboundLocalError: local variable 'connection' referenced before assignment
+Date not found
+Extracted Title: Access Denied
+Image not found
+['Reference #18.a71f1602.1735748404.97044396', 'https://errors.edgesuite.net/18.a71f1602.1735748404.97044396']
+Failed to download image: Invalid URL 'Image not found': No scheme supplied. Perhaps you meant https://Image not found?
+File 'extracted_data.csv' has been removed.
+Data saved to extracted_data.csv
+Connected to FTP server: hotelexplorer.net
+An error occurred: [Errno 2] No such file or directory: 'TuPVHgah3Z.jpg'
+Database error: 1045 (28000): Access denied for user 'root'@'135.181.138.186' (using password: NO)
+Traceback (most recent call last):
+  File "/root/news_site_scraper/sixsenses.py", line 152, in <module>
+    insert_csv_data(csv_file, "informations")
+  File "/root/news_site_scraper/insert_csv_into_sql_db.py", line 394, in insert_csv_data
+    if connection.is_connected():
+UnboundLocalError: local variable 'connection' referenced before assignment
+Date not found
+Extracted Title: Access Denied
+Image not found
+['Reference #18.b41f1602.1735834804.f93ad930', 'https://errors.edgesuite.net/18.b41f1602.1735834804.f93ad930']
+Failed to download image: Invalid URL 'Image not found': No scheme supplied. Perhaps you meant https://Image not found?
+File 'extracted_data.csv' has been removed.
+Data saved to extracted_data.csv
+Connected to FTP server: hotelexplorer.net
+An error occurred: [Errno 2] No such file or directory: 'Hog85uycoW.jpg'
+Database error: 1045 (28000): Access denied for user 'root'@'135.181.138.186' (using password: NO)
+Traceback (most recent call last):
+  File "/root/news_site_scraper/sixsenses.py", line 152, in <module>
+    insert_csv_data(csv_file, "informations")
+  File "/root/news_site_scraper/insert_csv_into_sql_db.py", line 394, in insert_csv_data
+    if connection.is_connected():
+UnboundLocalError: local variable 'connection' referenced before assignment

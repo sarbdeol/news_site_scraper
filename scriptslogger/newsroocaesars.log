@@ -1,0 +1,196 @@
+Date not found
+Traceback (most recent call last):
+  File "/root/news_site_scraper/newsroocaesars.py", line 169, in <module>
+    download_link_element = wait.until(
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x55d8e00708fa <unknown>
+#1 0x55d8dfb81d20 <unknown>
+#2 0x55d8dfbd0a66 <unknown>
+#3 0x55d8dfbd0d01 <unknown>
+#4 0x55d8dfc16184 <unknown>
+#5 0x55d8dfbf4b1d <unknown>
+#6 0x55d8dfc13560 <unknown>
+#7 0x55d8dfbf4893 <unknown>
+#8 0x55d8dfbc330d <unknown>
+#9 0x55d8dfbc432e <unknown>
+#10 0x55d8e003d00b <unknown>
+#11 0x55d8e0040f97 <unknown>
+#12 0x55d8e002971c <unknown>
+#13 0x55d8e0041b17 <unknown>
+#14 0x55d8e000e6cf <unknown>
+#15 0x55d8e005f6b8 <unknown>
+#16 0x55d8e005f880 <unknown>
+#17 0x55d8e006f776 <unknown>
+#18 0x7f131025cac3 <unknown>
+
+Date not found
+Traceback (most recent call last):
+  File "/root/news_site_scraper/newsroocaesars.py", line 169, in <module>
+    download_link_element = wait.until(
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x55ba99e428fa <unknown>
+#1 0x55ba99953d20 <unknown>
+#2 0x55ba999a2a66 <unknown>
+#3 0x55ba999a2d01 <unknown>
+#4 0x55ba999e8184 <unknown>
+#5 0x55ba999c6b1d <unknown>
+#6 0x55ba999e5560 <unknown>
+#7 0x55ba999c6893 <unknown>
+#8 0x55ba9999530d <unknown>
+#9 0x55ba9999632e <unknown>
+#10 0x55ba99e0f00b <unknown>
+#11 0x55ba99e12f97 <unknown>
+#12 0x55ba99dfb71c <unknown>
+#13 0x55ba99e13b17 <unknown>
+#14 0x55ba99de06cf <unknown>
+#15 0x55ba99e316b8 <unknown>
+#16 0x55ba99e31880 <unknown>
+#17 0x55ba99e41776 <unknown>
+#18 0x7f5be47b1ac3 <unknown>
+
+Date not found
+Traceback (most recent call last):
+  File "/root/news_site_scraper/newsroocaesars.py", line 169, in <module>
+    download_link_element = wait.until(
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x560f90fac8fa <unknown>
+#1 0x560f90abdd20 <unknown>
+#2 0x560f90b0ca66 <unknown>
+#3 0x560f90b0cd01 <unknown>
+#4 0x560f90b52184 <unknown>
+#5 0x560f90b30b1d <unknown>
+#6 0x560f90b4f560 <unknown>
+#7 0x560f90b30893 <unknown>
+#8 0x560f90aff30d <unknown>
+#9 0x560f90b0032e <unknown>
+#10 0x560f90f7900b <unknown>
+#11 0x560f90f7cf97 <unknown>
+#12 0x560f90f6571c <unknown>
+#13 0x560f90f7db17 <unknown>
+#14 0x560f90f4a6cf <unknown>
+#15 0x560f90f9b6b8 <unknown>
+#16 0x560f90f9b880 <unknown>
+#17 0x560f90fab776 <unknown>
+#18 0x7fd70a230ac3 <unknown>
+
+Date not found
+Traceback (most recent call last):
+  File "/root/news_site_scraper/newsroocaesars.py", line 186, in <module>
+    download_link_element = wait.until(
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x55d57e21a8fa <unknown>
+#1 0x55d57dd2bd20 <unknown>
+#2 0x55d57dd7aa66 <unknown>
+#3 0x55d57dd7ad01 <unknown>
+#4 0x55d57ddc0184 <unknown>
+#5 0x55d57dd9eb1d <unknown>
+#6 0x55d57ddbd560 <unknown>
+#7 0x55d57dd9e893 <unknown>
+#8 0x55d57dd6d30d <unknown>
+#9 0x55d57dd6e32e <unknown>
+#10 0x55d57e1e700b <unknown>
+#11 0x55d57e1eaf97 <unknown>
+#12 0x55d57e1d371c <unknown>
+#13 0x55d57e1ebb17 <unknown>
+#14 0x55d57e1b86cf <unknown>
+#15 0x55d57e2096b8 <unknown>
+#16 0x55d57e209880 <unknown>
+#17 0x55d57e219776 <unknown>
+#18 0x7f1526b76ac3 <unknown>
+
+Date not found
+Traceback (most recent call last):
+  File "/root/news_site_scraper/newsroocaesars.py", line 186, in <module>
+    download_link_element = wait.until(
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x55bb04fc08fa <unknown>
+#1 0x55bb04ad1d20 <unknown>
+#2 0x55bb04b20a66 <unknown>
+#3 0x55bb04b20d01 <unknown>
+#4 0x55bb04b66184 <unknown>
+#5 0x55bb04b44b1d <unknown>
+#6 0x55bb04b63560 <unknown>
+#7 0x55bb04b44893 <unknown>
+#8 0x55bb04b1330d <unknown>
+#9 0x55bb04b1432e <unknown>
+#10 0x55bb04f8d00b <unknown>
+#11 0x55bb04f90f97 <unknown>
+#12 0x55bb04f7971c <unknown>
+#13 0x55bb04f91b17 <unknown>
+#14 0x55bb04f5e6cf <unknown>
+#15 0x55bb04faf6b8 <unknown>
+#16 0x55bb04faf880 <unknown>
+#17 0x55bb04fbf776 <unknown>
+#18 0x7f65f2125ac3 <unknown>
+
+Date not found
+Traceback (most recent call last):
+  File "/root/news_site_scraper/newsroocaesars.py", line 186, in <module>
+    download_link_element = wait.until(
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x55c7701e18fa <unknown>
+#1 0x55c76fcf2d20 <unknown>
+#2 0x55c76fd41a66 <unknown>
+#3 0x55c76fd41d01 <unknown>
+#4 0x55c76fd87184 <unknown>
+#5 0x55c76fd65b1d <unknown>
+#6 0x55c76fd84560 <unknown>
+#7 0x55c76fd65893 <unknown>
+#8 0x55c76fd3430d <unknown>
+#9 0x55c76fd3532e <unknown>
+#10 0x55c7701ae00b <unknown>
+#11 0x55c7701b1f97 <unknown>
+#12 0x55c77019a71c <unknown>
+#13 0x55c7701b2b17 <unknown>
+#14 0x55c77017f6cf <unknown>
+#15 0x55c7701d06b8 <unknown>
+#16 0x55c7701d0880 <unknown>
+#17 0x55c7701e0776 <unknown>
+#18 0x7f0281dfeac3 <unknown>
+
+Date not found
+Traceback (most recent call last):
+  File "/root/news_site_scraper/newsroocaesars.py", line 186, in <module>
+    download_link_element = wait.until(
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x5580599028fa <unknown>
+#1 0x558059413d20 <unknown>
+#2 0x558059462a66 <unknown>
+#3 0x558059462d01 <unknown>
+#4 0x5580594a8184 <unknown>
+#5 0x558059486b1d <unknown>
+#6 0x5580594a5560 <unknown>
+#7 0x558059486893 <unknown>
+#8 0x55805945530d <unknown>
+#9 0x55805945632e <unknown>
+#10 0x5580598cf00b <unknown>
+#11 0x5580598d2f97 <unknown>
+#12 0x5580598bb71c <unknown>
+#13 0x5580598d3b17 <unknown>
+#14 0x5580598a06cf <unknown>
+#15 0x5580598f16b8 <unknown>
+#16 0x5580598f1880 <unknown>
+#17 0x558059901776 <unknown>
+#18 0x7f828ceb8ac3 <unknown>
+

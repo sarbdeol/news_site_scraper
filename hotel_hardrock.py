@@ -69,11 +69,11 @@ try:
 
     download_image(image_url,img_name)
 
-    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+    # upload_photo_to_ftp(img_name,"/public_html/storage/information/")
 
     # Extract date
     date = date_format(WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, 'span.blogPostDate'))).get_attribute("data-date-format"))
-
+    print(date)
     # Extract title text
     title_text = driver.execute_script("""
         var title = document.querySelector('.blogPostTitleHeader').textContent;
@@ -140,7 +140,8 @@ except Exception as e:
 driver.quit()
 
 if date==date_format(datetime.now().today()):
-    append_unique_records("extracted_data.csv","combined_news_data.csv")
+    # upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+    # append_unique_records("extracted_data.csv","combined_news_data.csv")
     insert_csv_data("extracted_data.csv",'informations')
 else:
     print("WE DO NOT HAVE DATA FOR TODAY")

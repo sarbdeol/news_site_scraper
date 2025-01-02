@@ -58,6 +58,7 @@ script = """
 
 # Execute the script to get the date
 date = date_format(driver.execute_script(script))
+print(date)
 
 # JavaScript to get the title from the <h1> element
 script = """
@@ -116,7 +117,6 @@ img_name = generate_random_filename()
 
 download_image(full_image_url,img_name)
 
-upload_photo_to_ftp(img_name,"/public_html/storage/information/")
 
 # Data to save in CSV format (fill the fields based on your extracted content)
 data = [
@@ -154,6 +154,7 @@ with open(csvfile, mode='w', newline='', encoding='utf-8') as file:
 print("Data saved to output.csv")
 
 if date==date_format(datetime.now().today()):
+    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
     append_unique_records(csvfile,"combined_news_data.csv")
     insert_csv_data(csvfile,"information")
 else:

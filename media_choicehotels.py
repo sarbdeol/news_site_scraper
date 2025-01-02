@@ -80,7 +80,7 @@ image_url = driver.execute_script(js_code)
 
 img_name = generate_random_filename()
 download_image(image_url,img_name)
-upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+# upload_photo_to_ftp(img_name,"/public_html/storage/information/")
 
 # Extract paragraphs text
 js_code = """
@@ -134,6 +134,7 @@ driver.quit()
 
 
 if date == date_format(datetime.now().today()):
+    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
     append_unique_records(output_file,"")
     insert_csv_data(output_file,"informations")
 

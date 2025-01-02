@@ -100,7 +100,7 @@ try:
         img_name = generate_random_filename()
         download_image(image_url,img_name)
 
-        upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+        # upload_photo_to_ftp(img_name,"/public_html/storage/information/")
 
 
         # Gather data in the required format
@@ -141,6 +141,7 @@ try:
         print("Data saved to CSV successfully!")
 
         if date ==  date_format(datetime.now().today()):
+            upload_photo_to_ftp(img_name,"/public_html/storage/information/")
             insert_csv_data(csv_file_path,'informations')
             append_unique_records(csv_file_path,"combined_news_data.csv")
         else:

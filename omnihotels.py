@@ -150,6 +150,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from insert_csv_into_sql_db import generate_news,generate_subtitle,generate_title,append_unique_records
 from insert_csv_into_sql_db import insert_csv_data
 from insert_csv_into_sql_db import date_format
+from upload_and_reference import upload_photo_to_ftp
 from insert_csv_into_sql_db import generate_random_filename
 from selenium.webdriver.chrome.options import Options
 
@@ -312,6 +313,7 @@ print(f"\n--- All News Data Saved to {output_file} ---")
 
 if date==date_format(datetime.now().today()):
     # Insert the CSV data into the database
+    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
     insert_csv_data(output_file,'informations')
     append_unique_records(output_file,"combined_news_data.csv")
 

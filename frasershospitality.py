@@ -131,7 +131,7 @@ with open('frasershospitality_data.csv', 'w', newline='', encoding='utf-8') as f
                 with open(image_path, 'wb') as img_file:
                     img_file.write(img_data)
 
-                upload_photo_to_ftp(image_path,remote_folder)
+                # upload_photo_to_ftp(image_path,remote_folder)
 
                 print(f"Image saved: {image_path}")
             else:
@@ -218,6 +218,7 @@ from insert_csv_into_sql_db import insert_csv_data
 if date_format(time.time())==date_format(news_date):
     csv_file  = pd.read_csv(r"csv_file")
     csv_file  = csv_file.head(1)
+    upload_photo_to_ftp(image_path,remote_folder)
     insert_csv_data(csv_file,'informations')
     append_unique_records(csv_file,"combined_news_data.csv")
 

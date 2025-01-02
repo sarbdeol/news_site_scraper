@@ -1,0 +1,189 @@
+Traceback (most recent call last):
+  File "/root/news_site_scraper/capellahotels.py", line 42, in <module>
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '.press-subnode')))
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x55713705f8fa <unknown>
+#1 0x557136b70d20 <unknown>
+#2 0x557136bbfa66 <unknown>
+#3 0x557136bbfd01 <unknown>
+#4 0x557136c05184 <unknown>
+#5 0x557136be3b1d <unknown>
+#6 0x557136c02560 <unknown>
+#7 0x557136be3893 <unknown>
+#8 0x557136bb230d <unknown>
+#9 0x557136bb332e <unknown>
+#10 0x55713702c00b <unknown>
+#11 0x55713702ff97 <unknown>
+#12 0x55713701871c <unknown>
+#13 0x557137030b17 <unknown>
+#14 0x557136ffd6cf <unknown>
+#15 0x55713704e6b8 <unknown>
+#16 0x55713704e880 <unknown>
+#17 0x55713705e776 <unknown>
+#18 0x7fa28f571ac3 <unknown>
+
+Traceback (most recent call last):
+  File "/root/news_site_scraper/capellahotels.py", line 42, in <module>
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '.press-subnode')))
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x55bf705c08fa <unknown>
+#1 0x55bf700d1d20 <unknown>
+#2 0x55bf70120a66 <unknown>
+#3 0x55bf70120d01 <unknown>
+#4 0x55bf70166184 <unknown>
+#5 0x55bf70144b1d <unknown>
+#6 0x55bf70163560 <unknown>
+#7 0x55bf70144893 <unknown>
+#8 0x55bf7011330d <unknown>
+#9 0x55bf7011432e <unknown>
+#10 0x55bf7058d00b <unknown>
+#11 0x55bf70590f97 <unknown>
+#12 0x55bf7057971c <unknown>
+#13 0x55bf70591b17 <unknown>
+#14 0x55bf7055e6cf <unknown>
+#15 0x55bf705af6b8 <unknown>
+#16 0x55bf705af880 <unknown>
+#17 0x55bf705bf776 <unknown>
+#18 0x7fb86b6acac3 <unknown>
+
+Traceback (most recent call last):
+  File "/root/news_site_scraper/capellahotels.py", line 42, in <module>
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '.press-subnode')))
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x563e266518fa <unknown>
+#1 0x563e26162d20 <unknown>
+#2 0x563e261b1a66 <unknown>
+#3 0x563e261b1d01 <unknown>
+#4 0x563e261f7184 <unknown>
+#5 0x563e261d5b1d <unknown>
+#6 0x563e261f4560 <unknown>
+#7 0x563e261d5893 <unknown>
+#8 0x563e261a430d <unknown>
+#9 0x563e261a532e <unknown>
+#10 0x563e2661e00b <unknown>
+#11 0x563e26621f97 <unknown>
+#12 0x563e2660a71c <unknown>
+#13 0x563e26622b17 <unknown>
+#14 0x563e265ef6cf <unknown>
+#15 0x563e266406b8 <unknown>
+#16 0x563e26640880 <unknown>
+#17 0x563e26650776 <unknown>
+#18 0x7ff8bae4bac3 <unknown>
+
+Traceback (most recent call last):
+  File "/root/news_site_scraper/capellahotels.py", line 42, in <module>
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '.press-subnode')))
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x559b690ec8fa <unknown>
+#1 0x559b68bfdd20 <unknown>
+#2 0x559b68c4ca66 <unknown>
+#3 0x559b68c4cd01 <unknown>
+#4 0x559b68c92184 <unknown>
+#5 0x559b68c70b1d <unknown>
+#6 0x559b68c8f560 <unknown>
+#7 0x559b68c70893 <unknown>
+#8 0x559b68c3f30d <unknown>
+#9 0x559b68c4032e <unknown>
+#10 0x559b690b900b <unknown>
+#11 0x559b690bcf97 <unknown>
+#12 0x559b690a571c <unknown>
+#13 0x559b690bdb17 <unknown>
+#14 0x559b6908a6cf <unknown>
+#15 0x559b690db6b8 <unknown>
+#16 0x559b690db880 <unknown>
+#17 0x559b690eb776 <unknown>
+#18 0x7f2fe02cbac3 <unknown>
+
+Traceback (most recent call last):
+  File "/root/news_site_scraper/capellahotels.py", line 42, in <module>
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '.press-subnode')))
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x55bf0f7988fa <unknown>
+#1 0x55bf0f2a9d20 <unknown>
+#2 0x55bf0f2f8a66 <unknown>
+#3 0x55bf0f2f8d01 <unknown>
+#4 0x55bf0f33e184 <unknown>
+#5 0x55bf0f31cb1d <unknown>
+#6 0x55bf0f33b560 <unknown>
+#7 0x55bf0f31c893 <unknown>
+#8 0x55bf0f2eb30d <unknown>
+#9 0x55bf0f2ec32e <unknown>
+#10 0x55bf0f76500b <unknown>
+#11 0x55bf0f768f97 <unknown>
+#12 0x55bf0f75171c <unknown>
+#13 0x55bf0f769b17 <unknown>
+#14 0x55bf0f7366cf <unknown>
+#15 0x55bf0f7876b8 <unknown>
+#16 0x55bf0f787880 <unknown>
+#17 0x55bf0f797776 <unknown>
+#18 0x7f629b56eac3 <unknown>
+
+Traceback (most recent call last):
+  File "/root/news_site_scraper/capellahotels.py", line 42, in <module>
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '.press-subnode')))
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x557e4ee568fa <unknown>
+#1 0x557e4e967d20 <unknown>
+#2 0x557e4e9b6a66 <unknown>
+#3 0x557e4e9b6d01 <unknown>
+#4 0x557e4e9fc184 <unknown>
+#5 0x557e4e9dab1d <unknown>
+#6 0x557e4e9f9560 <unknown>
+#7 0x557e4e9da893 <unknown>
+#8 0x557e4e9a930d <unknown>
+#9 0x557e4e9aa32e <unknown>
+#10 0x557e4ee2300b <unknown>
+#11 0x557e4ee26f97 <unknown>
+#12 0x557e4ee0f71c <unknown>
+#13 0x557e4ee27b17 <unknown>
+#14 0x557e4edf46cf <unknown>
+#15 0x557e4ee456b8 <unknown>
+#16 0x557e4ee45880 <unknown>
+#17 0x557e4ee55776 <unknown>
+#18 0x7fca4b35fac3 <unknown>
+
+Traceback (most recent call last):
+  File "/root/news_site_scraper/capellahotels.py", line 42, in <module>
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '.press-subnode')))
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x5654a7bea8fa <unknown>
+#1 0x5654a76fbd20 <unknown>
+#2 0x5654a774aa66 <unknown>
+#3 0x5654a774ad01 <unknown>
+#4 0x5654a7790184 <unknown>
+#5 0x5654a776eb1d <unknown>
+#6 0x5654a778d560 <unknown>
+#7 0x5654a776e893 <unknown>
+#8 0x5654a773d30d <unknown>
+#9 0x5654a773e32e <unknown>
+#10 0x5654a7bb700b <unknown>
+#11 0x5654a7bbaf97 <unknown>
+#12 0x5654a7ba371c <unknown>
+#13 0x5654a7bbbb17 <unknown>
+#14 0x5654a7b886cf <unknown>
+#15 0x5654a7bd96b8 <unknown>
+#16 0x5654a7bd9880 <unknown>
+#17 0x5654a7be9776 <unknown>
+#18 0x7fdeda0d8ac3 <unknown>
+

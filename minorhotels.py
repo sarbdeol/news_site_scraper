@@ -76,7 +76,7 @@ def scrape_news():
         img_name = generate_random_filename()
 
         download_image(image_url,img_name)
-        upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+        # upload_photo_to_ftp(img_name,"/public_html/storage/information/")
         # Wait for the article content to load
         time.sleep(2)  # Added delay to ensure page content is loaded
 
@@ -96,6 +96,8 @@ def scrape_news():
         title = generate_title(title)
 
         date  = date_format(date)
+
+        print(date)
 
         # Prepare the data for CSV
         data = [
@@ -137,6 +139,7 @@ def scrape_news():
         driver.quit()
 
     if date == date_format(datetime.now().today()):
+        upload_photo_to_ftp(img_name,"/public_html/storage/information/")
         insert_csv_data(csv_file,"informations")
         append_unique_records(csv_file,"combined_news_data.csv")
 

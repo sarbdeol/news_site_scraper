@@ -13,12 +13,11 @@ import shutil
 from insert_csv_into_sql_db import date_format
 import time
 from datetime import datetime
-
-
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from selenium import webdriver
 from dotenv import load_dotenv
+from upload_and_reference import upload_photo_to_ftp
 
 
 # Load environment variables from .env file
@@ -85,10 +84,10 @@ if not data:
 # Prepare output folder for images
 output_folder = "amarahotels_scraped_images"
 
-if os.path.exists(output_folder):
-    print(f"Folder '{output_folder}' exists. Deleting and creating a new one...")
-    shutil.rmtree(output_folder)  # Remove the folder and its contents
-os.makedirs(output_folder, exist_ok=True) 
+# if os.path.exists(output_folder):
+#     print(f"Folder '{output_folder}' exists. Deleting and creating a new one...")
+#     shutil.rmtree(output_folder)  # Remove the folder and its contents
+# os.makedirs(output_folder, exist_ok=True) 
 
 # Prepare CSV file and headers
 csv_file = "amarahotels_scraped_data.csv"
@@ -169,7 +168,7 @@ print(f"Data saved to {csv_file}. Images saved in the '{output_folder}' folder."
 # insert_into_db(csv_file)
 
 if date_format(datetime.now().today())==date:
-
+    upload_photo_to_ftp(image_name, "/public_html/storage/information/")
     insert_csv_data(csv_file,"informations")
     append_unique_records(csv_file,"combined_news_data.csv")
 

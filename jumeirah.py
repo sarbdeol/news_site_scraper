@@ -441,7 +441,7 @@ try:
     img_name=generate_random_filename()
     download_image(image_url,img_name)
 
-    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+    # upload_photo_to_ftp(img_name,"/public_html/storage/information/")
 
     # Execute JavaScript to get the text inside the <strong> tag
     # date = date_format(driver.execute_script("return document.querySelector('strong').innerText;"))
@@ -506,6 +506,7 @@ finally:
     driver.quit()
 
 if dates==date_format(datetime.now().today()):
+    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
     insert_csv_data(csv_filename,"informations")
     append_unique_records(csv_filename,"combined_news_data.csv")
 else:

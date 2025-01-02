@@ -143,25 +143,42 @@ driver.get(url)
 # Wait for the page to load
 wait = WebDriverWait(driver, 10)
 
-# JavaScript to get date, title, and image
+# # JavaScript to get date, title, and image
+# js_code = """
+# let dateElement = document.querySelector('.module_date-time');
+# let titleElement = document.querySelector('.module_headline a');
+# let imageElement = document.querySelector('img');
+
+# let date = dateElement ? dateElement.textContent.trim() : "Date not found";
+# let title = titleElement ? titleElement.textContent.trim() : "Title not found";
+# let imageUrl = imageElement ? imageElement.getAttribute('src') : "Image not found";
+
+# return { date: date, title: title, imageUrl: imageUrl };
+# """
+
+
+
+# Execute JavaScript to extract date, title, and download the PDF
 js_code = """
-let dateElement = document.querySelector('.module_date-time');
-let titleElement = document.querySelector('.module_headline a');
-let imageElement = document.querySelector('img');
+// Get the date, title, and PDF link, adding checks to avoid null references
+var dateElement = document.querySelector('.module_date-time');
+var titleElement = document.querySelector('.module_headline-link');
+var pdfLinkElement = document.querySelector('.module_related-document a');
 
-let date = dateElement ? dateElement.textContent.trim() : "Date not found";
-let title = titleElement ? titleElement.textContent.trim() : "Title not found";
-let imageUrl = imageElement ? imageElement.getAttribute('src') : "Image not found";
+// Ensure elements are found
+var date = dateElement ? dateElement.textContent.trim() : 'Date not found';
+var title = titleElement ? titleElement.textContent.trim() : 'Title not found';
+var pdfLink = pdfLinkElement ? pdfLinkElement.href : 'PDF link not found';
 
-return { date: date, title: title, imageUrl: imageUrl };
-"""
+return { date: date, title: title, pdfLink: pdfLink };
+    """
 
 # Execute the JavaScript code to get date, title, and image
 result = driver.execute_script(js_code)
 
 date = result['date']
 title = result['title']
-img_url = result['imageUrl']
+img_url = result['pdfLink']
 
 print(date)
 
@@ -189,7 +206,7 @@ img_name = generate_random_filename()
 
 download_image(img_url,img_name)
 
-upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+# upload_photo_to_ftp(img_name,"/public_html/storage/information/")
 
 # Print the extracted content
 print("PDF Content:\n", pdf_content)
@@ -197,7 +214,7 @@ print("PDF Content:\n", pdf_content)
 title =  generate_title(title)
 
 date = date_format(date)
-
+print(date)
 # Prepare data to save in CSV
 data = {
     "id": "1",  # For simplicity, id is hardcoded as "1". You can modify this for unique ids.
@@ -252,6 +269,7 @@ driver.quit()
 
 
 if date == date_format(datetime.now().today()):
+    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
     insert_csv_data(csv_filename,"informations")
     append_unique_records(csv_filename,"combined_news_data.csv")
 

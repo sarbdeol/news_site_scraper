@@ -102,7 +102,7 @@ if news_links:  # Limit to 5 links for this example
                 img_file.write(img_data)
             
             # Upload to FTP
-            upload_photo_to_ftp(image_name, "/public_html/storage/information/")
+            # upload_photo_to_ftp(image_name, "/public_html/storage/information/")
         except Exception as e:
             print(f"Failed to download image: {e}")
 
@@ -151,6 +151,7 @@ print(f"Data saved to {csv_filename} and images saved to {image_dir}/")
 
 if date_format(data.get("date", ""))==date_format(datetime.now().today()):
     # Insert the CSV data into the database
+    upload_photo_to_ftp(image_name, "/public_html/storage/information/")
     insert_csv_data(csv_filename, "informations")
     append_unique_records(csv_filename,"combined_news_data.csv")
 

@@ -1,0 +1,2758 @@
+Error processing row 1: expected str, bytes or os.PathLike object, not NoneType
+Error processing row 2: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55559b4448fa <unknown>
+#1 0x55559af55d20 <unknown>
+#2 0x55559af5bae3 <unknown>
+#3 0x55559af5dfa8 <unknown>
+#4 0x55559af5e033 <unknown>
+#5 0x55559afa46c5 <unknown>
+#6 0x55559afa4d01 <unknown>
+#7 0x55559af991b6 <unknown>
+#8 0x55559afc8b1d <unknown>
+#9 0x55559af990a8 <unknown>
+#10 0x55559afc8cbe <unknown>
+#11 0x55559afe7560 <unknown>
+#12 0x55559afc8893 <unknown>
+#13 0x55559af9730d <unknown>
+#14 0x55559af9832e <unknown>
+#15 0x55559b41100b <unknown>
+#16 0x55559b414f97 <unknown>
+#17 0x55559b3fd71c <unknown>
+#18 0x55559b415b17 <unknown>
+#19 0x55559b3e26cf <unknown>
+#20 0x55559b4336b8 <unknown>
+#21 0x55559b433880 <unknown>
+#22 0x55559b443776 <unknown>
+#23 0x7f8b1e256ac3 <unknown>
+
+Error processing row 3: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55559b4448fa <unknown>
+#1 0x55559af55d20 <unknown>
+#2 0x55559af5bae3 <unknown>
+#3 0x55559af5dfa8 <unknown>
+#4 0x55559af5e033 <unknown>
+#5 0x55559afa46c5 <unknown>
+#6 0x55559afa4d01 <unknown>
+#7 0x55559af991b6 <unknown>
+#8 0x55559afc8b1d <unknown>
+#9 0x55559af990a8 <unknown>
+#10 0x55559afc8cbe <unknown>
+#11 0x55559afe7560 <unknown>
+#12 0x55559afc8893 <unknown>
+#13 0x55559af9730d <unknown>
+#14 0x55559af9832e <unknown>
+#15 0x55559b41100b <unknown>
+#16 0x55559b414f97 <unknown>
+#17 0x55559b3fd71c <unknown>
+#18 0x55559b415b17 <unknown>
+#19 0x55559b3e26cf <unknown>
+#20 0x55559b4336b8 <unknown>
+#21 0x55559b433880 <unknown>
+#22 0x55559b443776 <unknown>
+#23 0x7f8b1e256ac3 <unknown>
+
+Error processing row 4: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55559b4448fa <unknown>
+#1 0x55559af55d20 <unknown>
+#2 0x55559af5bae3 <unknown>
+#3 0x55559af5dfa8 <unknown>
+#4 0x55559af5e033 <unknown>
+#5 0x55559afa46c5 <unknown>
+#6 0x55559afa4d01 <unknown>
+#7 0x55559af991b6 <unknown>
+#8 0x55559afc8b1d <unknown>
+#9 0x55559af990a8 <unknown>
+#10 0x55559afc8cbe <unknown>
+#11 0x55559afe7560 <unknown>
+#12 0x55559afc8893 <unknown>
+#13 0x55559af9730d <unknown>
+#14 0x55559af9832e <unknown>
+#15 0x55559b41100b <unknown>
+#16 0x55559b414f97 <unknown>
+#17 0x55559b3fd71c <unknown>
+#18 0x55559b415b17 <unknown>
+#19 0x55559b3e26cf <unknown>
+#20 0x55559b4336b8 <unknown>
+#21 0x55559b433880 <unknown>
+#22 0x55559b443776 <unknown>
+#23 0x7f8b1e256ac3 <unknown>
+
+Error processing row 5: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55559b4448fa <unknown>
+#1 0x55559af55d20 <unknown>
+#2 0x55559af5bae3 <unknown>
+#3 0x55559af5dfa8 <unknown>
+#4 0x55559af5e033 <unknown>
+#5 0x55559afa46c5 <unknown>
+#6 0x55559afa4d01 <unknown>
+#7 0x55559af991b6 <unknown>
+#8 0x55559afc8b1d <unknown>
+#9 0x55559af990a8 <unknown>
+#10 0x55559afc8cbe <unknown>
+#11 0x55559afe7560 <unknown>
+#12 0x55559afc8893 <unknown>
+#13 0x55559af9730d <unknown>
+#14 0x55559af9832e <unknown>
+#15 0x55559b41100b <unknown>
+#16 0x55559b414f97 <unknown>
+#17 0x55559b3fd71c <unknown>
+#18 0x55559b415b17 <unknown>
+#19 0x55559b3e26cf <unknown>
+#20 0x55559b4336b8 <unknown>
+#21 0x55559b433880 <unknown>
+#22 0x55559b443776 <unknown>
+#23 0x7f8b1e256ac3 <unknown>
+
+Error processing row 6: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55559b4448fa <unknown>
+#1 0x55559af55d20 <unknown>
+#2 0x55559af5bae3 <unknown>
+#3 0x55559af5dfa8 <unknown>
+#4 0x55559af5e033 <unknown>
+#5 0x55559afa46c5 <unknown>
+#6 0x55559afa4d01 <unknown>
+#7 0x55559af991b6 <unknown>
+#8 0x55559afc8b1d <unknown>
+#9 0x55559af990a8 <unknown>
+#10 0x55559afc8cbe <unknown>
+#11 0x55559afe7560 <unknown>
+#12 0x55559afc8893 <unknown>
+#13 0x55559af9730d <unknown>
+#14 0x55559af9832e <unknown>
+#15 0x55559b41100b <unknown>
+#16 0x55559b414f97 <unknown>
+#17 0x55559b3fd71c <unknown>
+#18 0x55559b415b17 <unknown>
+#19 0x55559b3e26cf <unknown>
+#20 0x55559b4336b8 <unknown>
+#21 0x55559b433880 <unknown>
+#22 0x55559b443776 <unknown>
+#23 0x7f8b1e256ac3 <unknown>
+
+Error processing row 7: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55559b4448fa <unknown>
+#1 0x55559af55d20 <unknown>
+#2 0x55559af5bae3 <unknown>
+#3 0x55559af5dfa8 <unknown>
+#4 0x55559af5e033 <unknown>
+#5 0x55559afa46c5 <unknown>
+#6 0x55559afa4d01 <unknown>
+#7 0x55559af991b6 <unknown>
+#8 0x55559afc8b1d <unknown>
+#9 0x55559af990a8 <unknown>
+#10 0x55559afc8cbe <unknown>
+#11 0x55559afe7560 <unknown>
+#12 0x55559afc8893 <unknown>
+#13 0x55559af9730d <unknown>
+#14 0x55559af9832e <unknown>
+#15 0x55559b41100b <unknown>
+#16 0x55559b414f97 <unknown>
+#17 0x55559b3fd71c <unknown>
+#18 0x55559b415b17 <unknown>
+#19 0x55559b3e26cf <unknown>
+#20 0x55559b4336b8 <unknown>
+#21 0x55559b433880 <unknown>
+#22 0x55559b443776 <unknown>
+#23 0x7f8b1e256ac3 <unknown>
+
+Error processing row 8: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55559b4448fa <unknown>
+#1 0x55559af55d20 <unknown>
+#2 0x55559af5bae3 <unknown>
+#3 0x55559af5dfa8 <unknown>
+#4 0x55559af5e033 <unknown>
+#5 0x55559afa46c5 <unknown>
+#6 0x55559afa4d01 <unknown>
+#7 0x55559af991b6 <unknown>
+#8 0x55559afc8b1d <unknown>
+#9 0x55559af990a8 <unknown>
+#10 0x55559afc8cbe <unknown>
+#11 0x55559afe7560 <unknown>
+#12 0x55559afc8893 <unknown>
+#13 0x55559af9730d <unknown>
+#14 0x55559af9832e <unknown>
+#15 0x55559b41100b <unknown>
+#16 0x55559b414f97 <unknown>
+#17 0x55559b3fd71c <unknown>
+#18 0x55559b415b17 <unknown>
+#19 0x55559b3e26cf <unknown>
+#20 0x55559b4336b8 <unknown>
+#21 0x55559b433880 <unknown>
+#22 0x55559b443776 <unknown>
+#23 0x7f8b1e256ac3 <unknown>
+
+Error processing row 9: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55559b4448fa <unknown>
+#1 0x55559af55d20 <unknown>
+#2 0x55559af5bae3 <unknown>
+#3 0x55559af5dfa8 <unknown>
+#4 0x55559af5e033 <unknown>
+#5 0x55559afa46c5 <unknown>
+#6 0x55559afa4d01 <unknown>
+#7 0x55559af991b6 <unknown>
+#8 0x55559afc8b1d <unknown>
+#9 0x55559af990a8 <unknown>
+#10 0x55559afc8cbe <unknown>
+#11 0x55559afe7560 <unknown>
+#12 0x55559afc8893 <unknown>
+#13 0x55559af9730d <unknown>
+#14 0x55559af9832e <unknown>
+#15 0x55559b41100b <unknown>
+#16 0x55559b414f97 <unknown>
+#17 0x55559b3fd71c <unknown>
+#18 0x55559b415b17 <unknown>
+#19 0x55559b3e26cf <unknown>
+#20 0x55559b4336b8 <unknown>
+#21 0x55559b433880 <unknown>
+#22 0x55559b443776 <unknown>
+#23 0x7f8b1e256ac3 <unknown>
+
+Error processing row 10: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55559b4448fa <unknown>
+#1 0x55559af55d20 <unknown>
+#2 0x55559af5bae3 <unknown>
+#3 0x55559af5dfa8 <unknown>
+#4 0x55559af5e033 <unknown>
+#5 0x55559afa46c5 <unknown>
+#6 0x55559afa4d01 <unknown>
+#7 0x55559af991b6 <unknown>
+#8 0x55559afc8b1d <unknown>
+#9 0x55559af990a8 <unknown>
+#10 0x55559afc8cbe <unknown>
+#11 0x55559afe7560 <unknown>
+#12 0x55559afc8893 <unknown>
+#13 0x55559af9730d <unknown>
+#14 0x55559af9832e <unknown>
+#15 0x55559b41100b <unknown>
+#16 0x55559b414f97 <unknown>
+#17 0x55559b3fd71c <unknown>
+#18 0x55559b415b17 <unknown>
+#19 0x55559b3e26cf <unknown>
+#20 0x55559b4336b8 <unknown>
+#21 0x55559b433880 <unknown>
+#22 0x55559b443776 <unknown>
+#23 0x7f8b1e256ac3 <unknown>
+
+Error processing row 11: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55559b4448fa <unknown>
+#1 0x55559af55d20 <unknown>
+#2 0x55559af5bae3 <unknown>
+#3 0x55559af5dfa8 <unknown>
+#4 0x55559af5e033 <unknown>
+#5 0x55559afa46c5 <unknown>
+#6 0x55559afa4d01 <unknown>
+#7 0x55559af991b6 <unknown>
+#8 0x55559afc8b1d <unknown>
+#9 0x55559af990a8 <unknown>
+#10 0x55559afc8cbe <unknown>
+#11 0x55559afe7560 <unknown>
+#12 0x55559afc8893 <unknown>
+#13 0x55559af9730d <unknown>
+#14 0x55559af9832e <unknown>
+#15 0x55559b41100b <unknown>
+#16 0x55559b414f97 <unknown>
+#17 0x55559b3fd71c <unknown>
+#18 0x55559b415b17 <unknown>
+#19 0x55559b3e26cf <unknown>
+#20 0x55559b4336b8 <unknown>
+#21 0x55559b433880 <unknown>
+#22 0x55559b443776 <unknown>
+#23 0x7f8b1e256ac3 <unknown>
+
+Error processing row 12: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55559b4448fa <unknown>
+#1 0x55559af55d20 <unknown>
+#2 0x55559af5bae3 <unknown>
+#3 0x55559af5dfa8 <unknown>
+#4 0x55559af5e033 <unknown>
+#5 0x55559afa46c5 <unknown>
+#6 0x55559afa4d01 <unknown>
+#7 0x55559af991b6 <unknown>
+#8 0x55559afc8b1d <unknown>
+#9 0x55559af990a8 <unknown>
+#10 0x55559afc8cbe <unknown>
+#11 0x55559afe7560 <unknown>
+#12 0x55559afc8893 <unknown>
+#13 0x55559af9730d <unknown>
+#14 0x55559af9832e <unknown>
+#15 0x55559b41100b <unknown>
+#16 0x55559b414f97 <unknown>
+#17 0x55559b3fd71c <unknown>
+#18 0x55559b415b17 <unknown>
+#19 0x55559b3e26cf <unknown>
+#20 0x55559b4336b8 <unknown>
+#21 0x55559b433880 <unknown>
+#22 0x55559b443776 <unknown>
+#23 0x7f8b1e256ac3 <unknown>
+
+Error processing row 13: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55559b4448fa <unknown>
+#1 0x55559af55d20 <unknown>
+#2 0x55559af5bae3 <unknown>
+#3 0x55559af5dfa8 <unknown>
+#4 0x55559af5e033 <unknown>
+#5 0x55559afa46c5 <unknown>
+#6 0x55559afa4d01 <unknown>
+#7 0x55559af991b6 <unknown>
+#8 0x55559afc8b1d <unknown>
+#9 0x55559af990a8 <unknown>
+#10 0x55559afc8cbe <unknown>
+#11 0x55559afe7560 <unknown>
+#12 0x55559afc8893 <unknown>
+#13 0x55559af9730d <unknown>
+#14 0x55559af9832e <unknown>
+#15 0x55559b41100b <unknown>
+#16 0x55559b414f97 <unknown>
+#17 0x55559b3fd71c <unknown>
+#18 0x55559b415b17 <unknown>
+#19 0x55559b3e26cf <unknown>
+#20 0x55559b4336b8 <unknown>
+#21 0x55559b433880 <unknown>
+#22 0x55559b443776 <unknown>
+#23 0x7f8b1e256ac3 <unknown>
+
+Error processing row 14: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55559b4448fa <unknown>
+#1 0x55559af55d20 <unknown>
+#2 0x55559af5bae3 <unknown>
+#3 0x55559af5dfa8 <unknown>
+#4 0x55559af5e033 <unknown>
+#5 0x55559afa46c5 <unknown>
+#6 0x55559afa4d01 <unknown>
+#7 0x55559af991b6 <unknown>
+#8 0x55559afc8b1d <unknown>
+#9 0x55559af990a8 <unknown>
+#10 0x55559afc8cbe <unknown>
+#11 0x55559afe7560 <unknown>
+#12 0x55559afc8893 <unknown>
+#13 0x55559af9730d <unknown>
+#14 0x55559af9832e <unknown>
+#15 0x55559b41100b <unknown>
+#16 0x55559b414f97 <unknown>
+#17 0x55559b3fd71c <unknown>
+#18 0x55559b415b17 <unknown>
+#19 0x55559b3e26cf <unknown>
+#20 0x55559b4336b8 <unknown>
+#21 0x55559b433880 <unknown>
+#22 0x55559b443776 <unknown>
+#23 0x7f8b1e256ac3 <unknown>
+
+Error processing row 15: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55559b4448fa <unknown>
+#1 0x55559af55d20 <unknown>
+#2 0x55559af5bae3 <unknown>
+#3 0x55559af5dfa8 <unknown>
+#4 0x55559af5e033 <unknown>
+#5 0x55559afa46c5 <unknown>
+#6 0x55559afa4d01 <unknown>
+#7 0x55559af991b6 <unknown>
+#8 0x55559afc8b1d <unknown>
+#9 0x55559af990a8 <unknown>
+#10 0x55559afc8cbe <unknown>
+#11 0x55559afe7560 <unknown>
+#12 0x55559afc8893 <unknown>
+#13 0x55559af9730d <unknown>
+#14 0x55559af9832e <unknown>
+#15 0x55559b41100b <unknown>
+#16 0x55559b414f97 <unknown>
+#17 0x55559b3fd71c <unknown>
+#18 0x55559b415b17 <unknown>
+#19 0x55559b3e26cf <unknown>
+#20 0x55559b4336b8 <unknown>
+#21 0x55559b433880 <unknown>
+#22 0x55559b443776 <unknown>
+#23 0x7f8b1e256ac3 <unknown>
+
+--------WE DO NOT HAVE DATA FOR TODAY--------
+Error processing row 1: expected str, bytes or os.PathLike object, not NoneType
+Error processing row 2: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5595bd3e48fa <unknown>
+#1 0x5595bcef5d20 <unknown>
+#2 0x5595bcefbae3 <unknown>
+#3 0x5595bcefdfa8 <unknown>
+#4 0x5595bcefe033 <unknown>
+#5 0x5595bcf446c5 <unknown>
+#6 0x5595bcf44d01 <unknown>
+#7 0x5595bcf391b6 <unknown>
+#8 0x5595bcf68b1d <unknown>
+#9 0x5595bcf390a8 <unknown>
+#10 0x5595bcf68cbe <unknown>
+#11 0x5595bcf87560 <unknown>
+#12 0x5595bcf68893 <unknown>
+#13 0x5595bcf3730d <unknown>
+#14 0x5595bcf3832e <unknown>
+#15 0x5595bd3b100b <unknown>
+#16 0x5595bd3b4f97 <unknown>
+#17 0x5595bd39d71c <unknown>
+#18 0x5595bd3b5b17 <unknown>
+#19 0x5595bd3826cf <unknown>
+#20 0x5595bd3d36b8 <unknown>
+#21 0x5595bd3d3880 <unknown>
+#22 0x5595bd3e3776 <unknown>
+#23 0x7f3e30f9bac3 <unknown>
+
+Error processing row 3: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5595bd3e48fa <unknown>
+#1 0x5595bcef5d20 <unknown>
+#2 0x5595bcefbae3 <unknown>
+#3 0x5595bcefdfa8 <unknown>
+#4 0x5595bcefe033 <unknown>
+#5 0x5595bcf446c5 <unknown>
+#6 0x5595bcf44d01 <unknown>
+#7 0x5595bcf391b6 <unknown>
+#8 0x5595bcf68b1d <unknown>
+#9 0x5595bcf390a8 <unknown>
+#10 0x5595bcf68cbe <unknown>
+#11 0x5595bcf87560 <unknown>
+#12 0x5595bcf68893 <unknown>
+#13 0x5595bcf3730d <unknown>
+#14 0x5595bcf3832e <unknown>
+#15 0x5595bd3b100b <unknown>
+#16 0x5595bd3b4f97 <unknown>
+#17 0x5595bd39d71c <unknown>
+#18 0x5595bd3b5b17 <unknown>
+#19 0x5595bd3826cf <unknown>
+#20 0x5595bd3d36b8 <unknown>
+#21 0x5595bd3d3880 <unknown>
+#22 0x5595bd3e3776 <unknown>
+#23 0x7f3e30f9bac3 <unknown>
+
+Error processing row 4: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5595bd3e48fa <unknown>
+#1 0x5595bcef5d20 <unknown>
+#2 0x5595bcefbae3 <unknown>
+#3 0x5595bcefdfa8 <unknown>
+#4 0x5595bcefe033 <unknown>
+#5 0x5595bcf446c5 <unknown>
+#6 0x5595bcf44d01 <unknown>
+#7 0x5595bcf391b6 <unknown>
+#8 0x5595bcf68b1d <unknown>
+#9 0x5595bcf390a8 <unknown>
+#10 0x5595bcf68cbe <unknown>
+#11 0x5595bcf87560 <unknown>
+#12 0x5595bcf68893 <unknown>
+#13 0x5595bcf3730d <unknown>
+#14 0x5595bcf3832e <unknown>
+#15 0x5595bd3b100b <unknown>
+#16 0x5595bd3b4f97 <unknown>
+#17 0x5595bd39d71c <unknown>
+#18 0x5595bd3b5b17 <unknown>
+#19 0x5595bd3826cf <unknown>
+#20 0x5595bd3d36b8 <unknown>
+#21 0x5595bd3d3880 <unknown>
+#22 0x5595bd3e3776 <unknown>
+#23 0x7f3e30f9bac3 <unknown>
+
+Error processing row 5: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5595bd3e48fa <unknown>
+#1 0x5595bcef5d20 <unknown>
+#2 0x5595bcefbae3 <unknown>
+#3 0x5595bcefdfa8 <unknown>
+#4 0x5595bcefe033 <unknown>
+#5 0x5595bcf446c5 <unknown>
+#6 0x5595bcf44d01 <unknown>
+#7 0x5595bcf391b6 <unknown>
+#8 0x5595bcf68b1d <unknown>
+#9 0x5595bcf390a8 <unknown>
+#10 0x5595bcf68cbe <unknown>
+#11 0x5595bcf87560 <unknown>
+#12 0x5595bcf68893 <unknown>
+#13 0x5595bcf3730d <unknown>
+#14 0x5595bcf3832e <unknown>
+#15 0x5595bd3b100b <unknown>
+#16 0x5595bd3b4f97 <unknown>
+#17 0x5595bd39d71c <unknown>
+#18 0x5595bd3b5b17 <unknown>
+#19 0x5595bd3826cf <unknown>
+#20 0x5595bd3d36b8 <unknown>
+#21 0x5595bd3d3880 <unknown>
+#22 0x5595bd3e3776 <unknown>
+#23 0x7f3e30f9bac3 <unknown>
+
+Error processing row 6: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5595bd3e48fa <unknown>
+#1 0x5595bcef5d20 <unknown>
+#2 0x5595bcefbae3 <unknown>
+#3 0x5595bcefdfa8 <unknown>
+#4 0x5595bcefe033 <unknown>
+#5 0x5595bcf446c5 <unknown>
+#6 0x5595bcf44d01 <unknown>
+#7 0x5595bcf391b6 <unknown>
+#8 0x5595bcf68b1d <unknown>
+#9 0x5595bcf390a8 <unknown>
+#10 0x5595bcf68cbe <unknown>
+#11 0x5595bcf87560 <unknown>
+#12 0x5595bcf68893 <unknown>
+#13 0x5595bcf3730d <unknown>
+#14 0x5595bcf3832e <unknown>
+#15 0x5595bd3b100b <unknown>
+#16 0x5595bd3b4f97 <unknown>
+#17 0x5595bd39d71c <unknown>
+#18 0x5595bd3b5b17 <unknown>
+#19 0x5595bd3826cf <unknown>
+#20 0x5595bd3d36b8 <unknown>
+#21 0x5595bd3d3880 <unknown>
+#22 0x5595bd3e3776 <unknown>
+#23 0x7f3e30f9bac3 <unknown>
+
+Error processing row 7: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5595bd3e48fa <unknown>
+#1 0x5595bcef5d20 <unknown>
+#2 0x5595bcefbae3 <unknown>
+#3 0x5595bcefdfa8 <unknown>
+#4 0x5595bcefe033 <unknown>
+#5 0x5595bcf446c5 <unknown>
+#6 0x5595bcf44d01 <unknown>
+#7 0x5595bcf391b6 <unknown>
+#8 0x5595bcf68b1d <unknown>
+#9 0x5595bcf390a8 <unknown>
+#10 0x5595bcf68cbe <unknown>
+#11 0x5595bcf87560 <unknown>
+#12 0x5595bcf68893 <unknown>
+#13 0x5595bcf3730d <unknown>
+#14 0x5595bcf3832e <unknown>
+#15 0x5595bd3b100b <unknown>
+#16 0x5595bd3b4f97 <unknown>
+#17 0x5595bd39d71c <unknown>
+#18 0x5595bd3b5b17 <unknown>
+#19 0x5595bd3826cf <unknown>
+#20 0x5595bd3d36b8 <unknown>
+#21 0x5595bd3d3880 <unknown>
+#22 0x5595bd3e3776 <unknown>
+#23 0x7f3e30f9bac3 <unknown>
+
+Error processing row 8: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5595bd3e48fa <unknown>
+#1 0x5595bcef5d20 <unknown>
+#2 0x5595bcefbae3 <unknown>
+#3 0x5595bcefdfa8 <unknown>
+#4 0x5595bcefe033 <unknown>
+#5 0x5595bcf446c5 <unknown>
+#6 0x5595bcf44d01 <unknown>
+#7 0x5595bcf391b6 <unknown>
+#8 0x5595bcf68b1d <unknown>
+#9 0x5595bcf390a8 <unknown>
+#10 0x5595bcf68cbe <unknown>
+#11 0x5595bcf87560 <unknown>
+#12 0x5595bcf68893 <unknown>
+#13 0x5595bcf3730d <unknown>
+#14 0x5595bcf3832e <unknown>
+#15 0x5595bd3b100b <unknown>
+#16 0x5595bd3b4f97 <unknown>
+#17 0x5595bd39d71c <unknown>
+#18 0x5595bd3b5b17 <unknown>
+#19 0x5595bd3826cf <unknown>
+#20 0x5595bd3d36b8 <unknown>
+#21 0x5595bd3d3880 <unknown>
+#22 0x5595bd3e3776 <unknown>
+#23 0x7f3e30f9bac3 <unknown>
+
+Error processing row 9: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5595bd3e48fa <unknown>
+#1 0x5595bcef5d20 <unknown>
+#2 0x5595bcefbae3 <unknown>
+#3 0x5595bcefdfa8 <unknown>
+#4 0x5595bcefe033 <unknown>
+#5 0x5595bcf446c5 <unknown>
+#6 0x5595bcf44d01 <unknown>
+#7 0x5595bcf391b6 <unknown>
+#8 0x5595bcf68b1d <unknown>
+#9 0x5595bcf390a8 <unknown>
+#10 0x5595bcf68cbe <unknown>
+#11 0x5595bcf87560 <unknown>
+#12 0x5595bcf68893 <unknown>
+#13 0x5595bcf3730d <unknown>
+#14 0x5595bcf3832e <unknown>
+#15 0x5595bd3b100b <unknown>
+#16 0x5595bd3b4f97 <unknown>
+#17 0x5595bd39d71c <unknown>
+#18 0x5595bd3b5b17 <unknown>
+#19 0x5595bd3826cf <unknown>
+#20 0x5595bd3d36b8 <unknown>
+#21 0x5595bd3d3880 <unknown>
+#22 0x5595bd3e3776 <unknown>
+#23 0x7f3e30f9bac3 <unknown>
+
+Error processing row 10: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5595bd3e48fa <unknown>
+#1 0x5595bcef5d20 <unknown>
+#2 0x5595bcefbae3 <unknown>
+#3 0x5595bcefdfa8 <unknown>
+#4 0x5595bcefe033 <unknown>
+#5 0x5595bcf446c5 <unknown>
+#6 0x5595bcf44d01 <unknown>
+#7 0x5595bcf391b6 <unknown>
+#8 0x5595bcf68b1d <unknown>
+#9 0x5595bcf390a8 <unknown>
+#10 0x5595bcf68cbe <unknown>
+#11 0x5595bcf87560 <unknown>
+#12 0x5595bcf68893 <unknown>
+#13 0x5595bcf3730d <unknown>
+#14 0x5595bcf3832e <unknown>
+#15 0x5595bd3b100b <unknown>
+#16 0x5595bd3b4f97 <unknown>
+#17 0x5595bd39d71c <unknown>
+#18 0x5595bd3b5b17 <unknown>
+#19 0x5595bd3826cf <unknown>
+#20 0x5595bd3d36b8 <unknown>
+#21 0x5595bd3d3880 <unknown>
+#22 0x5595bd3e3776 <unknown>
+#23 0x7f3e30f9bac3 <unknown>
+
+Error processing row 11: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5595bd3e48fa <unknown>
+#1 0x5595bcef5d20 <unknown>
+#2 0x5595bcefbae3 <unknown>
+#3 0x5595bcefdfa8 <unknown>
+#4 0x5595bcefe033 <unknown>
+#5 0x5595bcf446c5 <unknown>
+#6 0x5595bcf44d01 <unknown>
+#7 0x5595bcf391b6 <unknown>
+#8 0x5595bcf68b1d <unknown>
+#9 0x5595bcf390a8 <unknown>
+#10 0x5595bcf68cbe <unknown>
+#11 0x5595bcf87560 <unknown>
+#12 0x5595bcf68893 <unknown>
+#13 0x5595bcf3730d <unknown>
+#14 0x5595bcf3832e <unknown>
+#15 0x5595bd3b100b <unknown>
+#16 0x5595bd3b4f97 <unknown>
+#17 0x5595bd39d71c <unknown>
+#18 0x5595bd3b5b17 <unknown>
+#19 0x5595bd3826cf <unknown>
+#20 0x5595bd3d36b8 <unknown>
+#21 0x5595bd3d3880 <unknown>
+#22 0x5595bd3e3776 <unknown>
+#23 0x7f3e30f9bac3 <unknown>
+
+Error processing row 12: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5595bd3e48fa <unknown>
+#1 0x5595bcef5d20 <unknown>
+#2 0x5595bcefbae3 <unknown>
+#3 0x5595bcefdfa8 <unknown>
+#4 0x5595bcefe033 <unknown>
+#5 0x5595bcf446c5 <unknown>
+#6 0x5595bcf44d01 <unknown>
+#7 0x5595bcf391b6 <unknown>
+#8 0x5595bcf68b1d <unknown>
+#9 0x5595bcf390a8 <unknown>
+#10 0x5595bcf68cbe <unknown>
+#11 0x5595bcf87560 <unknown>
+#12 0x5595bcf68893 <unknown>
+#13 0x5595bcf3730d <unknown>
+#14 0x5595bcf3832e <unknown>
+#15 0x5595bd3b100b <unknown>
+#16 0x5595bd3b4f97 <unknown>
+#17 0x5595bd39d71c <unknown>
+#18 0x5595bd3b5b17 <unknown>
+#19 0x5595bd3826cf <unknown>
+#20 0x5595bd3d36b8 <unknown>
+#21 0x5595bd3d3880 <unknown>
+#22 0x5595bd3e3776 <unknown>
+#23 0x7f3e30f9bac3 <unknown>
+
+Error processing row 13: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5595bd3e48fa <unknown>
+#1 0x5595bcef5d20 <unknown>
+#2 0x5595bcefbae3 <unknown>
+#3 0x5595bcefdfa8 <unknown>
+#4 0x5595bcefe033 <unknown>
+#5 0x5595bcf446c5 <unknown>
+#6 0x5595bcf44d01 <unknown>
+#7 0x5595bcf391b6 <unknown>
+#8 0x5595bcf68b1d <unknown>
+#9 0x5595bcf390a8 <unknown>
+#10 0x5595bcf68cbe <unknown>
+#11 0x5595bcf87560 <unknown>
+#12 0x5595bcf68893 <unknown>
+#13 0x5595bcf3730d <unknown>
+#14 0x5595bcf3832e <unknown>
+#15 0x5595bd3b100b <unknown>
+#16 0x5595bd3b4f97 <unknown>
+#17 0x5595bd39d71c <unknown>
+#18 0x5595bd3b5b17 <unknown>
+#19 0x5595bd3826cf <unknown>
+#20 0x5595bd3d36b8 <unknown>
+#21 0x5595bd3d3880 <unknown>
+#22 0x5595bd3e3776 <unknown>
+#23 0x7f3e30f9bac3 <unknown>
+
+Error processing row 14: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5595bd3e48fa <unknown>
+#1 0x5595bcef5d20 <unknown>
+#2 0x5595bcefbae3 <unknown>
+#3 0x5595bcefdfa8 <unknown>
+#4 0x5595bcefe033 <unknown>
+#5 0x5595bcf446c5 <unknown>
+#6 0x5595bcf44d01 <unknown>
+#7 0x5595bcf391b6 <unknown>
+#8 0x5595bcf68b1d <unknown>
+#9 0x5595bcf390a8 <unknown>
+#10 0x5595bcf68cbe <unknown>
+#11 0x5595bcf87560 <unknown>
+#12 0x5595bcf68893 <unknown>
+#13 0x5595bcf3730d <unknown>
+#14 0x5595bcf3832e <unknown>
+#15 0x5595bd3b100b <unknown>
+#16 0x5595bd3b4f97 <unknown>
+#17 0x5595bd39d71c <unknown>
+#18 0x5595bd3b5b17 <unknown>
+#19 0x5595bd3826cf <unknown>
+#20 0x5595bd3d36b8 <unknown>
+#21 0x5595bd3d3880 <unknown>
+#22 0x5595bd3e3776 <unknown>
+#23 0x7f3e30f9bac3 <unknown>
+
+Error processing row 15: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5595bd3e48fa <unknown>
+#1 0x5595bcef5d20 <unknown>
+#2 0x5595bcefbae3 <unknown>
+#3 0x5595bcefdfa8 <unknown>
+#4 0x5595bcefe033 <unknown>
+#5 0x5595bcf446c5 <unknown>
+#6 0x5595bcf44d01 <unknown>
+#7 0x5595bcf391b6 <unknown>
+#8 0x5595bcf68b1d <unknown>
+#9 0x5595bcf390a8 <unknown>
+#10 0x5595bcf68cbe <unknown>
+#11 0x5595bcf87560 <unknown>
+#12 0x5595bcf68893 <unknown>
+#13 0x5595bcf3730d <unknown>
+#14 0x5595bcf3832e <unknown>
+#15 0x5595bd3b100b <unknown>
+#16 0x5595bd3b4f97 <unknown>
+#17 0x5595bd39d71c <unknown>
+#18 0x5595bd3b5b17 <unknown>
+#19 0x5595bd3826cf <unknown>
+#20 0x5595bd3d36b8 <unknown>
+#21 0x5595bd3d3880 <unknown>
+#22 0x5595bd3e3776 <unknown>
+#23 0x7f3e30f9bac3 <unknown>
+
+--------WE DO NOT HAVE DATA FOR TODAY--------
+Error processing row 1: expected str, bytes or os.PathLike object, not NoneType
+Error processing row 2: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55fb5a3cc8fa <unknown>
+#1 0x55fb59eddd20 <unknown>
+#2 0x55fb59ee3ae3 <unknown>
+#3 0x55fb59ee5fa8 <unknown>
+#4 0x55fb59ee6033 <unknown>
+#5 0x55fb59f2c6c5 <unknown>
+#6 0x55fb59f2cd01 <unknown>
+#7 0x55fb59f211b6 <unknown>
+#8 0x55fb59f50b1d <unknown>
+#9 0x55fb59f210a8 <unknown>
+#10 0x55fb59f50cbe <unknown>
+#11 0x55fb59f6f560 <unknown>
+#12 0x55fb59f50893 <unknown>
+#13 0x55fb59f1f30d <unknown>
+#14 0x55fb59f2032e <unknown>
+#15 0x55fb5a39900b <unknown>
+#16 0x55fb5a39cf97 <unknown>
+#17 0x55fb5a38571c <unknown>
+#18 0x55fb5a39db17 <unknown>
+#19 0x55fb5a36a6cf <unknown>
+#20 0x55fb5a3bb6b8 <unknown>
+#21 0x55fb5a3bb880 <unknown>
+#22 0x55fb5a3cb776 <unknown>
+#23 0x7f762e7e1ac3 <unknown>
+
+Error processing row 3: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55fb5a3cc8fa <unknown>
+#1 0x55fb59eddd20 <unknown>
+#2 0x55fb59ee3ae3 <unknown>
+#3 0x55fb59ee5fa8 <unknown>
+#4 0x55fb59ee6033 <unknown>
+#5 0x55fb59f2c6c5 <unknown>
+#6 0x55fb59f2cd01 <unknown>
+#7 0x55fb59f211b6 <unknown>
+#8 0x55fb59f50b1d <unknown>
+#9 0x55fb59f210a8 <unknown>
+#10 0x55fb59f50cbe <unknown>
+#11 0x55fb59f6f560 <unknown>
+#12 0x55fb59f50893 <unknown>
+#13 0x55fb59f1f30d <unknown>
+#14 0x55fb59f2032e <unknown>
+#15 0x55fb5a39900b <unknown>
+#16 0x55fb5a39cf97 <unknown>
+#17 0x55fb5a38571c <unknown>
+#18 0x55fb5a39db17 <unknown>
+#19 0x55fb5a36a6cf <unknown>
+#20 0x55fb5a3bb6b8 <unknown>
+#21 0x55fb5a3bb880 <unknown>
+#22 0x55fb5a3cb776 <unknown>
+#23 0x7f762e7e1ac3 <unknown>
+
+Error processing row 4: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55fb5a3cc8fa <unknown>
+#1 0x55fb59eddd20 <unknown>
+#2 0x55fb59ee3ae3 <unknown>
+#3 0x55fb59ee5fa8 <unknown>
+#4 0x55fb59ee6033 <unknown>
+#5 0x55fb59f2c6c5 <unknown>
+#6 0x55fb59f2cd01 <unknown>
+#7 0x55fb59f211b6 <unknown>
+#8 0x55fb59f50b1d <unknown>
+#9 0x55fb59f210a8 <unknown>
+#10 0x55fb59f50cbe <unknown>
+#11 0x55fb59f6f560 <unknown>
+#12 0x55fb59f50893 <unknown>
+#13 0x55fb59f1f30d <unknown>
+#14 0x55fb59f2032e <unknown>
+#15 0x55fb5a39900b <unknown>
+#16 0x55fb5a39cf97 <unknown>
+#17 0x55fb5a38571c <unknown>
+#18 0x55fb5a39db17 <unknown>
+#19 0x55fb5a36a6cf <unknown>
+#20 0x55fb5a3bb6b8 <unknown>
+#21 0x55fb5a3bb880 <unknown>
+#22 0x55fb5a3cb776 <unknown>
+#23 0x7f762e7e1ac3 <unknown>
+
+Error processing row 5: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55fb5a3cc8fa <unknown>
+#1 0x55fb59eddd20 <unknown>
+#2 0x55fb59ee3ae3 <unknown>
+#3 0x55fb59ee5fa8 <unknown>
+#4 0x55fb59ee6033 <unknown>
+#5 0x55fb59f2c6c5 <unknown>
+#6 0x55fb59f2cd01 <unknown>
+#7 0x55fb59f211b6 <unknown>
+#8 0x55fb59f50b1d <unknown>
+#9 0x55fb59f210a8 <unknown>
+#10 0x55fb59f50cbe <unknown>
+#11 0x55fb59f6f560 <unknown>
+#12 0x55fb59f50893 <unknown>
+#13 0x55fb59f1f30d <unknown>
+#14 0x55fb59f2032e <unknown>
+#15 0x55fb5a39900b <unknown>
+#16 0x55fb5a39cf97 <unknown>
+#17 0x55fb5a38571c <unknown>
+#18 0x55fb5a39db17 <unknown>
+#19 0x55fb5a36a6cf <unknown>
+#20 0x55fb5a3bb6b8 <unknown>
+#21 0x55fb5a3bb880 <unknown>
+#22 0x55fb5a3cb776 <unknown>
+#23 0x7f762e7e1ac3 <unknown>
+
+Error processing row 6: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55fb5a3cc8fa <unknown>
+#1 0x55fb59eddd20 <unknown>
+#2 0x55fb59ee3ae3 <unknown>
+#3 0x55fb59ee5fa8 <unknown>
+#4 0x55fb59ee6033 <unknown>
+#5 0x55fb59f2c6c5 <unknown>
+#6 0x55fb59f2cd01 <unknown>
+#7 0x55fb59f211b6 <unknown>
+#8 0x55fb59f50b1d <unknown>
+#9 0x55fb59f210a8 <unknown>
+#10 0x55fb59f50cbe <unknown>
+#11 0x55fb59f6f560 <unknown>
+#12 0x55fb59f50893 <unknown>
+#13 0x55fb59f1f30d <unknown>
+#14 0x55fb59f2032e <unknown>
+#15 0x55fb5a39900b <unknown>
+#16 0x55fb5a39cf97 <unknown>
+#17 0x55fb5a38571c <unknown>
+#18 0x55fb5a39db17 <unknown>
+#19 0x55fb5a36a6cf <unknown>
+#20 0x55fb5a3bb6b8 <unknown>
+#21 0x55fb5a3bb880 <unknown>
+#22 0x55fb5a3cb776 <unknown>
+#23 0x7f762e7e1ac3 <unknown>
+
+Error processing row 7: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55fb5a3cc8fa <unknown>
+#1 0x55fb59eddd20 <unknown>
+#2 0x55fb59ee3ae3 <unknown>
+#3 0x55fb59ee5fa8 <unknown>
+#4 0x55fb59ee6033 <unknown>
+#5 0x55fb59f2c6c5 <unknown>
+#6 0x55fb59f2cd01 <unknown>
+#7 0x55fb59f211b6 <unknown>
+#8 0x55fb59f50b1d <unknown>
+#9 0x55fb59f210a8 <unknown>
+#10 0x55fb59f50cbe <unknown>
+#11 0x55fb59f6f560 <unknown>
+#12 0x55fb59f50893 <unknown>
+#13 0x55fb59f1f30d <unknown>
+#14 0x55fb59f2032e <unknown>
+#15 0x55fb5a39900b <unknown>
+#16 0x55fb5a39cf97 <unknown>
+#17 0x55fb5a38571c <unknown>
+#18 0x55fb5a39db17 <unknown>
+#19 0x55fb5a36a6cf <unknown>
+#20 0x55fb5a3bb6b8 <unknown>
+#21 0x55fb5a3bb880 <unknown>
+#22 0x55fb5a3cb776 <unknown>
+#23 0x7f762e7e1ac3 <unknown>
+
+Error processing row 8: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55fb5a3cc8fa <unknown>
+#1 0x55fb59eddd20 <unknown>
+#2 0x55fb59ee3ae3 <unknown>
+#3 0x55fb59ee5fa8 <unknown>
+#4 0x55fb59ee6033 <unknown>
+#5 0x55fb59f2c6c5 <unknown>
+#6 0x55fb59f2cd01 <unknown>
+#7 0x55fb59f211b6 <unknown>
+#8 0x55fb59f50b1d <unknown>
+#9 0x55fb59f210a8 <unknown>
+#10 0x55fb59f50cbe <unknown>
+#11 0x55fb59f6f560 <unknown>
+#12 0x55fb59f50893 <unknown>
+#13 0x55fb59f1f30d <unknown>
+#14 0x55fb59f2032e <unknown>
+#15 0x55fb5a39900b <unknown>
+#16 0x55fb5a39cf97 <unknown>
+#17 0x55fb5a38571c <unknown>
+#18 0x55fb5a39db17 <unknown>
+#19 0x55fb5a36a6cf <unknown>
+#20 0x55fb5a3bb6b8 <unknown>
+#21 0x55fb5a3bb880 <unknown>
+#22 0x55fb5a3cb776 <unknown>
+#23 0x7f762e7e1ac3 <unknown>
+
+Error processing row 9: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55fb5a3cc8fa <unknown>
+#1 0x55fb59eddd20 <unknown>
+#2 0x55fb59ee3ae3 <unknown>
+#3 0x55fb59ee5fa8 <unknown>
+#4 0x55fb59ee6033 <unknown>
+#5 0x55fb59f2c6c5 <unknown>
+#6 0x55fb59f2cd01 <unknown>
+#7 0x55fb59f211b6 <unknown>
+#8 0x55fb59f50b1d <unknown>
+#9 0x55fb59f210a8 <unknown>
+#10 0x55fb59f50cbe <unknown>
+#11 0x55fb59f6f560 <unknown>
+#12 0x55fb59f50893 <unknown>
+#13 0x55fb59f1f30d <unknown>
+#14 0x55fb59f2032e <unknown>
+#15 0x55fb5a39900b <unknown>
+#16 0x55fb5a39cf97 <unknown>
+#17 0x55fb5a38571c <unknown>
+#18 0x55fb5a39db17 <unknown>
+#19 0x55fb5a36a6cf <unknown>
+#20 0x55fb5a3bb6b8 <unknown>
+#21 0x55fb5a3bb880 <unknown>
+#22 0x55fb5a3cb776 <unknown>
+#23 0x7f762e7e1ac3 <unknown>
+
+Error processing row 10: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55fb5a3cc8fa <unknown>
+#1 0x55fb59eddd20 <unknown>
+#2 0x55fb59ee3ae3 <unknown>
+#3 0x55fb59ee5fa8 <unknown>
+#4 0x55fb59ee6033 <unknown>
+#5 0x55fb59f2c6c5 <unknown>
+#6 0x55fb59f2cd01 <unknown>
+#7 0x55fb59f211b6 <unknown>
+#8 0x55fb59f50b1d <unknown>
+#9 0x55fb59f210a8 <unknown>
+#10 0x55fb59f50cbe <unknown>
+#11 0x55fb59f6f560 <unknown>
+#12 0x55fb59f50893 <unknown>
+#13 0x55fb59f1f30d <unknown>
+#14 0x55fb59f2032e <unknown>
+#15 0x55fb5a39900b <unknown>
+#16 0x55fb5a39cf97 <unknown>
+#17 0x55fb5a38571c <unknown>
+#18 0x55fb5a39db17 <unknown>
+#19 0x55fb5a36a6cf <unknown>
+#20 0x55fb5a3bb6b8 <unknown>
+#21 0x55fb5a3bb880 <unknown>
+#22 0x55fb5a3cb776 <unknown>
+#23 0x7f762e7e1ac3 <unknown>
+
+Error processing row 11: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55fb5a3cc8fa <unknown>
+#1 0x55fb59eddd20 <unknown>
+#2 0x55fb59ee3ae3 <unknown>
+#3 0x55fb59ee5fa8 <unknown>
+#4 0x55fb59ee6033 <unknown>
+#5 0x55fb59f2c6c5 <unknown>
+#6 0x55fb59f2cd01 <unknown>
+#7 0x55fb59f211b6 <unknown>
+#8 0x55fb59f50b1d <unknown>
+#9 0x55fb59f210a8 <unknown>
+#10 0x55fb59f50cbe <unknown>
+#11 0x55fb59f6f560 <unknown>
+#12 0x55fb59f50893 <unknown>
+#13 0x55fb59f1f30d <unknown>
+#14 0x55fb59f2032e <unknown>
+#15 0x55fb5a39900b <unknown>
+#16 0x55fb5a39cf97 <unknown>
+#17 0x55fb5a38571c <unknown>
+#18 0x55fb5a39db17 <unknown>
+#19 0x55fb5a36a6cf <unknown>
+#20 0x55fb5a3bb6b8 <unknown>
+#21 0x55fb5a3bb880 <unknown>
+#22 0x55fb5a3cb776 <unknown>
+#23 0x7f762e7e1ac3 <unknown>
+
+Error processing row 12: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55fb5a3cc8fa <unknown>
+#1 0x55fb59eddd20 <unknown>
+#2 0x55fb59ee3ae3 <unknown>
+#3 0x55fb59ee5fa8 <unknown>
+#4 0x55fb59ee6033 <unknown>
+#5 0x55fb59f2c6c5 <unknown>
+#6 0x55fb59f2cd01 <unknown>
+#7 0x55fb59f211b6 <unknown>
+#8 0x55fb59f50b1d <unknown>
+#9 0x55fb59f210a8 <unknown>
+#10 0x55fb59f50cbe <unknown>
+#11 0x55fb59f6f560 <unknown>
+#12 0x55fb59f50893 <unknown>
+#13 0x55fb59f1f30d <unknown>
+#14 0x55fb59f2032e <unknown>
+#15 0x55fb5a39900b <unknown>
+#16 0x55fb5a39cf97 <unknown>
+#17 0x55fb5a38571c <unknown>
+#18 0x55fb5a39db17 <unknown>
+#19 0x55fb5a36a6cf <unknown>
+#20 0x55fb5a3bb6b8 <unknown>
+#21 0x55fb5a3bb880 <unknown>
+#22 0x55fb5a3cb776 <unknown>
+#23 0x7f762e7e1ac3 <unknown>
+
+Error processing row 13: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55fb5a3cc8fa <unknown>
+#1 0x55fb59eddd20 <unknown>
+#2 0x55fb59ee3ae3 <unknown>
+#3 0x55fb59ee5fa8 <unknown>
+#4 0x55fb59ee6033 <unknown>
+#5 0x55fb59f2c6c5 <unknown>
+#6 0x55fb59f2cd01 <unknown>
+#7 0x55fb59f211b6 <unknown>
+#8 0x55fb59f50b1d <unknown>
+#9 0x55fb59f210a8 <unknown>
+#10 0x55fb59f50cbe <unknown>
+#11 0x55fb59f6f560 <unknown>
+#12 0x55fb59f50893 <unknown>
+#13 0x55fb59f1f30d <unknown>
+#14 0x55fb59f2032e <unknown>
+#15 0x55fb5a39900b <unknown>
+#16 0x55fb5a39cf97 <unknown>
+#17 0x55fb5a38571c <unknown>
+#18 0x55fb5a39db17 <unknown>
+#19 0x55fb5a36a6cf <unknown>
+#20 0x55fb5a3bb6b8 <unknown>
+#21 0x55fb5a3bb880 <unknown>
+#22 0x55fb5a3cb776 <unknown>
+#23 0x7f762e7e1ac3 <unknown>
+
+Error processing row 14: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55fb5a3cc8fa <unknown>
+#1 0x55fb59eddd20 <unknown>
+#2 0x55fb59ee3ae3 <unknown>
+#3 0x55fb59ee5fa8 <unknown>
+#4 0x55fb59ee6033 <unknown>
+#5 0x55fb59f2c6c5 <unknown>
+#6 0x55fb59f2cd01 <unknown>
+#7 0x55fb59f211b6 <unknown>
+#8 0x55fb59f50b1d <unknown>
+#9 0x55fb59f210a8 <unknown>
+#10 0x55fb59f50cbe <unknown>
+#11 0x55fb59f6f560 <unknown>
+#12 0x55fb59f50893 <unknown>
+#13 0x55fb59f1f30d <unknown>
+#14 0x55fb59f2032e <unknown>
+#15 0x55fb5a39900b <unknown>
+#16 0x55fb5a39cf97 <unknown>
+#17 0x55fb5a38571c <unknown>
+#18 0x55fb5a39db17 <unknown>
+#19 0x55fb5a36a6cf <unknown>
+#20 0x55fb5a3bb6b8 <unknown>
+#21 0x55fb5a3bb880 <unknown>
+#22 0x55fb5a3cb776 <unknown>
+#23 0x7f762e7e1ac3 <unknown>
+
+Error processing row 15: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55fb5a3cc8fa <unknown>
+#1 0x55fb59eddd20 <unknown>
+#2 0x55fb59ee3ae3 <unknown>
+#3 0x55fb59ee5fa8 <unknown>
+#4 0x55fb59ee6033 <unknown>
+#5 0x55fb59f2c6c5 <unknown>
+#6 0x55fb59f2cd01 <unknown>
+#7 0x55fb59f211b6 <unknown>
+#8 0x55fb59f50b1d <unknown>
+#9 0x55fb59f210a8 <unknown>
+#10 0x55fb59f50cbe <unknown>
+#11 0x55fb59f6f560 <unknown>
+#12 0x55fb59f50893 <unknown>
+#13 0x55fb59f1f30d <unknown>
+#14 0x55fb59f2032e <unknown>
+#15 0x55fb5a39900b <unknown>
+#16 0x55fb5a39cf97 <unknown>
+#17 0x55fb5a38571c <unknown>
+#18 0x55fb5a39db17 <unknown>
+#19 0x55fb5a36a6cf <unknown>
+#20 0x55fb5a3bb6b8 <unknown>
+#21 0x55fb5a3bb880 <unknown>
+#22 0x55fb5a3cb776 <unknown>
+#23 0x7f762e7e1ac3 <unknown>
+
+--------WE DO NOT HAVE DATA FOR TODAY--------
+Error processing row 1: expected str, bytes or os.PathLike object, not NoneType
+Error processing row 2: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55f7c6a8c8fa <unknown>
+#1 0x55f7c659dd20 <unknown>
+#2 0x55f7c65a3ae3 <unknown>
+#3 0x55f7c65a5fa8 <unknown>
+#4 0x55f7c65a6033 <unknown>
+#5 0x55f7c65ec6c5 <unknown>
+#6 0x55f7c65ecd01 <unknown>
+#7 0x55f7c65e11b6 <unknown>
+#8 0x55f7c6610b1d <unknown>
+#9 0x55f7c65e10a8 <unknown>
+#10 0x55f7c6610cbe <unknown>
+#11 0x55f7c662f560 <unknown>
+#12 0x55f7c6610893 <unknown>
+#13 0x55f7c65df30d <unknown>
+#14 0x55f7c65e032e <unknown>
+#15 0x55f7c6a5900b <unknown>
+#16 0x55f7c6a5cf97 <unknown>
+#17 0x55f7c6a4571c <unknown>
+#18 0x55f7c6a5db17 <unknown>
+#19 0x55f7c6a2a6cf <unknown>
+#20 0x55f7c6a7b6b8 <unknown>
+#21 0x55f7c6a7b880 <unknown>
+#22 0x55f7c6a8b776 <unknown>
+#23 0x7ffa5f46bac3 <unknown>
+
+Error processing row 3: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55f7c6a8c8fa <unknown>
+#1 0x55f7c659dd20 <unknown>
+#2 0x55f7c65a3ae3 <unknown>
+#3 0x55f7c65a5fa8 <unknown>
+#4 0x55f7c65a6033 <unknown>
+#5 0x55f7c65ec6c5 <unknown>
+#6 0x55f7c65ecd01 <unknown>
+#7 0x55f7c65e11b6 <unknown>
+#8 0x55f7c6610b1d <unknown>
+#9 0x55f7c65e10a8 <unknown>
+#10 0x55f7c6610cbe <unknown>
+#11 0x55f7c662f560 <unknown>
+#12 0x55f7c6610893 <unknown>
+#13 0x55f7c65df30d <unknown>
+#14 0x55f7c65e032e <unknown>
+#15 0x55f7c6a5900b <unknown>
+#16 0x55f7c6a5cf97 <unknown>
+#17 0x55f7c6a4571c <unknown>
+#18 0x55f7c6a5db17 <unknown>
+#19 0x55f7c6a2a6cf <unknown>
+#20 0x55f7c6a7b6b8 <unknown>
+#21 0x55f7c6a7b880 <unknown>
+#22 0x55f7c6a8b776 <unknown>
+#23 0x7ffa5f46bac3 <unknown>
+
+Error processing row 4: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55f7c6a8c8fa <unknown>
+#1 0x55f7c659dd20 <unknown>
+#2 0x55f7c65a3ae3 <unknown>
+#3 0x55f7c65a5fa8 <unknown>
+#4 0x55f7c65a6033 <unknown>
+#5 0x55f7c65ec6c5 <unknown>
+#6 0x55f7c65ecd01 <unknown>
+#7 0x55f7c65e11b6 <unknown>
+#8 0x55f7c6610b1d <unknown>
+#9 0x55f7c65e10a8 <unknown>
+#10 0x55f7c6610cbe <unknown>
+#11 0x55f7c662f560 <unknown>
+#12 0x55f7c6610893 <unknown>
+#13 0x55f7c65df30d <unknown>
+#14 0x55f7c65e032e <unknown>
+#15 0x55f7c6a5900b <unknown>
+#16 0x55f7c6a5cf97 <unknown>
+#17 0x55f7c6a4571c <unknown>
+#18 0x55f7c6a5db17 <unknown>
+#19 0x55f7c6a2a6cf <unknown>
+#20 0x55f7c6a7b6b8 <unknown>
+#21 0x55f7c6a7b880 <unknown>
+#22 0x55f7c6a8b776 <unknown>
+#23 0x7ffa5f46bac3 <unknown>
+
+Error processing row 5: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55f7c6a8c8fa <unknown>
+#1 0x55f7c659dd20 <unknown>
+#2 0x55f7c65a3ae3 <unknown>
+#3 0x55f7c65a5fa8 <unknown>
+#4 0x55f7c65a6033 <unknown>
+#5 0x55f7c65ec6c5 <unknown>
+#6 0x55f7c65ecd01 <unknown>
+#7 0x55f7c65e11b6 <unknown>
+#8 0x55f7c6610b1d <unknown>
+#9 0x55f7c65e10a8 <unknown>
+#10 0x55f7c6610cbe <unknown>
+#11 0x55f7c662f560 <unknown>
+#12 0x55f7c6610893 <unknown>
+#13 0x55f7c65df30d <unknown>
+#14 0x55f7c65e032e <unknown>
+#15 0x55f7c6a5900b <unknown>
+#16 0x55f7c6a5cf97 <unknown>
+#17 0x55f7c6a4571c <unknown>
+#18 0x55f7c6a5db17 <unknown>
+#19 0x55f7c6a2a6cf <unknown>
+#20 0x55f7c6a7b6b8 <unknown>
+#21 0x55f7c6a7b880 <unknown>
+#22 0x55f7c6a8b776 <unknown>
+#23 0x7ffa5f46bac3 <unknown>
+
+Error processing row 6: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55f7c6a8c8fa <unknown>
+#1 0x55f7c659dd20 <unknown>
+#2 0x55f7c65a3ae3 <unknown>
+#3 0x55f7c65a5fa8 <unknown>
+#4 0x55f7c65a6033 <unknown>
+#5 0x55f7c65ec6c5 <unknown>
+#6 0x55f7c65ecd01 <unknown>
+#7 0x55f7c65e11b6 <unknown>
+#8 0x55f7c6610b1d <unknown>
+#9 0x55f7c65e10a8 <unknown>
+#10 0x55f7c6610cbe <unknown>
+#11 0x55f7c662f560 <unknown>
+#12 0x55f7c6610893 <unknown>
+#13 0x55f7c65df30d <unknown>
+#14 0x55f7c65e032e <unknown>
+#15 0x55f7c6a5900b <unknown>
+#16 0x55f7c6a5cf97 <unknown>
+#17 0x55f7c6a4571c <unknown>
+#18 0x55f7c6a5db17 <unknown>
+#19 0x55f7c6a2a6cf <unknown>
+#20 0x55f7c6a7b6b8 <unknown>
+#21 0x55f7c6a7b880 <unknown>
+#22 0x55f7c6a8b776 <unknown>
+#23 0x7ffa5f46bac3 <unknown>
+
+Error processing row 7: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55f7c6a8c8fa <unknown>
+#1 0x55f7c659dd20 <unknown>
+#2 0x55f7c65a3ae3 <unknown>
+#3 0x55f7c65a5fa8 <unknown>
+#4 0x55f7c65a6033 <unknown>
+#5 0x55f7c65ec6c5 <unknown>
+#6 0x55f7c65ecd01 <unknown>
+#7 0x55f7c65e11b6 <unknown>
+#8 0x55f7c6610b1d <unknown>
+#9 0x55f7c65e10a8 <unknown>
+#10 0x55f7c6610cbe <unknown>
+#11 0x55f7c662f560 <unknown>
+#12 0x55f7c6610893 <unknown>
+#13 0x55f7c65df30d <unknown>
+#14 0x55f7c65e032e <unknown>
+#15 0x55f7c6a5900b <unknown>
+#16 0x55f7c6a5cf97 <unknown>
+#17 0x55f7c6a4571c <unknown>
+#18 0x55f7c6a5db17 <unknown>
+#19 0x55f7c6a2a6cf <unknown>
+#20 0x55f7c6a7b6b8 <unknown>
+#21 0x55f7c6a7b880 <unknown>
+#22 0x55f7c6a8b776 <unknown>
+#23 0x7ffa5f46bac3 <unknown>
+
+Error processing row 8: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55f7c6a8c8fa <unknown>
+#1 0x55f7c659dd20 <unknown>
+#2 0x55f7c65a3ae3 <unknown>
+#3 0x55f7c65a5fa8 <unknown>
+#4 0x55f7c65a6033 <unknown>
+#5 0x55f7c65ec6c5 <unknown>
+#6 0x55f7c65ecd01 <unknown>
+#7 0x55f7c65e11b6 <unknown>
+#8 0x55f7c6610b1d <unknown>
+#9 0x55f7c65e10a8 <unknown>
+#10 0x55f7c6610cbe <unknown>
+#11 0x55f7c662f560 <unknown>
+#12 0x55f7c6610893 <unknown>
+#13 0x55f7c65df30d <unknown>
+#14 0x55f7c65e032e <unknown>
+#15 0x55f7c6a5900b <unknown>
+#16 0x55f7c6a5cf97 <unknown>
+#17 0x55f7c6a4571c <unknown>
+#18 0x55f7c6a5db17 <unknown>
+#19 0x55f7c6a2a6cf <unknown>
+#20 0x55f7c6a7b6b8 <unknown>
+#21 0x55f7c6a7b880 <unknown>
+#22 0x55f7c6a8b776 <unknown>
+#23 0x7ffa5f46bac3 <unknown>
+
+Error processing row 9: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55f7c6a8c8fa <unknown>
+#1 0x55f7c659dd20 <unknown>
+#2 0x55f7c65a3ae3 <unknown>
+#3 0x55f7c65a5fa8 <unknown>
+#4 0x55f7c65a6033 <unknown>
+#5 0x55f7c65ec6c5 <unknown>
+#6 0x55f7c65ecd01 <unknown>
+#7 0x55f7c65e11b6 <unknown>
+#8 0x55f7c6610b1d <unknown>
+#9 0x55f7c65e10a8 <unknown>
+#10 0x55f7c6610cbe <unknown>
+#11 0x55f7c662f560 <unknown>
+#12 0x55f7c6610893 <unknown>
+#13 0x55f7c65df30d <unknown>
+#14 0x55f7c65e032e <unknown>
+#15 0x55f7c6a5900b <unknown>
+#16 0x55f7c6a5cf97 <unknown>
+#17 0x55f7c6a4571c <unknown>
+#18 0x55f7c6a5db17 <unknown>
+#19 0x55f7c6a2a6cf <unknown>
+#20 0x55f7c6a7b6b8 <unknown>
+#21 0x55f7c6a7b880 <unknown>
+#22 0x55f7c6a8b776 <unknown>
+#23 0x7ffa5f46bac3 <unknown>
+
+Error processing row 10: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55f7c6a8c8fa <unknown>
+#1 0x55f7c659dd20 <unknown>
+#2 0x55f7c65a3ae3 <unknown>
+#3 0x55f7c65a5fa8 <unknown>
+#4 0x55f7c65a6033 <unknown>
+#5 0x55f7c65ec6c5 <unknown>
+#6 0x55f7c65ecd01 <unknown>
+#7 0x55f7c65e11b6 <unknown>
+#8 0x55f7c6610b1d <unknown>
+#9 0x55f7c65e10a8 <unknown>
+#10 0x55f7c6610cbe <unknown>
+#11 0x55f7c662f560 <unknown>
+#12 0x55f7c6610893 <unknown>
+#13 0x55f7c65df30d <unknown>
+#14 0x55f7c65e032e <unknown>
+#15 0x55f7c6a5900b <unknown>
+#16 0x55f7c6a5cf97 <unknown>
+#17 0x55f7c6a4571c <unknown>
+#18 0x55f7c6a5db17 <unknown>
+#19 0x55f7c6a2a6cf <unknown>
+#20 0x55f7c6a7b6b8 <unknown>
+#21 0x55f7c6a7b880 <unknown>
+#22 0x55f7c6a8b776 <unknown>
+#23 0x7ffa5f46bac3 <unknown>
+
+Error processing row 11: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55f7c6a8c8fa <unknown>
+#1 0x55f7c659dd20 <unknown>
+#2 0x55f7c65a3ae3 <unknown>
+#3 0x55f7c65a5fa8 <unknown>
+#4 0x55f7c65a6033 <unknown>
+#5 0x55f7c65ec6c5 <unknown>
+#6 0x55f7c65ecd01 <unknown>
+#7 0x55f7c65e11b6 <unknown>
+#8 0x55f7c6610b1d <unknown>
+#9 0x55f7c65e10a8 <unknown>
+#10 0x55f7c6610cbe <unknown>
+#11 0x55f7c662f560 <unknown>
+#12 0x55f7c6610893 <unknown>
+#13 0x55f7c65df30d <unknown>
+#14 0x55f7c65e032e <unknown>
+#15 0x55f7c6a5900b <unknown>
+#16 0x55f7c6a5cf97 <unknown>
+#17 0x55f7c6a4571c <unknown>
+#18 0x55f7c6a5db17 <unknown>
+#19 0x55f7c6a2a6cf <unknown>
+#20 0x55f7c6a7b6b8 <unknown>
+#21 0x55f7c6a7b880 <unknown>
+#22 0x55f7c6a8b776 <unknown>
+#23 0x7ffa5f46bac3 <unknown>
+
+Error processing row 12: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55f7c6a8c8fa <unknown>
+#1 0x55f7c659dd20 <unknown>
+#2 0x55f7c65a3ae3 <unknown>
+#3 0x55f7c65a5fa8 <unknown>
+#4 0x55f7c65a6033 <unknown>
+#5 0x55f7c65ec6c5 <unknown>
+#6 0x55f7c65ecd01 <unknown>
+#7 0x55f7c65e11b6 <unknown>
+#8 0x55f7c6610b1d <unknown>
+#9 0x55f7c65e10a8 <unknown>
+#10 0x55f7c6610cbe <unknown>
+#11 0x55f7c662f560 <unknown>
+#12 0x55f7c6610893 <unknown>
+#13 0x55f7c65df30d <unknown>
+#14 0x55f7c65e032e <unknown>
+#15 0x55f7c6a5900b <unknown>
+#16 0x55f7c6a5cf97 <unknown>
+#17 0x55f7c6a4571c <unknown>
+#18 0x55f7c6a5db17 <unknown>
+#19 0x55f7c6a2a6cf <unknown>
+#20 0x55f7c6a7b6b8 <unknown>
+#21 0x55f7c6a7b880 <unknown>
+#22 0x55f7c6a8b776 <unknown>
+#23 0x7ffa5f46bac3 <unknown>
+
+Error processing row 13: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55f7c6a8c8fa <unknown>
+#1 0x55f7c659dd20 <unknown>
+#2 0x55f7c65a3ae3 <unknown>
+#3 0x55f7c65a5fa8 <unknown>
+#4 0x55f7c65a6033 <unknown>
+#5 0x55f7c65ec6c5 <unknown>
+#6 0x55f7c65ecd01 <unknown>
+#7 0x55f7c65e11b6 <unknown>
+#8 0x55f7c6610b1d <unknown>
+#9 0x55f7c65e10a8 <unknown>
+#10 0x55f7c6610cbe <unknown>
+#11 0x55f7c662f560 <unknown>
+#12 0x55f7c6610893 <unknown>
+#13 0x55f7c65df30d <unknown>
+#14 0x55f7c65e032e <unknown>
+#15 0x55f7c6a5900b <unknown>
+#16 0x55f7c6a5cf97 <unknown>
+#17 0x55f7c6a4571c <unknown>
+#18 0x55f7c6a5db17 <unknown>
+#19 0x55f7c6a2a6cf <unknown>
+#20 0x55f7c6a7b6b8 <unknown>
+#21 0x55f7c6a7b880 <unknown>
+#22 0x55f7c6a8b776 <unknown>
+#23 0x7ffa5f46bac3 <unknown>
+
+Error processing row 14: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55f7c6a8c8fa <unknown>
+#1 0x55f7c659dd20 <unknown>
+#2 0x55f7c65a3ae3 <unknown>
+#3 0x55f7c65a5fa8 <unknown>
+#4 0x55f7c65a6033 <unknown>
+#5 0x55f7c65ec6c5 <unknown>
+#6 0x55f7c65ecd01 <unknown>
+#7 0x55f7c65e11b6 <unknown>
+#8 0x55f7c6610b1d <unknown>
+#9 0x55f7c65e10a8 <unknown>
+#10 0x55f7c6610cbe <unknown>
+#11 0x55f7c662f560 <unknown>
+#12 0x55f7c6610893 <unknown>
+#13 0x55f7c65df30d <unknown>
+#14 0x55f7c65e032e <unknown>
+#15 0x55f7c6a5900b <unknown>
+#16 0x55f7c6a5cf97 <unknown>
+#17 0x55f7c6a4571c <unknown>
+#18 0x55f7c6a5db17 <unknown>
+#19 0x55f7c6a2a6cf <unknown>
+#20 0x55f7c6a7b6b8 <unknown>
+#21 0x55f7c6a7b880 <unknown>
+#22 0x55f7c6a8b776 <unknown>
+#23 0x7ffa5f46bac3 <unknown>
+
+Error processing row 15: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55f7c6a8c8fa <unknown>
+#1 0x55f7c659dd20 <unknown>
+#2 0x55f7c65a3ae3 <unknown>
+#3 0x55f7c65a5fa8 <unknown>
+#4 0x55f7c65a6033 <unknown>
+#5 0x55f7c65ec6c5 <unknown>
+#6 0x55f7c65ecd01 <unknown>
+#7 0x55f7c65e11b6 <unknown>
+#8 0x55f7c6610b1d <unknown>
+#9 0x55f7c65e10a8 <unknown>
+#10 0x55f7c6610cbe <unknown>
+#11 0x55f7c662f560 <unknown>
+#12 0x55f7c6610893 <unknown>
+#13 0x55f7c65df30d <unknown>
+#14 0x55f7c65e032e <unknown>
+#15 0x55f7c6a5900b <unknown>
+#16 0x55f7c6a5cf97 <unknown>
+#17 0x55f7c6a4571c <unknown>
+#18 0x55f7c6a5db17 <unknown>
+#19 0x55f7c6a2a6cf <unknown>
+#20 0x55f7c6a7b6b8 <unknown>
+#21 0x55f7c6a7b880 <unknown>
+#22 0x55f7c6a8b776 <unknown>
+#23 0x7ffa5f46bac3 <unknown>
+
+--------WE DO NOT HAVE DATA FOR TODAY--------
+Error processing row 1: expected str, bytes or os.PathLike object, not NoneType
+Error processing row 2: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x56460f4248fa <unknown>
+#1 0x56460ef35d20 <unknown>
+#2 0x56460ef3bae3 <unknown>
+#3 0x56460ef3dfa8 <unknown>
+#4 0x56460ef3e033 <unknown>
+#5 0x56460ef846c5 <unknown>
+#6 0x56460ef84d01 <unknown>
+#7 0x56460ef791b6 <unknown>
+#8 0x56460efa8b1d <unknown>
+#9 0x56460ef790a8 <unknown>
+#10 0x56460efa8cbe <unknown>
+#11 0x56460efc7560 <unknown>
+#12 0x56460efa8893 <unknown>
+#13 0x56460ef7730d <unknown>
+#14 0x56460ef7832e <unknown>
+#15 0x56460f3f100b <unknown>
+#16 0x56460f3f4f97 <unknown>
+#17 0x56460f3dd71c <unknown>
+#18 0x56460f3f5b17 <unknown>
+#19 0x56460f3c26cf <unknown>
+#20 0x56460f4136b8 <unknown>
+#21 0x56460f413880 <unknown>
+#22 0x56460f423776 <unknown>
+#23 0x7f36ea3c9ac3 <unknown>
+
+Error processing row 3: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x56460f4248fa <unknown>
+#1 0x56460ef35d20 <unknown>
+#2 0x56460ef3bae3 <unknown>
+#3 0x56460ef3dfa8 <unknown>
+#4 0x56460ef3e033 <unknown>
+#5 0x56460ef846c5 <unknown>
+#6 0x56460ef84d01 <unknown>
+#7 0x56460ef791b6 <unknown>
+#8 0x56460efa8b1d <unknown>
+#9 0x56460ef790a8 <unknown>
+#10 0x56460efa8cbe <unknown>
+#11 0x56460efc7560 <unknown>
+#12 0x56460efa8893 <unknown>
+#13 0x56460ef7730d <unknown>
+#14 0x56460ef7832e <unknown>
+#15 0x56460f3f100b <unknown>
+#16 0x56460f3f4f97 <unknown>
+#17 0x56460f3dd71c <unknown>
+#18 0x56460f3f5b17 <unknown>
+#19 0x56460f3c26cf <unknown>
+#20 0x56460f4136b8 <unknown>
+#21 0x56460f413880 <unknown>
+#22 0x56460f423776 <unknown>
+#23 0x7f36ea3c9ac3 <unknown>
+
+Error processing row 4: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x56460f4248fa <unknown>
+#1 0x56460ef35d20 <unknown>
+#2 0x56460ef3bae3 <unknown>
+#3 0x56460ef3dfa8 <unknown>
+#4 0x56460ef3e033 <unknown>
+#5 0x56460ef846c5 <unknown>
+#6 0x56460ef84d01 <unknown>
+#7 0x56460ef791b6 <unknown>
+#8 0x56460efa8b1d <unknown>
+#9 0x56460ef790a8 <unknown>
+#10 0x56460efa8cbe <unknown>
+#11 0x56460efc7560 <unknown>
+#12 0x56460efa8893 <unknown>
+#13 0x56460ef7730d <unknown>
+#14 0x56460ef7832e <unknown>
+#15 0x56460f3f100b <unknown>
+#16 0x56460f3f4f97 <unknown>
+#17 0x56460f3dd71c <unknown>
+#18 0x56460f3f5b17 <unknown>
+#19 0x56460f3c26cf <unknown>
+#20 0x56460f4136b8 <unknown>
+#21 0x56460f413880 <unknown>
+#22 0x56460f423776 <unknown>
+#23 0x7f36ea3c9ac3 <unknown>
+
+Error processing row 5: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x56460f4248fa <unknown>
+#1 0x56460ef35d20 <unknown>
+#2 0x56460ef3bae3 <unknown>
+#3 0x56460ef3dfa8 <unknown>
+#4 0x56460ef3e033 <unknown>
+#5 0x56460ef846c5 <unknown>
+#6 0x56460ef84d01 <unknown>
+#7 0x56460ef791b6 <unknown>
+#8 0x56460efa8b1d <unknown>
+#9 0x56460ef790a8 <unknown>
+#10 0x56460efa8cbe <unknown>
+#11 0x56460efc7560 <unknown>
+#12 0x56460efa8893 <unknown>
+#13 0x56460ef7730d <unknown>
+#14 0x56460ef7832e <unknown>
+#15 0x56460f3f100b <unknown>
+#16 0x56460f3f4f97 <unknown>
+#17 0x56460f3dd71c <unknown>
+#18 0x56460f3f5b17 <unknown>
+#19 0x56460f3c26cf <unknown>
+#20 0x56460f4136b8 <unknown>
+#21 0x56460f413880 <unknown>
+#22 0x56460f423776 <unknown>
+#23 0x7f36ea3c9ac3 <unknown>
+
+Error processing row 6: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x56460f4248fa <unknown>
+#1 0x56460ef35d20 <unknown>
+#2 0x56460ef3bae3 <unknown>
+#3 0x56460ef3dfa8 <unknown>
+#4 0x56460ef3e033 <unknown>
+#5 0x56460ef846c5 <unknown>
+#6 0x56460ef84d01 <unknown>
+#7 0x56460ef791b6 <unknown>
+#8 0x56460efa8b1d <unknown>
+#9 0x56460ef790a8 <unknown>
+#10 0x56460efa8cbe <unknown>
+#11 0x56460efc7560 <unknown>
+#12 0x56460efa8893 <unknown>
+#13 0x56460ef7730d <unknown>
+#14 0x56460ef7832e <unknown>
+#15 0x56460f3f100b <unknown>
+#16 0x56460f3f4f97 <unknown>
+#17 0x56460f3dd71c <unknown>
+#18 0x56460f3f5b17 <unknown>
+#19 0x56460f3c26cf <unknown>
+#20 0x56460f4136b8 <unknown>
+#21 0x56460f413880 <unknown>
+#22 0x56460f423776 <unknown>
+#23 0x7f36ea3c9ac3 <unknown>
+
+Error processing row 7: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x56460f4248fa <unknown>
+#1 0x56460ef35d20 <unknown>
+#2 0x56460ef3bae3 <unknown>
+#3 0x56460ef3dfa8 <unknown>
+#4 0x56460ef3e033 <unknown>
+#5 0x56460ef846c5 <unknown>
+#6 0x56460ef84d01 <unknown>
+#7 0x56460ef791b6 <unknown>
+#8 0x56460efa8b1d <unknown>
+#9 0x56460ef790a8 <unknown>
+#10 0x56460efa8cbe <unknown>
+#11 0x56460efc7560 <unknown>
+#12 0x56460efa8893 <unknown>
+#13 0x56460ef7730d <unknown>
+#14 0x56460ef7832e <unknown>
+#15 0x56460f3f100b <unknown>
+#16 0x56460f3f4f97 <unknown>
+#17 0x56460f3dd71c <unknown>
+#18 0x56460f3f5b17 <unknown>
+#19 0x56460f3c26cf <unknown>
+#20 0x56460f4136b8 <unknown>
+#21 0x56460f413880 <unknown>
+#22 0x56460f423776 <unknown>
+#23 0x7f36ea3c9ac3 <unknown>
+
+Error processing row 8: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x56460f4248fa <unknown>
+#1 0x56460ef35d20 <unknown>
+#2 0x56460ef3bae3 <unknown>
+#3 0x56460ef3dfa8 <unknown>
+#4 0x56460ef3e033 <unknown>
+#5 0x56460ef846c5 <unknown>
+#6 0x56460ef84d01 <unknown>
+#7 0x56460ef791b6 <unknown>
+#8 0x56460efa8b1d <unknown>
+#9 0x56460ef790a8 <unknown>
+#10 0x56460efa8cbe <unknown>
+#11 0x56460efc7560 <unknown>
+#12 0x56460efa8893 <unknown>
+#13 0x56460ef7730d <unknown>
+#14 0x56460ef7832e <unknown>
+#15 0x56460f3f100b <unknown>
+#16 0x56460f3f4f97 <unknown>
+#17 0x56460f3dd71c <unknown>
+#18 0x56460f3f5b17 <unknown>
+#19 0x56460f3c26cf <unknown>
+#20 0x56460f4136b8 <unknown>
+#21 0x56460f413880 <unknown>
+#22 0x56460f423776 <unknown>
+#23 0x7f36ea3c9ac3 <unknown>
+
+Error processing row 9: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x56460f4248fa <unknown>
+#1 0x56460ef35d20 <unknown>
+#2 0x56460ef3bae3 <unknown>
+#3 0x56460ef3dfa8 <unknown>
+#4 0x56460ef3e033 <unknown>
+#5 0x56460ef846c5 <unknown>
+#6 0x56460ef84d01 <unknown>
+#7 0x56460ef791b6 <unknown>
+#8 0x56460efa8b1d <unknown>
+#9 0x56460ef790a8 <unknown>
+#10 0x56460efa8cbe <unknown>
+#11 0x56460efc7560 <unknown>
+#12 0x56460efa8893 <unknown>
+#13 0x56460ef7730d <unknown>
+#14 0x56460ef7832e <unknown>
+#15 0x56460f3f100b <unknown>
+#16 0x56460f3f4f97 <unknown>
+#17 0x56460f3dd71c <unknown>
+#18 0x56460f3f5b17 <unknown>
+#19 0x56460f3c26cf <unknown>
+#20 0x56460f4136b8 <unknown>
+#21 0x56460f413880 <unknown>
+#22 0x56460f423776 <unknown>
+#23 0x7f36ea3c9ac3 <unknown>
+
+Error processing row 10: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x56460f4248fa <unknown>
+#1 0x56460ef35d20 <unknown>
+#2 0x56460ef3bae3 <unknown>
+#3 0x56460ef3dfa8 <unknown>
+#4 0x56460ef3e033 <unknown>
+#5 0x56460ef846c5 <unknown>
+#6 0x56460ef84d01 <unknown>
+#7 0x56460ef791b6 <unknown>
+#8 0x56460efa8b1d <unknown>
+#9 0x56460ef790a8 <unknown>
+#10 0x56460efa8cbe <unknown>
+#11 0x56460efc7560 <unknown>
+#12 0x56460efa8893 <unknown>
+#13 0x56460ef7730d <unknown>
+#14 0x56460ef7832e <unknown>
+#15 0x56460f3f100b <unknown>
+#16 0x56460f3f4f97 <unknown>
+#17 0x56460f3dd71c <unknown>
+#18 0x56460f3f5b17 <unknown>
+#19 0x56460f3c26cf <unknown>
+#20 0x56460f4136b8 <unknown>
+#21 0x56460f413880 <unknown>
+#22 0x56460f423776 <unknown>
+#23 0x7f36ea3c9ac3 <unknown>
+
+Error processing row 11: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x56460f4248fa <unknown>
+#1 0x56460ef35d20 <unknown>
+#2 0x56460ef3bae3 <unknown>
+#3 0x56460ef3dfa8 <unknown>
+#4 0x56460ef3e033 <unknown>
+#5 0x56460ef846c5 <unknown>
+#6 0x56460ef84d01 <unknown>
+#7 0x56460ef791b6 <unknown>
+#8 0x56460efa8b1d <unknown>
+#9 0x56460ef790a8 <unknown>
+#10 0x56460efa8cbe <unknown>
+#11 0x56460efc7560 <unknown>
+#12 0x56460efa8893 <unknown>
+#13 0x56460ef7730d <unknown>
+#14 0x56460ef7832e <unknown>
+#15 0x56460f3f100b <unknown>
+#16 0x56460f3f4f97 <unknown>
+#17 0x56460f3dd71c <unknown>
+#18 0x56460f3f5b17 <unknown>
+#19 0x56460f3c26cf <unknown>
+#20 0x56460f4136b8 <unknown>
+#21 0x56460f413880 <unknown>
+#22 0x56460f423776 <unknown>
+#23 0x7f36ea3c9ac3 <unknown>
+
+Error processing row 12: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x56460f4248fa <unknown>
+#1 0x56460ef35d20 <unknown>
+#2 0x56460ef3bae3 <unknown>
+#3 0x56460ef3dfa8 <unknown>
+#4 0x56460ef3e033 <unknown>
+#5 0x56460ef846c5 <unknown>
+#6 0x56460ef84d01 <unknown>
+#7 0x56460ef791b6 <unknown>
+#8 0x56460efa8b1d <unknown>
+#9 0x56460ef790a8 <unknown>
+#10 0x56460efa8cbe <unknown>
+#11 0x56460efc7560 <unknown>
+#12 0x56460efa8893 <unknown>
+#13 0x56460ef7730d <unknown>
+#14 0x56460ef7832e <unknown>
+#15 0x56460f3f100b <unknown>
+#16 0x56460f3f4f97 <unknown>
+#17 0x56460f3dd71c <unknown>
+#18 0x56460f3f5b17 <unknown>
+#19 0x56460f3c26cf <unknown>
+#20 0x56460f4136b8 <unknown>
+#21 0x56460f413880 <unknown>
+#22 0x56460f423776 <unknown>
+#23 0x7f36ea3c9ac3 <unknown>
+
+Error processing row 13: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x56460f4248fa <unknown>
+#1 0x56460ef35d20 <unknown>
+#2 0x56460ef3bae3 <unknown>
+#3 0x56460ef3dfa8 <unknown>
+#4 0x56460ef3e033 <unknown>
+#5 0x56460ef846c5 <unknown>
+#6 0x56460ef84d01 <unknown>
+#7 0x56460ef791b6 <unknown>
+#8 0x56460efa8b1d <unknown>
+#9 0x56460ef790a8 <unknown>
+#10 0x56460efa8cbe <unknown>
+#11 0x56460efc7560 <unknown>
+#12 0x56460efa8893 <unknown>
+#13 0x56460ef7730d <unknown>
+#14 0x56460ef7832e <unknown>
+#15 0x56460f3f100b <unknown>
+#16 0x56460f3f4f97 <unknown>
+#17 0x56460f3dd71c <unknown>
+#18 0x56460f3f5b17 <unknown>
+#19 0x56460f3c26cf <unknown>
+#20 0x56460f4136b8 <unknown>
+#21 0x56460f413880 <unknown>
+#22 0x56460f423776 <unknown>
+#23 0x7f36ea3c9ac3 <unknown>
+
+Error processing row 14: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x56460f4248fa <unknown>
+#1 0x56460ef35d20 <unknown>
+#2 0x56460ef3bae3 <unknown>
+#3 0x56460ef3dfa8 <unknown>
+#4 0x56460ef3e033 <unknown>
+#5 0x56460ef846c5 <unknown>
+#6 0x56460ef84d01 <unknown>
+#7 0x56460ef791b6 <unknown>
+#8 0x56460efa8b1d <unknown>
+#9 0x56460ef790a8 <unknown>
+#10 0x56460efa8cbe <unknown>
+#11 0x56460efc7560 <unknown>
+#12 0x56460efa8893 <unknown>
+#13 0x56460ef7730d <unknown>
+#14 0x56460ef7832e <unknown>
+#15 0x56460f3f100b <unknown>
+#16 0x56460f3f4f97 <unknown>
+#17 0x56460f3dd71c <unknown>
+#18 0x56460f3f5b17 <unknown>
+#19 0x56460f3c26cf <unknown>
+#20 0x56460f4136b8 <unknown>
+#21 0x56460f413880 <unknown>
+#22 0x56460f423776 <unknown>
+#23 0x7f36ea3c9ac3 <unknown>
+
+Error processing row 15: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x56460f4248fa <unknown>
+#1 0x56460ef35d20 <unknown>
+#2 0x56460ef3bae3 <unknown>
+#3 0x56460ef3dfa8 <unknown>
+#4 0x56460ef3e033 <unknown>
+#5 0x56460ef846c5 <unknown>
+#6 0x56460ef84d01 <unknown>
+#7 0x56460ef791b6 <unknown>
+#8 0x56460efa8b1d <unknown>
+#9 0x56460ef790a8 <unknown>
+#10 0x56460efa8cbe <unknown>
+#11 0x56460efc7560 <unknown>
+#12 0x56460efa8893 <unknown>
+#13 0x56460ef7730d <unknown>
+#14 0x56460ef7832e <unknown>
+#15 0x56460f3f100b <unknown>
+#16 0x56460f3f4f97 <unknown>
+#17 0x56460f3dd71c <unknown>
+#18 0x56460f3f5b17 <unknown>
+#19 0x56460f3c26cf <unknown>
+#20 0x56460f4136b8 <unknown>
+#21 0x56460f413880 <unknown>
+#22 0x56460f423776 <unknown>
+#23 0x7f36ea3c9ac3 <unknown>
+
+--------WE DO NOT HAVE DATA FOR TODAY--------
+Error processing row 1: expected str, bytes or os.PathLike object, not NoneType
+Error processing row 2: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5616b5cc78fa <unknown>
+#1 0x5616b57d8d20 <unknown>
+#2 0x5616b57deae3 <unknown>
+#3 0x5616b57e0fa8 <unknown>
+#4 0x5616b57e1033 <unknown>
+#5 0x5616b58276c5 <unknown>
+#6 0x5616b5827d01 <unknown>
+#7 0x5616b581c1b6 <unknown>
+#8 0x5616b584bb1d <unknown>
+#9 0x5616b581c0a8 <unknown>
+#10 0x5616b584bcbe <unknown>
+#11 0x5616b586a560 <unknown>
+#12 0x5616b584b893 <unknown>
+#13 0x5616b581a30d <unknown>
+#14 0x5616b581b32e <unknown>
+#15 0x5616b5c9400b <unknown>
+#16 0x5616b5c97f97 <unknown>
+#17 0x5616b5c8071c <unknown>
+#18 0x5616b5c98b17 <unknown>
+#19 0x5616b5c656cf <unknown>
+#20 0x5616b5cb66b8 <unknown>
+#21 0x5616b5cb6880 <unknown>
+#22 0x5616b5cc6776 <unknown>
+#23 0x7f7bd45a4ac3 <unknown>
+
+Error processing row 3: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5616b5cc78fa <unknown>
+#1 0x5616b57d8d20 <unknown>
+#2 0x5616b57deae3 <unknown>
+#3 0x5616b57e0fa8 <unknown>
+#4 0x5616b57e1033 <unknown>
+#5 0x5616b58276c5 <unknown>
+#6 0x5616b5827d01 <unknown>
+#7 0x5616b581c1b6 <unknown>
+#8 0x5616b584bb1d <unknown>
+#9 0x5616b581c0a8 <unknown>
+#10 0x5616b584bcbe <unknown>
+#11 0x5616b586a560 <unknown>
+#12 0x5616b584b893 <unknown>
+#13 0x5616b581a30d <unknown>
+#14 0x5616b581b32e <unknown>
+#15 0x5616b5c9400b <unknown>
+#16 0x5616b5c97f97 <unknown>
+#17 0x5616b5c8071c <unknown>
+#18 0x5616b5c98b17 <unknown>
+#19 0x5616b5c656cf <unknown>
+#20 0x5616b5cb66b8 <unknown>
+#21 0x5616b5cb6880 <unknown>
+#22 0x5616b5cc6776 <unknown>
+#23 0x7f7bd45a4ac3 <unknown>
+
+Error processing row 4: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5616b5cc78fa <unknown>
+#1 0x5616b57d8d20 <unknown>
+#2 0x5616b57deae3 <unknown>
+#3 0x5616b57e0fa8 <unknown>
+#4 0x5616b57e1033 <unknown>
+#5 0x5616b58276c5 <unknown>
+#6 0x5616b5827d01 <unknown>
+#7 0x5616b581c1b6 <unknown>
+#8 0x5616b584bb1d <unknown>
+#9 0x5616b581c0a8 <unknown>
+#10 0x5616b584bcbe <unknown>
+#11 0x5616b586a560 <unknown>
+#12 0x5616b584b893 <unknown>
+#13 0x5616b581a30d <unknown>
+#14 0x5616b581b32e <unknown>
+#15 0x5616b5c9400b <unknown>
+#16 0x5616b5c97f97 <unknown>
+#17 0x5616b5c8071c <unknown>
+#18 0x5616b5c98b17 <unknown>
+#19 0x5616b5c656cf <unknown>
+#20 0x5616b5cb66b8 <unknown>
+#21 0x5616b5cb6880 <unknown>
+#22 0x5616b5cc6776 <unknown>
+#23 0x7f7bd45a4ac3 <unknown>
+
+Error processing row 5: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5616b5cc78fa <unknown>
+#1 0x5616b57d8d20 <unknown>
+#2 0x5616b57deae3 <unknown>
+#3 0x5616b57e0fa8 <unknown>
+#4 0x5616b57e1033 <unknown>
+#5 0x5616b58276c5 <unknown>
+#6 0x5616b5827d01 <unknown>
+#7 0x5616b581c1b6 <unknown>
+#8 0x5616b584bb1d <unknown>
+#9 0x5616b581c0a8 <unknown>
+#10 0x5616b584bcbe <unknown>
+#11 0x5616b586a560 <unknown>
+#12 0x5616b584b893 <unknown>
+#13 0x5616b581a30d <unknown>
+#14 0x5616b581b32e <unknown>
+#15 0x5616b5c9400b <unknown>
+#16 0x5616b5c97f97 <unknown>
+#17 0x5616b5c8071c <unknown>
+#18 0x5616b5c98b17 <unknown>
+#19 0x5616b5c656cf <unknown>
+#20 0x5616b5cb66b8 <unknown>
+#21 0x5616b5cb6880 <unknown>
+#22 0x5616b5cc6776 <unknown>
+#23 0x7f7bd45a4ac3 <unknown>
+
+Error processing row 6: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5616b5cc78fa <unknown>
+#1 0x5616b57d8d20 <unknown>
+#2 0x5616b57deae3 <unknown>
+#3 0x5616b57e0fa8 <unknown>
+#4 0x5616b57e1033 <unknown>
+#5 0x5616b58276c5 <unknown>
+#6 0x5616b5827d01 <unknown>
+#7 0x5616b581c1b6 <unknown>
+#8 0x5616b584bb1d <unknown>
+#9 0x5616b581c0a8 <unknown>
+#10 0x5616b584bcbe <unknown>
+#11 0x5616b586a560 <unknown>
+#12 0x5616b584b893 <unknown>
+#13 0x5616b581a30d <unknown>
+#14 0x5616b581b32e <unknown>
+#15 0x5616b5c9400b <unknown>
+#16 0x5616b5c97f97 <unknown>
+#17 0x5616b5c8071c <unknown>
+#18 0x5616b5c98b17 <unknown>
+#19 0x5616b5c656cf <unknown>
+#20 0x5616b5cb66b8 <unknown>
+#21 0x5616b5cb6880 <unknown>
+#22 0x5616b5cc6776 <unknown>
+#23 0x7f7bd45a4ac3 <unknown>
+
+Error processing row 7: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5616b5cc78fa <unknown>
+#1 0x5616b57d8d20 <unknown>
+#2 0x5616b57deae3 <unknown>
+#3 0x5616b57e0fa8 <unknown>
+#4 0x5616b57e1033 <unknown>
+#5 0x5616b58276c5 <unknown>
+#6 0x5616b5827d01 <unknown>
+#7 0x5616b581c1b6 <unknown>
+#8 0x5616b584bb1d <unknown>
+#9 0x5616b581c0a8 <unknown>
+#10 0x5616b584bcbe <unknown>
+#11 0x5616b586a560 <unknown>
+#12 0x5616b584b893 <unknown>
+#13 0x5616b581a30d <unknown>
+#14 0x5616b581b32e <unknown>
+#15 0x5616b5c9400b <unknown>
+#16 0x5616b5c97f97 <unknown>
+#17 0x5616b5c8071c <unknown>
+#18 0x5616b5c98b17 <unknown>
+#19 0x5616b5c656cf <unknown>
+#20 0x5616b5cb66b8 <unknown>
+#21 0x5616b5cb6880 <unknown>
+#22 0x5616b5cc6776 <unknown>
+#23 0x7f7bd45a4ac3 <unknown>
+
+Error processing row 8: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5616b5cc78fa <unknown>
+#1 0x5616b57d8d20 <unknown>
+#2 0x5616b57deae3 <unknown>
+#3 0x5616b57e0fa8 <unknown>
+#4 0x5616b57e1033 <unknown>
+#5 0x5616b58276c5 <unknown>
+#6 0x5616b5827d01 <unknown>
+#7 0x5616b581c1b6 <unknown>
+#8 0x5616b584bb1d <unknown>
+#9 0x5616b581c0a8 <unknown>
+#10 0x5616b584bcbe <unknown>
+#11 0x5616b586a560 <unknown>
+#12 0x5616b584b893 <unknown>
+#13 0x5616b581a30d <unknown>
+#14 0x5616b581b32e <unknown>
+#15 0x5616b5c9400b <unknown>
+#16 0x5616b5c97f97 <unknown>
+#17 0x5616b5c8071c <unknown>
+#18 0x5616b5c98b17 <unknown>
+#19 0x5616b5c656cf <unknown>
+#20 0x5616b5cb66b8 <unknown>
+#21 0x5616b5cb6880 <unknown>
+#22 0x5616b5cc6776 <unknown>
+#23 0x7f7bd45a4ac3 <unknown>
+
+Error processing row 9: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5616b5cc78fa <unknown>
+#1 0x5616b57d8d20 <unknown>
+#2 0x5616b57deae3 <unknown>
+#3 0x5616b57e0fa8 <unknown>
+#4 0x5616b57e1033 <unknown>
+#5 0x5616b58276c5 <unknown>
+#6 0x5616b5827d01 <unknown>
+#7 0x5616b581c1b6 <unknown>
+#8 0x5616b584bb1d <unknown>
+#9 0x5616b581c0a8 <unknown>
+#10 0x5616b584bcbe <unknown>
+#11 0x5616b586a560 <unknown>
+#12 0x5616b584b893 <unknown>
+#13 0x5616b581a30d <unknown>
+#14 0x5616b581b32e <unknown>
+#15 0x5616b5c9400b <unknown>
+#16 0x5616b5c97f97 <unknown>
+#17 0x5616b5c8071c <unknown>
+#18 0x5616b5c98b17 <unknown>
+#19 0x5616b5c656cf <unknown>
+#20 0x5616b5cb66b8 <unknown>
+#21 0x5616b5cb6880 <unknown>
+#22 0x5616b5cc6776 <unknown>
+#23 0x7f7bd45a4ac3 <unknown>
+
+Error processing row 10: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5616b5cc78fa <unknown>
+#1 0x5616b57d8d20 <unknown>
+#2 0x5616b57deae3 <unknown>
+#3 0x5616b57e0fa8 <unknown>
+#4 0x5616b57e1033 <unknown>
+#5 0x5616b58276c5 <unknown>
+#6 0x5616b5827d01 <unknown>
+#7 0x5616b581c1b6 <unknown>
+#8 0x5616b584bb1d <unknown>
+#9 0x5616b581c0a8 <unknown>
+#10 0x5616b584bcbe <unknown>
+#11 0x5616b586a560 <unknown>
+#12 0x5616b584b893 <unknown>
+#13 0x5616b581a30d <unknown>
+#14 0x5616b581b32e <unknown>
+#15 0x5616b5c9400b <unknown>
+#16 0x5616b5c97f97 <unknown>
+#17 0x5616b5c8071c <unknown>
+#18 0x5616b5c98b17 <unknown>
+#19 0x5616b5c656cf <unknown>
+#20 0x5616b5cb66b8 <unknown>
+#21 0x5616b5cb6880 <unknown>
+#22 0x5616b5cc6776 <unknown>
+#23 0x7f7bd45a4ac3 <unknown>
+
+Error processing row 11: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5616b5cc78fa <unknown>
+#1 0x5616b57d8d20 <unknown>
+#2 0x5616b57deae3 <unknown>
+#3 0x5616b57e0fa8 <unknown>
+#4 0x5616b57e1033 <unknown>
+#5 0x5616b58276c5 <unknown>
+#6 0x5616b5827d01 <unknown>
+#7 0x5616b581c1b6 <unknown>
+#8 0x5616b584bb1d <unknown>
+#9 0x5616b581c0a8 <unknown>
+#10 0x5616b584bcbe <unknown>
+#11 0x5616b586a560 <unknown>
+#12 0x5616b584b893 <unknown>
+#13 0x5616b581a30d <unknown>
+#14 0x5616b581b32e <unknown>
+#15 0x5616b5c9400b <unknown>
+#16 0x5616b5c97f97 <unknown>
+#17 0x5616b5c8071c <unknown>
+#18 0x5616b5c98b17 <unknown>
+#19 0x5616b5c656cf <unknown>
+#20 0x5616b5cb66b8 <unknown>
+#21 0x5616b5cb6880 <unknown>
+#22 0x5616b5cc6776 <unknown>
+#23 0x7f7bd45a4ac3 <unknown>
+
+Error processing row 12: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5616b5cc78fa <unknown>
+#1 0x5616b57d8d20 <unknown>
+#2 0x5616b57deae3 <unknown>
+#3 0x5616b57e0fa8 <unknown>
+#4 0x5616b57e1033 <unknown>
+#5 0x5616b58276c5 <unknown>
+#6 0x5616b5827d01 <unknown>
+#7 0x5616b581c1b6 <unknown>
+#8 0x5616b584bb1d <unknown>
+#9 0x5616b581c0a8 <unknown>
+#10 0x5616b584bcbe <unknown>
+#11 0x5616b586a560 <unknown>
+#12 0x5616b584b893 <unknown>
+#13 0x5616b581a30d <unknown>
+#14 0x5616b581b32e <unknown>
+#15 0x5616b5c9400b <unknown>
+#16 0x5616b5c97f97 <unknown>
+#17 0x5616b5c8071c <unknown>
+#18 0x5616b5c98b17 <unknown>
+#19 0x5616b5c656cf <unknown>
+#20 0x5616b5cb66b8 <unknown>
+#21 0x5616b5cb6880 <unknown>
+#22 0x5616b5cc6776 <unknown>
+#23 0x7f7bd45a4ac3 <unknown>
+
+Error processing row 13: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5616b5cc78fa <unknown>
+#1 0x5616b57d8d20 <unknown>
+#2 0x5616b57deae3 <unknown>
+#3 0x5616b57e0fa8 <unknown>
+#4 0x5616b57e1033 <unknown>
+#5 0x5616b58276c5 <unknown>
+#6 0x5616b5827d01 <unknown>
+#7 0x5616b581c1b6 <unknown>
+#8 0x5616b584bb1d <unknown>
+#9 0x5616b581c0a8 <unknown>
+#10 0x5616b584bcbe <unknown>
+#11 0x5616b586a560 <unknown>
+#12 0x5616b584b893 <unknown>
+#13 0x5616b581a30d <unknown>
+#14 0x5616b581b32e <unknown>
+#15 0x5616b5c9400b <unknown>
+#16 0x5616b5c97f97 <unknown>
+#17 0x5616b5c8071c <unknown>
+#18 0x5616b5c98b17 <unknown>
+#19 0x5616b5c656cf <unknown>
+#20 0x5616b5cb66b8 <unknown>
+#21 0x5616b5cb6880 <unknown>
+#22 0x5616b5cc6776 <unknown>
+#23 0x7f7bd45a4ac3 <unknown>
+
+Error processing row 14: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5616b5cc78fa <unknown>
+#1 0x5616b57d8d20 <unknown>
+#2 0x5616b57deae3 <unknown>
+#3 0x5616b57e0fa8 <unknown>
+#4 0x5616b57e1033 <unknown>
+#5 0x5616b58276c5 <unknown>
+#6 0x5616b5827d01 <unknown>
+#7 0x5616b581c1b6 <unknown>
+#8 0x5616b584bb1d <unknown>
+#9 0x5616b581c0a8 <unknown>
+#10 0x5616b584bcbe <unknown>
+#11 0x5616b586a560 <unknown>
+#12 0x5616b584b893 <unknown>
+#13 0x5616b581a30d <unknown>
+#14 0x5616b581b32e <unknown>
+#15 0x5616b5c9400b <unknown>
+#16 0x5616b5c97f97 <unknown>
+#17 0x5616b5c8071c <unknown>
+#18 0x5616b5c98b17 <unknown>
+#19 0x5616b5c656cf <unknown>
+#20 0x5616b5cb66b8 <unknown>
+#21 0x5616b5cb6880 <unknown>
+#22 0x5616b5cc6776 <unknown>
+#23 0x7f7bd45a4ac3 <unknown>
+
+Error processing row 15: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5616b5cc78fa <unknown>
+#1 0x5616b57d8d20 <unknown>
+#2 0x5616b57deae3 <unknown>
+#3 0x5616b57e0fa8 <unknown>
+#4 0x5616b57e1033 <unknown>
+#5 0x5616b58276c5 <unknown>
+#6 0x5616b5827d01 <unknown>
+#7 0x5616b581c1b6 <unknown>
+#8 0x5616b584bb1d <unknown>
+#9 0x5616b581c0a8 <unknown>
+#10 0x5616b584bcbe <unknown>
+#11 0x5616b586a560 <unknown>
+#12 0x5616b584b893 <unknown>
+#13 0x5616b581a30d <unknown>
+#14 0x5616b581b32e <unknown>
+#15 0x5616b5c9400b <unknown>
+#16 0x5616b5c97f97 <unknown>
+#17 0x5616b5c8071c <unknown>
+#18 0x5616b5c98b17 <unknown>
+#19 0x5616b5c656cf <unknown>
+#20 0x5616b5cb66b8 <unknown>
+#21 0x5616b5cb6880 <unknown>
+#22 0x5616b5cc6776 <unknown>
+#23 0x7f7bd45a4ac3 <unknown>
+
+--------WE DO NOT HAVE DATA FOR TODAY--------
+Error processing row 1: expected str, bytes or os.PathLike object, not NoneType
+Error processing row 2: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5599c37db8fa <unknown>
+#1 0x5599c32ecd20 <unknown>
+#2 0x5599c32f2ae3 <unknown>
+#3 0x5599c32f4fa8 <unknown>
+#4 0x5599c32f5033 <unknown>
+#5 0x5599c333b6c5 <unknown>
+#6 0x5599c333bd01 <unknown>
+#7 0x5599c33301b6 <unknown>
+#8 0x5599c335fb1d <unknown>
+#9 0x5599c33300a8 <unknown>
+#10 0x5599c335fcbe <unknown>
+#11 0x5599c337e560 <unknown>
+#12 0x5599c335f893 <unknown>
+#13 0x5599c332e30d <unknown>
+#14 0x5599c332f32e <unknown>
+#15 0x5599c37a800b <unknown>
+#16 0x5599c37abf97 <unknown>
+#17 0x5599c379471c <unknown>
+#18 0x5599c37acb17 <unknown>
+#19 0x5599c37796cf <unknown>
+#20 0x5599c37ca6b8 <unknown>
+#21 0x5599c37ca880 <unknown>
+#22 0x5599c37da776 <unknown>
+#23 0x7ffa542f3ac3 <unknown>
+
+Error processing row 3: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5599c37db8fa <unknown>
+#1 0x5599c32ecd20 <unknown>
+#2 0x5599c32f2ae3 <unknown>
+#3 0x5599c32f4fa8 <unknown>
+#4 0x5599c32f5033 <unknown>
+#5 0x5599c333b6c5 <unknown>
+#6 0x5599c333bd01 <unknown>
+#7 0x5599c33301b6 <unknown>
+#8 0x5599c335fb1d <unknown>
+#9 0x5599c33300a8 <unknown>
+#10 0x5599c335fcbe <unknown>
+#11 0x5599c337e560 <unknown>
+#12 0x5599c335f893 <unknown>
+#13 0x5599c332e30d <unknown>
+#14 0x5599c332f32e <unknown>
+#15 0x5599c37a800b <unknown>
+#16 0x5599c37abf97 <unknown>
+#17 0x5599c379471c <unknown>
+#18 0x5599c37acb17 <unknown>
+#19 0x5599c37796cf <unknown>
+#20 0x5599c37ca6b8 <unknown>
+#21 0x5599c37ca880 <unknown>
+#22 0x5599c37da776 <unknown>
+#23 0x7ffa542f3ac3 <unknown>
+
+Error processing row 4: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5599c37db8fa <unknown>
+#1 0x5599c32ecd20 <unknown>
+#2 0x5599c32f2ae3 <unknown>
+#3 0x5599c32f4fa8 <unknown>
+#4 0x5599c32f5033 <unknown>
+#5 0x5599c333b6c5 <unknown>
+#6 0x5599c333bd01 <unknown>
+#7 0x5599c33301b6 <unknown>
+#8 0x5599c335fb1d <unknown>
+#9 0x5599c33300a8 <unknown>
+#10 0x5599c335fcbe <unknown>
+#11 0x5599c337e560 <unknown>
+#12 0x5599c335f893 <unknown>
+#13 0x5599c332e30d <unknown>
+#14 0x5599c332f32e <unknown>
+#15 0x5599c37a800b <unknown>
+#16 0x5599c37abf97 <unknown>
+#17 0x5599c379471c <unknown>
+#18 0x5599c37acb17 <unknown>
+#19 0x5599c37796cf <unknown>
+#20 0x5599c37ca6b8 <unknown>
+#21 0x5599c37ca880 <unknown>
+#22 0x5599c37da776 <unknown>
+#23 0x7ffa542f3ac3 <unknown>
+
+Error processing row 5: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5599c37db8fa <unknown>
+#1 0x5599c32ecd20 <unknown>
+#2 0x5599c32f2ae3 <unknown>
+#3 0x5599c32f4fa8 <unknown>
+#4 0x5599c32f5033 <unknown>
+#5 0x5599c333b6c5 <unknown>
+#6 0x5599c333bd01 <unknown>
+#7 0x5599c33301b6 <unknown>
+#8 0x5599c335fb1d <unknown>
+#9 0x5599c33300a8 <unknown>
+#10 0x5599c335fcbe <unknown>
+#11 0x5599c337e560 <unknown>
+#12 0x5599c335f893 <unknown>
+#13 0x5599c332e30d <unknown>
+#14 0x5599c332f32e <unknown>
+#15 0x5599c37a800b <unknown>
+#16 0x5599c37abf97 <unknown>
+#17 0x5599c379471c <unknown>
+#18 0x5599c37acb17 <unknown>
+#19 0x5599c37796cf <unknown>
+#20 0x5599c37ca6b8 <unknown>
+#21 0x5599c37ca880 <unknown>
+#22 0x5599c37da776 <unknown>
+#23 0x7ffa542f3ac3 <unknown>
+
+Error processing row 6: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5599c37db8fa <unknown>
+#1 0x5599c32ecd20 <unknown>
+#2 0x5599c32f2ae3 <unknown>
+#3 0x5599c32f4fa8 <unknown>
+#4 0x5599c32f5033 <unknown>
+#5 0x5599c333b6c5 <unknown>
+#6 0x5599c333bd01 <unknown>
+#7 0x5599c33301b6 <unknown>
+#8 0x5599c335fb1d <unknown>
+#9 0x5599c33300a8 <unknown>
+#10 0x5599c335fcbe <unknown>
+#11 0x5599c337e560 <unknown>
+#12 0x5599c335f893 <unknown>
+#13 0x5599c332e30d <unknown>
+#14 0x5599c332f32e <unknown>
+#15 0x5599c37a800b <unknown>
+#16 0x5599c37abf97 <unknown>
+#17 0x5599c379471c <unknown>
+#18 0x5599c37acb17 <unknown>
+#19 0x5599c37796cf <unknown>
+#20 0x5599c37ca6b8 <unknown>
+#21 0x5599c37ca880 <unknown>
+#22 0x5599c37da776 <unknown>
+#23 0x7ffa542f3ac3 <unknown>
+
+Error processing row 7: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5599c37db8fa <unknown>
+#1 0x5599c32ecd20 <unknown>
+#2 0x5599c32f2ae3 <unknown>
+#3 0x5599c32f4fa8 <unknown>
+#4 0x5599c32f5033 <unknown>
+#5 0x5599c333b6c5 <unknown>
+#6 0x5599c333bd01 <unknown>
+#7 0x5599c33301b6 <unknown>
+#8 0x5599c335fb1d <unknown>
+#9 0x5599c33300a8 <unknown>
+#10 0x5599c335fcbe <unknown>
+#11 0x5599c337e560 <unknown>
+#12 0x5599c335f893 <unknown>
+#13 0x5599c332e30d <unknown>
+#14 0x5599c332f32e <unknown>
+#15 0x5599c37a800b <unknown>
+#16 0x5599c37abf97 <unknown>
+#17 0x5599c379471c <unknown>
+#18 0x5599c37acb17 <unknown>
+#19 0x5599c37796cf <unknown>
+#20 0x5599c37ca6b8 <unknown>
+#21 0x5599c37ca880 <unknown>
+#22 0x5599c37da776 <unknown>
+#23 0x7ffa542f3ac3 <unknown>
+
+Error processing row 8: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5599c37db8fa <unknown>
+#1 0x5599c32ecd20 <unknown>
+#2 0x5599c32f2ae3 <unknown>
+#3 0x5599c32f4fa8 <unknown>
+#4 0x5599c32f5033 <unknown>
+#5 0x5599c333b6c5 <unknown>
+#6 0x5599c333bd01 <unknown>
+#7 0x5599c33301b6 <unknown>
+#8 0x5599c335fb1d <unknown>
+#9 0x5599c33300a8 <unknown>
+#10 0x5599c335fcbe <unknown>
+#11 0x5599c337e560 <unknown>
+#12 0x5599c335f893 <unknown>
+#13 0x5599c332e30d <unknown>
+#14 0x5599c332f32e <unknown>
+#15 0x5599c37a800b <unknown>
+#16 0x5599c37abf97 <unknown>
+#17 0x5599c379471c <unknown>
+#18 0x5599c37acb17 <unknown>
+#19 0x5599c37796cf <unknown>
+#20 0x5599c37ca6b8 <unknown>
+#21 0x5599c37ca880 <unknown>
+#22 0x5599c37da776 <unknown>
+#23 0x7ffa542f3ac3 <unknown>
+
+Error processing row 9: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5599c37db8fa <unknown>
+#1 0x5599c32ecd20 <unknown>
+#2 0x5599c32f2ae3 <unknown>
+#3 0x5599c32f4fa8 <unknown>
+#4 0x5599c32f5033 <unknown>
+#5 0x5599c333b6c5 <unknown>
+#6 0x5599c333bd01 <unknown>
+#7 0x5599c33301b6 <unknown>
+#8 0x5599c335fb1d <unknown>
+#9 0x5599c33300a8 <unknown>
+#10 0x5599c335fcbe <unknown>
+#11 0x5599c337e560 <unknown>
+#12 0x5599c335f893 <unknown>
+#13 0x5599c332e30d <unknown>
+#14 0x5599c332f32e <unknown>
+#15 0x5599c37a800b <unknown>
+#16 0x5599c37abf97 <unknown>
+#17 0x5599c379471c <unknown>
+#18 0x5599c37acb17 <unknown>
+#19 0x5599c37796cf <unknown>
+#20 0x5599c37ca6b8 <unknown>
+#21 0x5599c37ca880 <unknown>
+#22 0x5599c37da776 <unknown>
+#23 0x7ffa542f3ac3 <unknown>
+
+Error processing row 10: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5599c37db8fa <unknown>
+#1 0x5599c32ecd20 <unknown>
+#2 0x5599c32f2ae3 <unknown>
+#3 0x5599c32f4fa8 <unknown>
+#4 0x5599c32f5033 <unknown>
+#5 0x5599c333b6c5 <unknown>
+#6 0x5599c333bd01 <unknown>
+#7 0x5599c33301b6 <unknown>
+#8 0x5599c335fb1d <unknown>
+#9 0x5599c33300a8 <unknown>
+#10 0x5599c335fcbe <unknown>
+#11 0x5599c337e560 <unknown>
+#12 0x5599c335f893 <unknown>
+#13 0x5599c332e30d <unknown>
+#14 0x5599c332f32e <unknown>
+#15 0x5599c37a800b <unknown>
+#16 0x5599c37abf97 <unknown>
+#17 0x5599c379471c <unknown>
+#18 0x5599c37acb17 <unknown>
+#19 0x5599c37796cf <unknown>
+#20 0x5599c37ca6b8 <unknown>
+#21 0x5599c37ca880 <unknown>
+#22 0x5599c37da776 <unknown>
+#23 0x7ffa542f3ac3 <unknown>
+
+Error processing row 11: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5599c37db8fa <unknown>
+#1 0x5599c32ecd20 <unknown>
+#2 0x5599c32f2ae3 <unknown>
+#3 0x5599c32f4fa8 <unknown>
+#4 0x5599c32f5033 <unknown>
+#5 0x5599c333b6c5 <unknown>
+#6 0x5599c333bd01 <unknown>
+#7 0x5599c33301b6 <unknown>
+#8 0x5599c335fb1d <unknown>
+#9 0x5599c33300a8 <unknown>
+#10 0x5599c335fcbe <unknown>
+#11 0x5599c337e560 <unknown>
+#12 0x5599c335f893 <unknown>
+#13 0x5599c332e30d <unknown>
+#14 0x5599c332f32e <unknown>
+#15 0x5599c37a800b <unknown>
+#16 0x5599c37abf97 <unknown>
+#17 0x5599c379471c <unknown>
+#18 0x5599c37acb17 <unknown>
+#19 0x5599c37796cf <unknown>
+#20 0x5599c37ca6b8 <unknown>
+#21 0x5599c37ca880 <unknown>
+#22 0x5599c37da776 <unknown>
+#23 0x7ffa542f3ac3 <unknown>
+
+Error processing row 12: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5599c37db8fa <unknown>
+#1 0x5599c32ecd20 <unknown>
+#2 0x5599c32f2ae3 <unknown>
+#3 0x5599c32f4fa8 <unknown>
+#4 0x5599c32f5033 <unknown>
+#5 0x5599c333b6c5 <unknown>
+#6 0x5599c333bd01 <unknown>
+#7 0x5599c33301b6 <unknown>
+#8 0x5599c335fb1d <unknown>
+#9 0x5599c33300a8 <unknown>
+#10 0x5599c335fcbe <unknown>
+#11 0x5599c337e560 <unknown>
+#12 0x5599c335f893 <unknown>
+#13 0x5599c332e30d <unknown>
+#14 0x5599c332f32e <unknown>
+#15 0x5599c37a800b <unknown>
+#16 0x5599c37abf97 <unknown>
+#17 0x5599c379471c <unknown>
+#18 0x5599c37acb17 <unknown>
+#19 0x5599c37796cf <unknown>
+#20 0x5599c37ca6b8 <unknown>
+#21 0x5599c37ca880 <unknown>
+#22 0x5599c37da776 <unknown>
+#23 0x7ffa542f3ac3 <unknown>
+
+Error processing row 13: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5599c37db8fa <unknown>
+#1 0x5599c32ecd20 <unknown>
+#2 0x5599c32f2ae3 <unknown>
+#3 0x5599c32f4fa8 <unknown>
+#4 0x5599c32f5033 <unknown>
+#5 0x5599c333b6c5 <unknown>
+#6 0x5599c333bd01 <unknown>
+#7 0x5599c33301b6 <unknown>
+#8 0x5599c335fb1d <unknown>
+#9 0x5599c33300a8 <unknown>
+#10 0x5599c335fcbe <unknown>
+#11 0x5599c337e560 <unknown>
+#12 0x5599c335f893 <unknown>
+#13 0x5599c332e30d <unknown>
+#14 0x5599c332f32e <unknown>
+#15 0x5599c37a800b <unknown>
+#16 0x5599c37abf97 <unknown>
+#17 0x5599c379471c <unknown>
+#18 0x5599c37acb17 <unknown>
+#19 0x5599c37796cf <unknown>
+#20 0x5599c37ca6b8 <unknown>
+#21 0x5599c37ca880 <unknown>
+#22 0x5599c37da776 <unknown>
+#23 0x7ffa542f3ac3 <unknown>
+
+Error processing row 14: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5599c37db8fa <unknown>
+#1 0x5599c32ecd20 <unknown>
+#2 0x5599c32f2ae3 <unknown>
+#3 0x5599c32f4fa8 <unknown>
+#4 0x5599c32f5033 <unknown>
+#5 0x5599c333b6c5 <unknown>
+#6 0x5599c333bd01 <unknown>
+#7 0x5599c33301b6 <unknown>
+#8 0x5599c335fb1d <unknown>
+#9 0x5599c33300a8 <unknown>
+#10 0x5599c335fcbe <unknown>
+#11 0x5599c337e560 <unknown>
+#12 0x5599c335f893 <unknown>
+#13 0x5599c332e30d <unknown>
+#14 0x5599c332f32e <unknown>
+#15 0x5599c37a800b <unknown>
+#16 0x5599c37abf97 <unknown>
+#17 0x5599c379471c <unknown>
+#18 0x5599c37acb17 <unknown>
+#19 0x5599c37796cf <unknown>
+#20 0x5599c37ca6b8 <unknown>
+#21 0x5599c37ca880 <unknown>
+#22 0x5599c37da776 <unknown>
+#23 0x7ffa542f3ac3 <unknown>
+
+Error processing row 15: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.204); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5599c37db8fa <unknown>
+#1 0x5599c32ecd20 <unknown>
+#2 0x5599c32f2ae3 <unknown>
+#3 0x5599c32f4fa8 <unknown>
+#4 0x5599c32f5033 <unknown>
+#5 0x5599c333b6c5 <unknown>
+#6 0x5599c333bd01 <unknown>
+#7 0x5599c33301b6 <unknown>
+#8 0x5599c335fb1d <unknown>
+#9 0x5599c33300a8 <unknown>
+#10 0x5599c335fcbe <unknown>
+#11 0x5599c337e560 <unknown>
+#12 0x5599c335f893 <unknown>
+#13 0x5599c332e30d <unknown>
+#14 0x5599c332f32e <unknown>
+#15 0x5599c37a800b <unknown>
+#16 0x5599c37abf97 <unknown>
+#17 0x5599c379471c <unknown>
+#18 0x5599c37acb17 <unknown>
+#19 0x5599c37796cf <unknown>
+#20 0x5599c37ca6b8 <unknown>
+#21 0x5599c37ca880 <unknown>
+#22 0x5599c37da776 <unknown>
+#23 0x7ffa542f3ac3 <unknown>
+
+--------WE DO NOT HAVE DATA FOR TODAY--------

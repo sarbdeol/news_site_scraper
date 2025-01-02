@@ -90,7 +90,7 @@ if recent_href and recent_href != 'No recent news found':
 
     download_image(post_info["image"],img_name)
 
-    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+    # upload_photo_to_ftp(img_name,"/public_html/storage/information/")
 
     date =  date_format(post_info["date"])
 
@@ -138,6 +138,7 @@ driver.quit()
 
 
 if date==date_format(datetime.now().today()):
+    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
     # Insert the CSV data into the database
     insert_csv_data("scraped_data.csv", "informations")
     append_unique_records("scraped_data.csv","combined_news_data.csv")

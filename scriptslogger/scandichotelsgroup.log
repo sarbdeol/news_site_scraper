@@ -1,0 +1,42 @@
+Image successfully downloaded: ZmOBpDD0qD.jpg
+Connected to FTP server: hotelexplorer.net
+Photo 'ZmOBpDD0qD.jpg' uploaded successfully to '/public_html/storage/information/'.
+23 Dec 2024
+File 'scandichotelsgroup_news.csv' does not exist.
+WE DO NOT HAVE DATA FOR TODAY
+Image successfully downloaded: W21ZUr0lCR.jpg
+Connected to FTP server: hotelexplorer.net
+Photo 'W21ZUr0lCR.jpg' uploaded successfully to '/public_html/storage/information/'.
+23 Dec 2024
+File 'scandichotelsgroup_news.csv' has been removed.
+WE DO NOT HAVE DATA FOR TODAY
+Image successfully downloaded: N0GEbUsZuK.jpg
+Connected to FTP server: hotelexplorer.net
+Photo 'N0GEbUsZuK.jpg' uploaded successfully to '/public_html/storage/information/'.
+23 Dec 2024
+File 'scandichotelsgroup_news.csv' has been removed.
+WE DO NOT HAVE DATA FOR TODAY
+Image successfully downloaded: ds6HEn2WUc.jpg
+30 Dec 2024
+File 'scandichotelsgroup_news.csv' has been removed.
+Connected to FTP server: hotelexplorer.net
+Photo 'ds6HEn2WUc.jpg' uploaded successfully to '/public_html/storage/information/'.
+Database error: 1045 (28000): Access denied for user 'root'@'135.181.138.186' (using password: NO)
+Traceback (most recent call last):
+  File "/root/news_site_scraper/scandichotelsgroup.py", line 118, in <module>
+    insert_csv_data(csv_file_path,'informations')
+  File "/root/news_site_scraper/insert_csv_into_sql_db.py", line 394, in insert_csv_data
+    if connection.is_connected():
+UnboundLocalError: local variable 'connection' referenced before assignment
+Image successfully downloaded: x8PzmfufK5.jpg
+30 Dec 2024
+File 'scandichotelsgroup_news.csv' has been removed.
+WE DO NOT HAVE DATA FOR TODAY
+Image successfully downloaded: Ir2Z5nKx5F.jpg
+30 Dec 2024
+File 'scandichotelsgroup_news.csv' has been removed.
+WE DO NOT HAVE DATA FOR TODAY
+Image successfully downloaded: JNnglrDndb.jpg
+30 Dec 2024
+File 'scandichotelsgroup_news.csv' has been removed.
+WE DO NOT HAVE DATA FOR TODAY

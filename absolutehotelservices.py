@@ -77,7 +77,7 @@ if href:
 
     download_image(image_url,img_name)
 
-    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+    # upload_photo_to_ftp(img_name,"/public_html/storage/information/")
 
     # Extract the date
     js_code = """
@@ -127,7 +127,7 @@ if href:
 
     # Save data to CSV
     output_file = "press_release_data.csv"
-    df.to_csv(output_file, index=False)
+    # df.to_csv(output_file, index=False)
 
     print(f"Data saved to {output_file}")
 
@@ -135,6 +135,7 @@ if href:
 driver.quit()
 
 if date == date_format(time.strftime("%Y-%m-%d %H:%M:%S")):
+    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
     append_unique_records(output_file,"")
     insert_csv_data(output_file,"informations")
 else:

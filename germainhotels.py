@@ -44,9 +44,9 @@ driver.get('https://www.germainhotels.com/en/about/mediaroom')
 # Wait for the page to load
 time.sleep(3)
 
-# Create image folder if not exists
-image_folder = "germainhotels_images"
-os.makedirs(image_folder, exist_ok=True)
+# # Create image folder if not exists
+# image_folder = "germainhotels_images"
+# os.makedirs(image_folder, exist_ok=True)
 
 # Define CSV headers
 headers = [
@@ -88,11 +88,11 @@ with open(output_file, "w", newline="", encoding="utf-8") as csvfile:
             image_path = None
             if image_url:
                 image_name = f"{idx}.jpg"
-                image_path = os.path.join(image_folder, image_name)
+                # image_path = os.path.join(image_folder, image_name)
                 img_data = requests.get(image_url).content
                 with open(image_path, "wb") as img_file:
                     img_file.write(img_data)
-                upload_photo_to_ftp(image_name, "/public_html/storage/information/")
+                # upload_photo_to_ftp(image_name, "/public_html/storage/information/")
 
             # Get page content
             content = driver.execute_script("""
@@ -123,6 +123,7 @@ with open(output_file, "w", newline="", encoding="utf-8") as csvfile:
 # Close the driver and insert data
 driver.quit()
 if date_format(date) == date_format(datetime.now().today()):
+    upload_photo_to_ftp(image_name, "/public_html/storage/information/")
     insert_csv_data(output_file, 'informations')
     append_unique_records(output_file,"combined_news_data.csv")
 

@@ -99,7 +99,7 @@ for link in news_links[:1]:
         download_image(image_url, image_local_path)
 
         # Upload image to FTP
-        upload_photo_to_ftp(image_local_path, "/public_html/storage/information/")
+        # upload_photo_to_ftp(image_local_path, "/public_html/storage/information/")
 
         # Create slug (a URL-friendly version of the title)
         # slug = title.lower().replace(" ", "-").replace(",", "").replace(".", "")
@@ -158,6 +158,7 @@ with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
 print(f"Data saved to {csv_file}")
 
 if date_format(date) == datetime.now().strftime("%Y-%m-%d %H:%M:%S"):
+    upload_photo_to_ftp(image_local_path, "/public_html/storage/information/")
     insert_csv_data(csv_file,"informations")
     append_unique_records(csv_file,"combined_news_data.csv")
 

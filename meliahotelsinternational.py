@@ -92,7 +92,7 @@ try:
 
         download_image(image_urls[0],img_name)
 
-        upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+        # upload_photo_to_ftp(img_name,"/public_html/storage/information/")
 
         title =  generate_title(title)
         # Transform extracted data to match CSV format
@@ -132,6 +132,7 @@ try:
     print(f"Data saved to {output_file} successfully!")
 
     if date_format(news['date']) == date_format(datetime.now().strftime("%Y-%m-%d %H:%M:%S")): 
+        upload_photo_to_ftp(img_name,"/public_html/storage/information/")
         insert_csv_data(output_file,'informations')
         append_unique_records(output_file,"combined_news_data.csv")
 

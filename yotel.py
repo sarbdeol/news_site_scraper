@@ -95,7 +95,7 @@ if most_recent_href:
 
     download_image(img_url,img_name)
 
-    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+    # upload_photo_to_ftp(img_name,"/public_html/storage/information/")
     
     date = date_format(data['date'])
 
@@ -152,6 +152,7 @@ driver.quit()
 
 if date_format(data.get("date", ""))==date_format(datetime.now().today()):
     # Insert the CSV data into the database
+    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
     insert_csv_data("yotel_data.csv", "informations")
     append_unique_records("yotel_data.csv","combined_news_data.csv")
 

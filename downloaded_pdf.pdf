@@ -1,0 +1,2552 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		   <title>
+         Lemon Tree Hotels | Official Online Hotel Booking Website – Chain of Hotels & Resorts
+      </title>
+			      <meta name="description" content="Book directly on the official Lemon Tree Hotels website for exclusive offers and loyalty rewards at our chain of hotels & resorts across India, Nepal, UAE, and Bhutan." />
+					<meta name="keywords" content="" />
+	 
+		   <link rel="canonical" href="https://www.lemontreehotels.com" />
+	 <meta name="csrf_token" content="6PZcnaneUT5FnnmUgNGiCQhCIqmsXDWDJ32du4EQ" />
+	  <input type="hidden" name="_token" value="6PZcnaneUT5FnnmUgNGiCQhCIqmsXDWDJ32du4EQ">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.lemontreehotels.com/assets/fronts/images/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="96x96" href="https://www.lemontreehotels.com/assets/fronts/images/favicon-96x96.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.lemontreehotels.com/assets/fronts/images/favicon-16x16.png" />
+    <link href="https://www.lemontreehotels.com/assets/fronts/css/bootstrap.min.css" rel="stylesheet" media="all" async />
+    <link href="https://www.lemontreehotels.com/assets/fronts/css/style.css" rel="stylesheet" media="all" async />
+    <link rel="stylesheet" href="https://www.lemontreehotels.com/assets/fronts/css/owl.carousel.min.css" media="all" async />
+    <!-- <link rel="stylesheet" href="https://www.lemontreehotels.com/assets/fronts/css/owl.theme.default.min.css" /> -->
+    <link href="https://www.lemontreehotels.com/assets/fronts/css/customstyle.css" rel="stylesheet" media="all" async />
+    <!-- <link href="https://www.lemontreehotels.com/assets/fronts/css/lite-yt-embed.css" rel="stylesheet" media="all" async /> -->
+    <!-- <link href="https://www.lemontreehotels.com/assets/fronts/js/lite-yt-embed.js" rel="stylesheet" defer /> -->
+    <!-- <link href="https://www.lemontreehotels.com/assets/fronts/https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.0/css/select2.min.css" rel="stylesheet" media="all" async /> -->
+    <link href="https://www.lemontreehotels.com/assets/fronts/css/select2.min.css" rel="stylesheet" media="all" async />
+    <!-- <link rel="stylesheet" href="https://www.lemontreehotels.com/assets/fronts/https://code.jquery.com/ui/1.13.3/themes/base/jquery-ui.css" media="all" async   /> -->
+    <link rel="stylesheet" href="https://www.lemontreehotels.com/assets/fronts/css/jquery-ui.css" media="all" async   />
+    <!-- <script src="https://www.lemontreehotels.com/assets/fronts/https://code.jquery.com/jquery-3.7.1.js"></script> -->
+    <script src="https://www.lemontreehotels.com/assets/fronts/js/jquery-3.7.1.js"></script>
+    <!-- <script src="https://www.lemontreehotels.com/assets/fronts/https://code.jquery.com/ui/1.13.3/jquery-ui.js"></script> -->
+    <script src="https://www.lemontreehotels.com/assets/fronts/js/jquery-ui.min.js"></script>
+
+    <style>
+        @-ms-viewport {
+            width: device-width
+        }
+    </style>
+ <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W4T67PV');</script>
+<!-- End Google Tag Manager -->
+</head>
+
+<body>
+         <!-- Google Tag Manager (noscript) --> 
+         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W4T67PV"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+         <!-- End Google Tag Manager (noscript) --> 
+    <header class="fixed-top">
+         <div class="advesory">
+            <p class="advesory-hide">Lemon Tree Hotels never seeks UPI payments or sensitive data outside the official
+                platform. Be aware of recent fraudulent activities misusing the brand. Confirm authenticity through the
+                formal channels before acting. Ensure your protection. <img height="" width=""  loading="lazy"  alt="Lemon Tree Hotels" class="advesory-btn"
+                    src="https://www.lemontreehotels.com/assets/fronts/new-images/closecs-btn.png"> </p>
+        </div> 
+        <nav class="navbar navbar-expand-lg navbar-light">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="https://www.lemontreehotels.com">
+                    <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/images/logo.png" class="logo" alt="Lemon Tree Hotels" />
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse"
+                    data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <a class="mobile-top-book-now" id="mobile-book-now-btn" href="javascript:void(0);">
+                    Book Now
+                </a>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <div class="mob-menu-close">X</div>
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item"><a class="nav-link" href="https://www.lemontreehotels.com">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://www.lemontreehotels.com/hotels">Hotels</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://www.lemontreehotels.com/special-offer">Offers & Promotions</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://www.lemontreehotels.com/rewards">Rewards Program </a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://www.lemontreehotels.com/our-brands">Our Brands </a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://www.lemontreehotels.com/sustainability">Sustainability </a></li>
+                        <li class="for-mob-items">
+                            <a href="https://www.lemontreehotels.com/member/signup">Join</a>
+                            <a href="https://www.lemontreehotels.com/member/signin">Sign In</a>
+                           <!-- <li> <a class="dropdown-item Modify_booking_logged_in ManageBook_dsk" target="_blank" href="https://be.synxis.com/signin?chain=7710&amp;child=0&amp;configcode=initialConfig&amp;level=chain&amp;themecode=initialTheme2">Manage Bookings</a> </li> -->
+    <a class="nav-link text-center " href="https://lemontreeagra.reserve.pegsbe.com/managebooking">Manage Booking</a> 
+                        </li>
+                    </ul>
+                    <ul class="navbar-nav right-nav">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle top-book-now" onclick="myFunction()"
+                                href="javascript:void(0);" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
+                                aria-expanded="false">Book Now</a>
+                        </li>
+                        <li class="nav-item dropdown" onmouseleave="resetDropdown()">
+                            <a class="nav-link right-img-icon" aria-current="page" href="#">
+                                <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/images/account_person_icon.png" alt="Lemon Tree Hotels" />
+                            </a>
+                            <ul class="dropdown-menu signin-dropdown" aria-labelledby="navbarDropdown">
+                                <li>
+                                    <h4>Sign-in/join</h4>
+									
+											<a class="dropdown-item join-btn" href="https://www.lemontreehotels.com/member/signup">Join</a>
+		<a class="dropdown-item signin-btn" href="https://www.lemontreehotels.com/member/signin" title="Sign-in">Sign
+			In</a>
+		<div class="join_down_part">
+			<!-- <a class="manage-booking-btn" target="_blank" href="https://be.synxis.com/signin?chain=7710&amp;child=0&amp;configcode=initialConfig&amp;level=chain&amp;themecode=initialTheme2">
+				Manage Bookings
+			</a> -->
+            <a class="nav-link text-center " href="https://lemontreeagra.reserve.pegsbe.com/managebooking">Manage Booking</a>
+		</div>
+
+                                </li>
+                            </ul>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div class="bookbtn_slide_booking_form">
+            <a href="javascript:void(0);" id="close1" onclick="closepop()" class="cross-ion">X</a>
+			<div class="header_booking_engine">
+                <div class="swtch-btn">
+                    <span class="suggestion-btn">
+                        <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/images/informative.png" alt="Lemon Tree Hotels" class="img-fulid" />
+                    </span>
+                    <p>Day Rooms</p>
+                    <!-- <div class="switch_new">
+                        <div class="form-check form-switch">
+                            <input class="form-check-input" type="checkbox" id="mySwitch" name="darkmode" value="yes" />
+                            <label class="form-check-label" for="mySwitch"></label>
+                        </div>
+                    </div> -->
+
+                    <div class="">
+                        <label class="switch ">
+                          <input type="checkbox" class="default" id="mySwitch" />
+                          <span class="slider round"></span>
+                        </label>
+                    </div>
+
+                  
+                    
+                </div>
+<div class="header-search-select-option">
+                   
+<select name="getBeCityHotel" class="" id="getBeCityHotel" style="width: 100%;" autocomplete="off" >
+<option value=""></option>
+<option  value="hid_4">Lemon Tree Hotel  Agra </option>
+<option  value="hid_49">Keys Select by Lemon Tree Hotels  Gandhi Ashram  Ahmedabad </option>
+<option  value="hid_66">Lemon Tree Premier  The Atrium  Ahmedabad </option>
+<option  value="hid_88">Lemon Tree Hotel  Ahmedabad </option>
+<option  value="hid_34">Lemon Tree Hotel  Aligarh </option>
+<option  value="hid_59">Lemon Tree Vembanad Lake Resort  Alleppey </option>
+<option  value="hid_3">Lemon Tree Hotel  Alwar </option>
+<option  value="hid_6">Red Fox by Lemon Tree Hotels  Alwar </option>
+<option  value="hid_8">Lemon Tree Hotel  Aurangabad </option>
+<option  value="hid_9">Lemon Tree Hotel  Baddi </option>
+<option  value="hid_72">Lemon Tree Wildlife Resort Bandhavgarh </option>
+<option  value="hid_11">Lemon Tree Premier  Ulsoor Lake  Bengaluru </option>
+<option  value="hid_24">Keys Select By Lemon Tree Hotels  Hosur Road  Bengaluru </option>
+<option  value="hid_27">Keys Select By Lemon Tree Hotels  Whitefield  Bengaluru </option>
+<option  value="hid_60">Lemon Tree Hotel  Whitefield  Bengaluru </option>
+<option  value="hid_67">Lemon Tree Hotel  Electronics City  Bengaluru </option>
+<option  value="hid_100">Lemon Tree Suites  Whitefield  Bengaluru </option>
+<option  value="hid_55">Red Fox by Lemon Tree Hotels  Bhiwadi </option>
+<option  value="hid_96">Lemon Tree Hotel  Bhopal </option>
+<option  value="hid_36">Lemon Tree Premier  Bhubaneswar </option>
+<option  value="hid_89">Lemon Tree Hotel  Chandigarh </option>
+<option  value="hid_12">Lemon Tree Hotel  Shimona  Chennai </option>
+<option  value="hid_44">Keys Select By Lemon Tree Hotels  Katti-Ma  Chennai </option>
+<option  value="hid_92">Lemon Tree Hotel  Chennai </option>
+<option  value="hid_47">Lemon Tree Hotel  Coimbatore </option>
+<option  value="hid_75">Aurika  Coorg - Luxury by Lemon Tree Hotels </option>
+<option  value="hid_2">Lemon Tree Premier  Corbett </option>
+<option  value="hid_104">Lemon Tree Hotel  Dapoli </option>
+<option  value="hid_106">Keys Lite by Lemon Tree Hotels  Dapoli </option>
+<option  value="hid_21">Lemon Tree Hotel  Dehradun </option>
+<option  value="hid_90">Red Fox by Lemon Tree Hotels  Dehradun </option>
+<option  value="hid_1">Lemon Tree Premier  Delhi Airport </option>
+<option  value="hid_57">Red Fox by Lemon Tree Hotels  East Delhi </option>
+<option  value="hid_86">Red Fox by Lemon Tree Hotels  Delhi Airport </option>
+<option  value="hid_87">Lemon Tree Hotel  East Delhi Mall  Kaushambi </option>
+<option  value="hid_73">Lemon Tree Hotel  Jumeirah  Dubai </option>
+<option  value="hid_35">Lemon Tree Premier  Dwarka </option>
+<option  value="hid_19">Lemon Tree Hotel  Gangtok </option>
+<option  value="hid_5">Lemon Tree Hotel  Candolim  Goa </option>
+<option  value="hid_31">Lazy Lagoon  Baga - A Lemon Tree Resort  Goa </option>
+<option  value="hid_85">Lemon Tree Amarante Beach Resort  Goa </option>
+<option  value="hid_42">Lemon Tree Hotel  Sector 68  Sohna Road  Gurugram </option>
+<option  value="hid_56">Keys Lite By Lemon Tree Hotels  Mayfield  Gurugram </option>
+<option  value="hid_79">Lemon Tree Premier-1  Leisure Valley  Gurugram </option>
+<option  value="hid_80">Lemon Tree Premier-2  Leisure Valley  Gurugram </option>
+<option  value="hid_81">Lemon Tree Premier  City Center  Gurugram </option>
+<option  value="hid_82">Lemon Tree Hotel  Udyog Vihar  Gurugram </option>
+<option  value="hid_83">Lemon Tree Hotel  Sector 60  Gurugram </option>
+<option  value="hid_84">Red Fox by Lemon Tree Hotels  Sector 60  Gurugram </option>
+<option  value="hid_1104">Lemon Tree Hotel  Haridwar </option>
+<option  value="hid_1111">Lemon Tree Hotel  Hisar </option>
+<option  value="hid_103">Lemon Tree Hotel  Hubli </option>
+<option  value="hid_7">Lemon Tree Hotel  Gachibowli  Hyderabad </option>
+<option  value="hid_15">Lemon Tree Hotel  Banjara Hills  Hyderabad </option>
+<option  value="hid_91">Lemon Tree Premier  HITEC City  Hyderabad </option>
+<option  value="hid_99">Red Fox by Lemon Tree Hotels  Hyderabad </option>
+<option  value="hid_69">Lemon Tree Hotel  Indore </option>
+<option  value="hid_52">Lemon Tree Premier  Jaipur </option>
+<option  value="hid_53">Red Fox by Lemon Tree Hotels  Jaipur </option>
+<option  value="hid_51">Lemon Tree Hotel  Jammu </option>
+<option  value="hid_1126">Lemon Tree Hotel Centre Point Jamshedpur </option>
+<option  value="hid_33">Lemon Tree Hotel  Jhansi </option>
+<option  value="hid_1306">Lemon Tree Wildlife Resort  Kanha </option>
+<option  value="hid_1114">Lemon Tree Hotel  Kasauli </option>
+<option  value="hid_50">Lemon Tree Hotel  Katra </option>
+<option  value="hid_32">Keys Select By Lemon Tree Hotels  Kochi </option>
+<option  value="hid_16">Lemon Tree Premier  New Town  Kolkata </option>
+<option  value="hid_97">Keys Select By Lemon Tree Hotels  Malabar Gate  Kozhikode </option>
+<option  value="hid_1103">Lemon Tree Resort  Kumbhalgarh </option>
+<option  value="hid_14">Lemon Tree Hotel  Lucknow </option>
+<option  value="hid_20">Keys Select By Lemon Tree Hotels  Ludhiana </option>
+<option  value="hid_93">Lemon Tree Hotel  Manali </option>
+<option  value="hid_54">Lemon Tree Hotel  Tarudhan Valley </option>
+<option  value="hid_107">Lemon Tree Hotel  McLeodganj </option>
+<option  value="hid_43">Lemon Tree Hotel  Mukteshwar </option>
+<option  value="hid_40">Lemon Tree Hotel  Kalina  Mumbai </option>
+<option  value="hid_41">Keys Select By Lemon Tree Hotels  Nestor  Mumbai </option>
+<option  value="hid_78">Lemon Tree Premier  Mumbai International Airport </option>
+<option  value="hid_101">Aurika  Mumbai International Airport </option>
+<option  value="hid_1102">Lemon Tree Premier  Malad  Mumbai </option>
+<option  value="hid_102">Lemon Tree Resort  Mussoorie </option>
+<option  value="hid_39">Red Fox by Lemon Tree Hotels  Neelkanth </option>
+<option  value="hid_1106">Lemon Tree Premier  Budhanilkantha  Kathmandu  Nepal </option>
+<option  value="hid_1112">Tigerland Safari - A Lemon Tree Resort  Chitwan  Nepal </option>
+<option  value="hid_76">Sandal Suites  Operated by Lemon Tree Hotels  Noida </option>
+<option  value="hid_1118">Lemon Tree Hotel  Noida </option>
+<option  value="hid_17">Lemon Tree Premier  Patna </option>
+<option  value="hid_38">Lemon Tree Hotel  Port Blair </option>
+<option  value="hid_10">Lemon Tree Premier  City Center  Pune </option>
+<option  value="hid_37">Keys Select by Lemon Tree Hotels  Pimpri Pune </option>
+<option  value="hid_68">Lemon Tree Hotel  Viman Nagar  Pune </option>
+<option  value="hid_77">Lemon Tree Hotel  Hinjawadi  Pune </option>
+<option  value="hid_1101">Lemon Tree Hotel  Rajkot </option>
+<option  value="hid_22">Lemon Tree Premier  Rishikesh </option>
+<option  value="hid_1120">Lemon Tree Hotel  Rishikesh </option>
+<option  value="hid_18">Lemon Tree Hotel  Siliguri </option>
+<option  value="hid_1116">Lemon Tree Resort  Somnath </option>
+<option  value="hid_1100">Lemon Tree Hotel  Sonmarg </option>
+<option  value="hid_30">Lemon Tree Hotel  Srinagar </option>
+<option  value="hid_58">Keys Prima by Lemon Tree Hotels  Thekkady </option>
+<option  value="hid_95">Lemon Tree Hotel  Thimphu  Bhutan </option>
+<option  value="hid_1307">Lemon Tree Resort  Thimphu  Bhutan </option>
+<option  value="hid_64">Keys Select By Lemon Tree Hotels  Thiruvananthapuram </option>
+<option  value="hid_65">Red Fox by Lemon Tree Hotels  Tiruchirappalli </option>
+<option  value="hid_98">Aurika  Udaipur - Luxury by Lemon Tree Hotels </option>
+<option  value="hid_1107">Keys Select by Lemon Tree Hotels  Udaipur </option>
+<option  value="hid_1305">Keys Lite by Lemon Tree Hotels  Urban Square  Udaipur </option>
+<option  value="hid_63">Lemon Tree Hotel  Vadodara </option>
+<option  value="hid_26">Red Fox by Lemon Tree Hotels  Vijayawada </option>
+<option  value="hid_74">Lemon Tree Premier  Vijayawada </option>
+<option  value="hid_48">Keys Lite By Lemon Tree Hotels  Sreekanya  Visakhapatnam </option>
+<option  value="hid_94">Keys Select By Lemon Tree Hotels  Visakhapatnam </option>
+<option  value="1">Delhi </option>
+<option  value="2">Corbett </option>
+<option  value="3">Alwar </option>
+<option  value="4">Agra </option>
+<option  value="5">Goa </option>
+<option  value="7">Hyderabad </option>
+<option  value="8">Aurangabad </option>
+<option  value="9">Baddi </option>
+<option  value="10">Pune </option>
+<option  value="11">Bengaluru </option>
+<option  value="12">Chennai </option>
+<option  value="14">Lucknow </option>
+<option  value="16">Kolkata </option>
+<option  value="17">Patna </option>
+<option  value="18">Siliguri </option>
+<option  value="19">Gangtok </option>
+<option  value="20">Ludhiana </option>
+<option  value="21">Dehradun </option>
+<option  value="22">Rishikesh </option>
+<option  value="26">Vijayawada </option>
+<option  value="30">Srinagar </option>
+<option  value="32">Kochi </option>
+<option  value="33">Jhansi </option>
+<option  value="34">Aligarh </option>
+<option  value="35">Dwarka </option>
+<option  value="36">Bhubaneswar </option>
+<option  value="38">Portblair </option>
+<option  value="39">Neelkanth </option>
+<option  value="40">Mumbai </option>
+<option  value="42">gurugram </option>
+<option  value="43">Mukteshwar </option>
+<option  value="47">Coimbatore </option>
+<option  value="48">Visakhapatnam </option>
+<option  value="49">Ahmedabad </option>
+<option  value="50">Katra </option>
+<option  value="51">Jammu </option>
+<option  value="52">Jaipur </option>
+<option  value="54">Manesar </option>
+<option  value="55">Bhiwadi </option>
+<option  value="58">Thekkady </option>
+<option  value="59">Alleppey </option>
+<option  value="63">Vadodara </option>
+<option  value="64">Thiruvananthapuram </option>
+<option  value="65">Tiruchirappalli </option>
+<option  value="69">Indore </option>
+<option  value="72">Bandhavgarh </option>
+<option  value="73">Dubai </option>
+<option  value="75">Coorg </option>
+<option  value="76">Noida </option>
+<option  value="89">Chandigarh </option>
+<option  value="93">Manali </option>
+<option  value="95">Thimphu </option>
+<option  value="96">Bhopal </option>
+<option  value="97">Kozhikode </option>
+<option  value="98">Udaipur </option>
+<option  value="102">Mussoorie </option>
+<option  value="103">Hubli </option>
+<option  value="104">Dapoli </option>
+<option  value="107">McLeodganj </option>
+<option  value="1100">Sonmarg </option>
+<option  value="1101">Rajkot </option>
+<option  value="1103">Kumbhalgarh </option>
+<option  value="1104">Haridwar </option>
+<option  value="1106">Nepal </option>
+<option  value="1109">BALAGHAT </option>
+<option  value="1111">Hisar </option>
+<option  value="1114">Kasauli </option>
+<option  value="1116">Somnath </option>
+<option  value="1117">Meerut </option>
+<option  value="1119">Chandausi </option>
+<option  value="1126">Jamshedpur </option>
+<option  value="1306">Kanha </option>
+</select>
+</div>
+                <div class="datepicker-outer">
+                    <!-- <input type="text" name="select_start_date" id="select_start_date" placeholder="Start date" class="form-control" /> -->
+                    <input type="text" class="form-control" id="checkindate" placeholder="Check In Date" name="fromdate"
+                        readonly="" />
+                    <div class="input-group-addon">
+                        <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/images/cal-icon-blue.png" alt="Lemon Tree Hotels" class="calender-icon" />
+                    </div>
+
+                </div>
+                <div class="datepicker-outer">
+                    <!-- <input type="text" name="select_end_date" id="select_end_date" placeholder="End date" class="form-control" /> -->
+                    <input type="text" class="form-control" id="checkoutdate" placeholder="Check In Date"
+                        name="fromdate" readonly="">
+
+                    <div class="input-group-addon">
+                        <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/images/cal-icon-blue.png" alt="Lemon Tree Hotels" class="calender-icon" />
+                    </div>
+
+                </div>
+                <div class="rooms-child-outer-block">
+                    <input type="text" class="rooms-childs-input" id="rooms_childs_showT"
+                        value="Room(s) 1 - Adult(s) 1 - Children 0" readonly="" />
+                    <div class="backdrop d-none close-rooms" data-close=".showmoreT"></div>
+                    <div class="showmoreT add-rooms-block mt-2">
+                        <div class="row px-1 mt-0 mb-1" id="more_fieldsT">
+                            <div class="col-12 room-guestsT">
+                                <fieldset>
+                                    <div id="append_hereT">
+                                        <div class="row add-rooms-div add-thisT"
+                                            style="padding: 20px 15px 0px 0px; border-bottom: 1px solid #989898;">
+                                            <div class="Add-rooms-2">
+                                                <p class="rooms-listT">Room 1</p>
+                                                <span class="stripT d-none">
+                                                    <span class="font16 blackText"> <span
+                                                            class="latoBlack adultT">1</span> Adults, <span
+                                                            class="latoBlack childT"> 0</span> Children </span>
+                                                    <a class="font12 appendLeft10 edit_roomT">Edit </a> <a
+                                                        class="font12 remove_roomT" id="removeT">Remove</a>
+                                                </span>
+                                            </div>
+                                            <div class="row col-12 pr-0 stripT2">
+                                                <div class="col-12 col-md-6">
+                                                    <div class="form-group plus-min-style">
+                                                        <div class="rounded-0">
+                                                            <p>Adult(s):</p>
+                                                            <button type="button" class="sub-adult"
+                                                                id="sub_adultT">-</button> <input type="number"
+                                                                class="adult-inputT" id="adultsT" value="1" min="1"
+                                                                max="3" readonly="" />
+                                                            <button type="button" class="add" id="add_adultT">+</button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-12 col-md-6">
+                                                    <div class="form-group plus-min-style">
+                                                        <div class="rounded-0">
+                                                            <p>Child (0-6 years):</p>
+                                                            <button type="button" class="sub" id="sub_childT">-</button>
+                                                            <input type="number" class="child-inputT" id="childsT"
+                                                                value="0" min="1" max="3" readonly="" />
+                                                            <button type="button" class="add" id="add_childT">+</button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-12 padd-no" style="padding: 0px 5px;">
+                                            <div class="add-rooms-style"><a class="add-another-room" id="add_new_roomT">
+                                                    + Add Another Room</a> <a class="appy-rooms-add"> Apply</a></div>
+                                        </div>
+                                    </div>
+                                </fieldset>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <a href="javascript:void(0);" onclick="gotosearchroomonbe();" class="strip-book-now-btn">Book Now</a>
+            </div>
+
+
+            
+        </div>
+    </header>    <section class="banner-section">
+        <div class="hero_sc">
+            <!-- <div class="slider_main_slider" id="sliderHomeVideo">
+                <video width="100%" class="video_sc_desktop" poster="new-images/video-thumb.webp')}}" autobuffer=""
+                    autoplay="" loop="" muted="" playsinline="" controls="" style="height: 100vh; object-fit: cover;">
+                    <source src="https://www.lemontreehotels.com/assets/fronts/new-images/lemon-tree-desktop-video-1.mp4" type="video/mp4" />
+                </video>
+                <video width="100%" poster="new-images/video/mobile-thumb.webp')}}" class="video_sc_mobile" autobuffer=""
+                    autoplay="" loop="" muted="" playsinline="" controls="">
+                    <source src="https://www.lemontreehotels.com/assets/fronts/new-images/lemon-tree-mobile-video-1.mp4" type="video/mp4" />
+                </video>
+            </div> -->
+            <div class="slider_main_slider" id="sliderHomeVideo">
+                <div width="100%" class="video_sc_desktop" style="height: auto; object-fit: cover;">
+                    <img src="https://www.lemontreehotels.com/assets/fronts/new-images/getaway-homes.jpg" alt="image" class="img-fluid">
+                </div>
+                <div width="100%" class="video_sc_mobile">
+                    <img src="https://www.lemontreehotels.com/assets/fronts/new-images/getaway-home-mobile.jpg" alt="image" class="img-fluid">
+                </div>
+            </div>
+        </div>
+
+
+        <div class="search-bar-section frmSearch search-hotelNcity-cs search-hotel-in-city-raj">
+
+			
+			        <div class="search-bar-section frmSearch">
+            <input type="text" placeholder="Where to Next?" id="search-box" onblur="clearsearch()"  class="search-input" />
+			<div id="suggesstion-box"></div>
+        </div>
+
+        </div>
+
+
+
+        <div class="icon-scroll">
+            <a href="javascript:void(0)">
+                <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/images/M2.png" alt="Lemon Tree Hotels" />
+            </a>
+        </div>
+    </section>
+
+
+    <section class="choose-your-destination-block">
+        <article class="container">
+            <h2>Choose your destination</h2>
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="hotel-list">
+                        <li>
+                            <a href="https://www.lemontreehotels.com/mumbai-hotels" target="_blank">
+                                <img height="" width=""  loading="lazy"  alt="mumbai" src="https://www.lemontreehotels.com/assets/fronts/new-images/travelForMumbai.jpg" />
+                                <div class="vactionWorkUpdatedContent">
+                                    <h3>Mumbai</h3>
+                                    <p>5 Hotels <i class="fa fa-long-arrow-right" aria-hidden="true"></i></p>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.lemontreehotels.com/delhi-hotels">
+                                <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/travelForDelhi.jpg" alt="Lemon Tree Hotels" />
+                                <div class="vactionWorkUpdatedContent">
+                                    <h3>Delhi</h3>
+                                    <p>4 Hotels <i class="fa fa-long-arrow-right" aria-hidden="true"></i></p>
+                                </div>
+                            </a>
+                        </li>
+                        <li> 
+                            <a href="https://www.lemontreehotels.com/bengaluru-hotels">
+                                <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/travelForBengaluru.jpg" alt="Lemon Tree Hotels" />
+                                <div class="vactionWorkUpdatedContent">
+                                    <h3>Bengaluru</h3>
+                                    <p>6 Hotels <i class="fa fa-long-arrow-right" aria-hidden="true"></i></p>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.lemontreehotels.com/ahmedabad-hotels">
+                                <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/travelForAHMEDABAD.jpg" alt="Lemon Tree Hotels" />
+                                <div class="vactionWorkUpdatedContent">
+                                    <h3>Ahmedabad</h3>
+                                    <p>3 Hotels <i class="fa fa-long-arrow-right" aria-hidden="true"></i></p>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.lemontreehotels.com/pune-hotels">
+                                <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/travelPune.jpg" alt="Lemon Tree Hotels" />
+                                <div class="vactionWorkUpdatedContent">
+                                    <h3>Pune</h3>
+                                    <p>4 Hotels <i class="fa fa-long-arrow-right" aria-hidden="true"></i></p>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.lemontreehotels.com/gurugram-hotels">
+                                <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/travelGurgaon.jpg" alt="Lemon Tree Hotels" />
+                                <div class="vactionWorkUpdatedContent">
+                                    <h3>Gurugram</h3>
+                                    <p>8 Hotels <i class="fa fa-long-arrow-right" aria-hidden="true"></i></p>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.lemontreehotels.com/chennai-hotels">
+                                <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/travelChennai.jpg" alt="Lemon Tree Hotels" />
+                                <div class="vactionWorkUpdatedContent">
+                                    <h3>Chennai</h3>
+                                    <p>3 Hotels <i class="fa fa-long-arrow-right" aria-hidden="true"></i></p>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.lemontreehotels.com/hyderabad-hotels">
+                                <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/travelHyderabad.jpg" alt="Lemon Tree Hotels" />
+                                <div class="vactionWorkUpdatedContent">
+                                    <h3>Hyderabad</h3>
+                                    <p>4 Hotels <i class="fa fa-long-arrow-right" aria-hidden="true"></i></p>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                    <div class="col-lg-12 text-center">
+                        <a class="explore-more-destination" href="https://www.lemontreehotels.com/hotels">Explore more destinations</a>
+                    </div>
+                </div>
+            </div>
+        </article>
+    </section>
+
+    <section class="upcoming-hotels">
+        <article class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="heading mb-4">
+                        <h2 class="mb-3">Upcoming Hotels</h2>
+                        <p>
+                            The renowned hospitality chain is all set to unveil a collection of new hotels, promising
+                            unforgettable experiences for travelers...
+                        </p>
+                        <a class="explore-more-destination" href="https://www.lemontreehotels.com/upcominghotels">Explore</a>
+                    </div>
+                </div>
+                <div class="col-md-8">
+                   
+                            <div class="owl-carousel owl-theme upcoming-hotel-slider verticalTop">
+                                <div class="item">
+                                    <div class="otherHotels-item">
+                                        <img height="" width=""  loading="lazy"  class="" src="https://www.lemontreehotels.com/assets/fronts/new-images/vadodara-imagee.webp"
+                                            alt="Keys Lite by Lemon Tree Hotels, Vadodara">
+                                        <div class="otherHotels-cs-sc-item-content">
+                                            <div class="coming-soon-hotels-content-heading">
+                                                <h4>Keys Lite by Lemon Tree Hotels, Vadodara</h4>
+                                            </div>
+                                            <a href="javascript:void(0);" data-toggle="modal"
+                                                data-target="#UpcomingModalvadodara" class="readMore-cs">Read More</a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="item">
+                                    <div class="otherHotels-item">
+                                        <img height="" width=""  loading="lazy"  class="" src="https://www.lemontreehotels.com/assets/fronts/new-images/chandausi-img.jpg"
+                                            alt="Lemon Tree Hotel, Chandausi">
+                                        <div class="otherHotels-cs-sc-item-content">
+                                            <div class="coming-soon-hotels-content-heading">
+                                                <h4>Lemon Tree Hotel, Chandausi</h4>
+                                            </div>
+                                            <a href="javascript:void(0);" data-toggle="modal"
+                                                data-target="#UpcomingModalchandausi" class="readMore-cs">Read More</a>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <!-- <div class="item">
+                                    <div class="otherHotels-item">
+                                        <img height="" width=""  loading="lazy"  class="" src="https://www.lemontreehotels.com/assets/fronts/new-images/Noida-imgg.jpg" alt="Lemon Tree Hotel, Noida">
+                                        <div class="otherHotels-cs-sc-item-content">
+                                            <div class="coming-soon-hotels-content-heading">
+                                                <h4>Lemon Tree Hotel, Noida</h4>
+                                            </div>
+                                            <a href="javascript:void(0);" data-toggle="modal"
+                                                data-target="#UpcomingModalnoida" class="readMore-cs">Read More</a>
+                                        </div>
+                                    </div>
+                                </div> -->
+
+                                <!-- <div class="item">
+                                    <div class="otherHotels-item">
+                                        <img height="" width=""  loading="lazy"  class="" src="https://www.lemontreehotels.com/assets/fronts/new-images/02-jul-2023-04-20-28mossoorie.webp"
+                                            alt="Lemon Tree Resort, Mussoorie">
+                                        <div class="otherHotels-cs-sc-item-content">
+                                            <div class="coming-soon-hotels-content-heading">
+                                                <h4>Lemon Tree Resort, Mussoorie</h4>
+                                            </div>
+                                            <a href="javascript:void(0);" data-toggle="modal"
+                                                data-target="#UpcomingModalmussoorie" class="readMore-cs">Read More</a>
+                                        </div>
+                                    </div>
+                                </div> -->
+
+                                <div class="item">
+                                    <div class="otherHotels-item">
+                                        <img height="" width=""  loading="lazy"  class="" src="https://www.lemontreehotels.com/assets/fronts/new-images/06_Nov_2023_01_32_32goa1.jpg"
+                                            alt="Lemon Tree Hotel, Anjuna, Goa">
+                                        <div class="otherHotels-cs-sc-item-content">
+                                            <div class="coming-soon-hotels-content-heading">
+                                                <h4>Lemon Tree Hotel, Anjuna, Goa</h4>
+                                            </div>
+                                            <a href="javascript:void(0);" data-toggle="modal"
+                                                data-target="#UpcomingModalgoa" class="readMore-cs">Read More</a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="item">
+                                    <div class="otherHotels-item">
+                                        <img height="" width=""  loading="lazy"  class="" src="https://www.lemontreehotels.com/uploads/hotels/LemonTreePremier-Biratnagar-Nepal.jpg"
+                                            alt="Lemon Tree Premier, Biratnagar, Nepal">
+                                        <div class="otherHotels-cs-sc-item-content">
+                                            <div class="coming-soon-hotels-content-heading">
+                                                <h4>Lemon Tree Premier, Biratnagar, Nepal</h4>
+                                            </div>
+                                            <a href="javascript:void(0);" data-toggle="modal"
+                                                data-target="#UpcomingModalNepal1" class="readMore-cs">Read More</a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="item">
+                                    <div class="otherHotels-item">
+                                        <img height="" width=""  loading="lazy"  class="" src="https://www.lemontreehotels.com/uploads/hotels/gurgaon-11.jpeg"
+                                            alt="Skywave Suites, operated by Lemon Tree Hotels, Gurugram">
+                                        <div class="otherHotels-cs-sc-item-content">
+                                            <div class="coming-soon-hotels-content-heading">
+                                                <h4>Skywave Suites, operated by Lemon Tree Hotels, Gurugram</h4>
+                                            </div>
+                                            <a href="javascript:void(0);" data-toggle="modal"
+                                                data-target="#UpcomingModalGurugram1" class="readMore-cs">Read More</a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="item">
+                                    <div class="otherHotels-item">
+                                        <img height="" width=""  loading="lazy"  class="" src="https://www.lemontreehotels.com/uploads/hotels/LemonTreeHotel-Arpora-Goa.jpg"
+                                            alt="Lemon Tree Hotel, Anjuna, Goa">
+                                        <div class="otherHotels-cs-sc-item-content">
+                                            <div class="coming-soon-hotels-content-heading">
+                                                <h4>Lemon Tree Hotel, Arpora, Goa</h4>
+                                            </div>
+                                            <a href="javascript:void(0);" data-toggle="modal"
+                                                data-target="#UpcomingModalArpora1" class="readMore-cs">Read More</a>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                            <div class="slider-counter"></div>
+                       
+                </div>
+            </div>
+        </article>
+    </section>
+    <section class="our-newest-hotels">
+        <article class="container-fluid">
+            <h2>Our Newest Additions</h2>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="owl-carousel owl-theme newest-hotel-slider verticalTop">
+
+                        <div class="item">
+                            <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/lemon-tree-hotel-noida.webp" alt="Lemon Tree Hotel, Noida"
+                                class="admitad-banner">
+                            <div class="slider-demo2Content">
+                                <h4>Lemon Tree Hotel, Noida</h4>
+                                <a href="https://www.lemontreehotels.com/lemon-tree-hotel/noida/noida-hotels" target="_blank">Explore</a>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/lemontree-resort-mussoorie.webp" alt="Lemon Tree Resort, Mussoorie"
+                                class="admitad-banner">
+                            <div class="slider-demo2Content">
+                                <h4>Lemon Tree Resort, Mussoorie</h4>
+                                <a href="https://www.lemontreehotels.com/lemon-tree-hotel/mussoorie/resorts-in-mussoorie" target="_blank">Explore</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/Lemon-Tree-Resort-Thimphu.jpg" alt="Lemon Tree Resort, Somnath"
+                                class="admitad-banner">
+                            <div class="slider-demo2Content">
+                                <h4>Lemon Tree Resort, Thimphu</h4>
+                                <a href="https://www.lemontreehotels.com/lemon-tree-hotel/thimphu/resorts" target="_blank">Explore</a>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/somnath-hotel-img.webp" alt="Lemon Tree Resort, Somnath"
+                                class="admitad-banner">
+                            <div class="slider-demo2Content">
+                                <h4>Lemon Tree Resort, Somnath</h4>
+                                <a href="https://www.lemontreehotels.com/lemon-tree-hotel/somnath/resorts-in-somnath" target="_blank">Explore</a>
+                            </div>
+                        </div>
+
+
+                        <div class="item">
+                            <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/lemon-tree-resort-kanha.webp" alt="Lemon Tree Wildlife Resort, Kanha"
+                                class="admitad-banner">
+                            <div class="slider-demo2Content">
+                                <h4>Lemon Tree Wildlife Resort, Kanha</h4>
+                                <a href="https://www.lemontreehotels.com/lemon-tree-hotel/kanha/kanha-resorts" target="_blank">Explore</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/urban-square-udaipur.webp"
+                                alt="Keys Lite By Lemon Tree Hotels, Urban Square, Udaipur" class="admitad-banner">
+                            <div class="slider-demo2Content">
+                                <h4>Keys Lite By Lemon Tree Hotels, Urban Square, Udaipur</h4>
+                                <a href="https://www.lemontreehotels.com/keys-lite-hotel/udaipur/udaipur-hotel" target="_blank">Explore</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/facade-Hisar.jpg" alt="Lemon Tree Hotel, Hisar" class="admitad-banner">
+                            <div class="slider-demo2Content">
+                                <h4>Lemon Tree Hotel, Hisar</h4>
+                                <a href="https://www.lemontreehotels.com/lemon-tree-hotel/hisar/hotel-hisar" target="_blank">Explore</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/facade-malad.webp" alt="Lemon Tree Premier, Malad, Mumbai"
+                                class="admitad-banner">
+                            <div class="slider-demo2Content">
+                                <h4>Lemon Tree Premier, Malad, Mumbai</h4>
+                                <a href="https://www.lemontreehotels.com/lemon-tree-premier/mumbai/hotel-malad-mumbai" target="_blank">Explore</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/12-36-2023-07-36-19front-of-property.webp"
+                                alt="Lemon Tree Hotel, Dapoli" class="admitad-banner">
+                            <div class="slider-demo2Content">
+                                <h4>Lemon Tree Hotel, Dapoli</h4>
+                                <a href="https://www.lemontreehotels.com/lemon-tree-hotel/dapoli/hotel-dapoli" target="_blank">Explore</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/11_25_2023_03_25_44Facade - Day.jpg" class="admitad-banner"
+                                alt="Lemon Tree Hotel, Hubli">
+                            <div class="slider-demo2Content">
+                                <h4>Lemon Tree Hotel, Hubli</h4>
+                                <a href="https://www.lemontreehotels.com/lemon-tree-hotel/hubli/hotel-hubli" target="_blank">Explore</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/lthbhopal.webp" class="admitad-banner" alt="Lemon Tree Hotel, Bhopal">
+                            <div class="slider-demo2Content">
+                                <h4>Lemon Tree Hotel, Bhopal</h4>
+                                <a href="https://www.lemontreehotels.com/lemon-tree-hotel/bhopal/hotel-bhopal" target="_blank">Explore</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/15_33_2023_01_33_254.jpg"
+                                alt="Lemon Tree Suites ,Whitefield, Bengaluru" class="admitad-banner">
+                            <div class="slider-demo2Content">
+                                <h4>Lemon Tree Suites ,Whitefield, Bengaluru</h4>
+                                <a href="https://www.lemontreehotels.com/lemon-tree-hotel/bengaluru/lemon-tree-suites-hotels" target="_blank">Explore</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <!-- <img height="" width=""  loading="lazy"   src="https://www.lemontreehotels.com/assets/fronts/new-images/AurikaMumbaiSkycitNightShot.jpg"  class="admitad-banner"> -->
+                            <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/AHR.jpg" alt="Aurika, Mumbai International Airport"
+                                class="admitad-banner">
+
+                            <div class="slider-demo2Content">
+                                <h4>Aurika, Mumbai International Airport</h4>
+                                <a href="https://www.lemontreehotels.com/aurika-hotels-resorts/mumbai/aurika-mumbai-airport" target="_blank">Explore</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/05_56_2023_06_56_47Facade%20evening.jpg"
+                                alt="Lemon Tree Hotel, McLeodganj" class="admitad-banner">
+                            <div class="slider-demo2Content">
+                                <h4>Lemon Tree Hotel, McLeodganj</h4>
+                                <a href="https://www.lemontreehotels.com/lemon-tree-hotel/mcleodganj/hotel-mcleodganj" target="_blank">Explore</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/20_07_2023_03_07_30facade-day-front.jpg"
+                                alt="Lemon Tree Hotel, Sonmarg" class="admitad-banner">
+                            <div class="slider-demo2Content">
+                                <h4>Lemon Tree Hotel, Sonmarg</h4>
+                                <a href="https://www.lemontreehotels.com/lemon-tree-hotel/sonmarg/hotel-sonmarg" target="_blank">Explore</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/05-56-2023-06-56-47facade-evening.webp" class="admitad-banner"
+                                alt="Lemon Tree Hotel, Rajkot">
+                            <div class="slider-demo2Content">
+                                <h4>Lemon Tree Hotel, Rajkot</h4>
+                                <a href="https://www.lemontreehotels.com/lemon-tree-hotel/rajkot/hotel-rajkot" target="_blank">Explore</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/LemonTreeHotelHaridwar.jpg" alt="Lemon Tree Hotel, Haridwar"
+                                class="admitad-banner">
+                            <div class="slider-demo2Content">
+                                <h4>Lemon Tree Hotel, Haridwar</h4>
+                                <a href="https://www.lemontreehotels.com/lemon-tree-hotel/haridwar/haridwar-hotels" target="_blank">Explore</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/lemon-tree-hotel-jamshedpur.webp" class="admitad-banner"
+                                alt="Lemon Tree Hotel, Jamshedpur">
+                            <div class="slider-demo2Content">
+                                <h4>Lemon Tree Hotel, Jamshedpur</h4>
+                                <a href="https://www.lemontreehotels.com/lemon-tree-hotel/jamshedpur/jamshedpur-hotels" target="_blank">Explore</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/Tigerland Safari - A Lemon Tree Resort, Chitwan, Nepal.jpg"
+                                class="admitad-banner" alt="Tigerland Safari - A Lemon Tree Resort, Chitwan, Nepal">
+                            <div class="slider-demo2Content">
+                                <h4>Tigerland Safari - A Lemon Tree Resort, Chitwan, Nepal</h4>
+                                <a href="https://www.lemontreehotels.com/lemon-tree-hotel/nepal/chitwan-resorts" target="_blank">Explore</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/lemon-tree-hotel-rishikesh.webp" class="admitad-banner"
+                                alt="Lemon Tree Hotel, Rishikesh">
+                            <div class="slider-demo2Content">
+                                <h4>Lemon Tree Hotel, Rishikesh</h4>
+                                <a href="https://www.lemontreehotels.com/lemon-tree-hotel/rishikesh/rishikesh-hotel" target="_blank">Explore</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/Lemon Tree Premier, Buddhanilkantha, Kathmandu.jpg"
+                                class="admitad-banner" alt="Lemon Tree Premier, Buddhanilkantha, Kathmandu">
+                            <div class="slider-demo2Content">
+                                <h4>Lemon Tree Premier, Buddhanilkantha, Kathmandu</h4>
+                                <a href="https://www.lemontreehotels.com/lemon-tree-premier/nepal/kathmandu-hotels" target="_blank">Explore</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/Lemon Tree Hotel, Kasauli.jpg" class="admitad-banner"
+                                alt="Lemon Tree Hotel, Kasauli">
+                            <div class="slider-demo2Content">
+                                <h4>Lemon Tree Hotel, Kasauli</h4>
+                                <a href="https://www.lemontreehotels.com/lemon-tree-hotel/kasauli/hotel-kasauli" target="_blank">Explore</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/Lemon Tree Resort, Kumbhalgarh.jpg" class="admitad-banner"
+                                alt="Lemon Tree Resort, Kumbhalgarh">
+                            <div class="slider-demo2Content">
+                                <h4>Lemon Tree Resort, Kumbhalgarh</h4>
+                                <a href="https://www.lemontreehotels.com/lemon-tree-hotel/kumbhalgarh/hotel-kumbhalgarh" target="_blank">Explore</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/key-select-udaipur-hotel.webp" class="admitad-banner"
+                                alt="Keys Select By Lemon Tree Hotels, Udaipur">
+                            <div class="slider-demo2Content">
+                                <h4>Keys Select By Lemon Tree Hotels, Udaipur</h4>
+                                <a href="https://www.lemontreehotels.com/keys-select-hotel/udaipur/hotels-udaipur" target="_blank">Explore</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="slider-counter1"></div>
+                </div>
+            </div>
+        </article>
+    </section>
+
+    <section class="all-home-offer offer-and-promotions-desktop">
+        <div class="container-fluid our_offers_new p-5 bg-light ">
+            <div class="heading text-center mb-4">
+                <h2>offers &amp; promotions</h2>
+            </div>
+            <div class="row desktop_offer_main">
+                <div class="col-lg-6">
+                    <div class="our_offers_new_inner_right">
+					 <div class="our_offers_new_inner w-100">
+                            <div class="our_offers_new_inner_box">
+                                <figure><img height="" width=""  loading="lazy"  alt="member rate" src="https://www.lemontreehotels.com/assets/fronts/new-images/infinity-banner-pre-sign-in-dstp.webp"
+                                        alt="Lemon Tree Hotels" class="w-100" /></figure>
+                                <div class="our_offers_new_inner_hover signup_offer_cs">
+                                    <div class="offer_new_heading_paragraph">
+                                        <h4 class="spl_desk_Member_heading" style="display: none;">Member’s rate</h4>
+                                        <h4 class="spl_desk_signup_heading">Member’s rate</h4>
+                                    </div>
+                                    <div class="btn-grpOffer">
+                                        <div class="offer-links wow slideInRight2">
+                                            <a href="https://www.lemontreehotels.com/rewards" style="color: black !important;" onclick="explorestay();"
+                                                class="spl_desk_signup_btn book-n Sign_up_ds">Explore</a>
+                                            <a href="javascript:void(0);" onclick="explorestay();"
+                                                class="spl_desk_Member_btn book-n Sign_up_ds"
+                                                style="display: none;">Book Now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="our_offers_new_inner w-100">
+                            <div class="our_offers_new_inner_box">
+                                <figure><img height="" width=""  loading="lazy"  alt="member rate" src="https://www.lemontreehotels.com/assets/fronts/new-images/happy-hour.jpg" class="w-100" /></figure>
+                                <div class="our_offers_new_inner_hover signup_offer_cs">
+                                    <div class="offer_new_heading_paragraph">
+                                        <h4 class="spl_desk_Member_heading" style="display: none;">Happy Hour</h4>
+                                        <h4 class="spl_desk_signup_heading">Happy Hour</h4>
+                                    </div>
+                                    <div class="btn-grpOffer">
+                                        <div class="offer-links wow slideInRight2">
+                                            <a href="https://www.lemontreehotels.com/happy-hour" style="color: black !important;"
+                                                class="spl_desk_signup_btn book-n Sign_up_ds">Explore</a>
+                                            <a href="https://www.lemontreehotels.com/happy-hour" class="spl_desk_Member_btn book-n Sign_up_ds"
+                                                style="display: none;">Explore</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                       
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="our_offers_new_inner_right">
+                        <!-- <div class="our_offers_new_inner w-100">
+                            <div class="our_offers_new_inner_box">
+                                <figure>
+                                    <img height="" width=""  loading="lazy"  alt="Sunday Redefined" src="https://www.lemontreehotels.com/assets/fronts/new-images/sunday-redefined.webp" class="w-100" />
+                                </figure>
+                                <div class="our_offers_new_inner_hover days_room">
+                                    <div class="offer_new_heading_paragraph">
+                                        <h4>Sunday Redefined</h4>
+                                    </div>
+                                    <div class="btn-grpOffer">
+                                        <div class="offer-links wow slideInRight2">
+                                            <a href="https://www.lemontreehotels.com/sunday-redefined" class="book-n dayroom_bn_ds">Explore</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> -->
+                        <!-- <div class="our_offers_new_inner w-100">
+                            <div class="our_offers_new_inner_box">
+                                <figure>
+                                    <img height="" width=""  loading="lazy"  alt="Sunday Redefined" src="https://www.lemontreehotels.com/assets/fronts/new-images/sunday-redefined.webp" class="w-100" />
+                                </figure>
+                                <div class="our_offers_new_inner_hover days_room">
+                                    <div class="offer_new_heading_paragraph">
+                                        <h4>Sunday Redefined</h4>
+                                    </div>
+                                    <div class="btn-grpOffer">
+                                        <div class="offer-links wow slideInRight2">
+                                            <a href="https://www.lemontreehotels.com/sunday-redefined" class="book-n dayroom_bn_ds">Explore</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> -->
+                        <div class="our_offers_new_inner w-100">
+                            <div class="our_offers_new_inner_box">
+                                <figure>
+                                    <img height="" width=""  loading="lazy"  alt="Sunday Redefined" src="https://www.lemontreehotels.com/assets/fronts/new-images/getaway-festival.jpg" class="w-100" />
+                                </figure>
+                                <div class="our_offers_new_inner_hover days_room">
+                                    <div class="offer_new_heading_paragraph">
+                                        <h4>The Great Getaway Festival</h4>
+                                    </div>
+                                    <div class="btn-grpOffer">
+                                        <div class="offer-links wow slideInRight2">
+                                            <a href="https://www.lemontreehotels.com/getaway-offer" class="book-n dayroom_bn_ds">Explore</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="our_offers_new_inner w-100">
+                            <div class="our_offers_new_inner_box">
+                                <figure><img height="" width=""  loading="lazy"  alt="day room" src="https://www.lemontreehotels.com/assets/fronts/new-images/Day-Cation-616x225.jpg" class="w-100" /></figure>
+                                <div class="our_offers_new_inner_hover days_room">
+                                    <div class="offer_new_heading_paragraph">
+                                        <h4>Day Rooms <span class="day_rooms_time">( 10am to 5pm )</span></h4>
+                                    </div>
+                                    <div class="btn-grpOffer">
+                                        <div class="offer-links wow slideInRight2" data-wow-duration=".5s"
+                                            data-wow-delay="1s"
+                                            style="visibility: visible; animation-duration: 0.5s; animation-delay: 1s; animation-name: slideInRight2;">
+                                            <a href="https://www.lemontreehotels.com/day-use-rooms" class="book-n dayroom_bn_ds">Book Now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="offer-promotion-section offer-promotion-for-mobile">
+        <article class="container">
+            <h2>Offers & Promotions</h2>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="owl-carousel owl-theme offer-permotion-slider verticalTop">
+						<div class="item">
+                            <div class="our_offers_new_inner w-100">
+                                <div class="our_offers_new_inner_box">
+                                    <figure><img height="" width=""  loading="lazy"  alt="member rate"
+                                            src="https://www.lemontreehotels.com/assets/fronts/new-images/19o-mar-2024-12-46-53hoppr-hour.webp" /></figure>
+                                    <div class="our_offers_new_inner_hover signup_offer_cs">
+                                        <div class="offer_new_heading_paragraph">
+                                            <h4 class="spl_desk_signup_heading">Happy Hour</h4>
+                                        </div>
+                                        <div class="btn-grpOffer">
+                                            <div class="offer-links wow slideInRight2" data-wow-duration=".5s"
+                                                data-wow-delay="1s"
+                                                style="visibility: visible; animation-duration: 0.5s; animation-delay: 1s; animation-name: slideInRight2;">
+                                                <a href="https://www.lemontreehotels.com/happy-hour" style="color: black !important;"
+                                                    class="spl_desk_signup_btn book-n Sign_up_ds">Explore</a>
+                                                <a href="https://www.lemontreehotels.com/happy-hour" class="spl_desk_Member_btn book-n Sign_up_ds"
+                                                    style="display: none;">Explore</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <!-- <div class="our_offers_new_inner w-100">
+                                <div class="our_offers_new_inner_box">
+                                    <figure><img height="" width=""  loading="lazy"  alt="sunday Redefined" src="https://www.lemontreehotels.com/assets/fronts/new-images/sunday-redefined-mob.webp" />
+                                    </figure>
+                                    <div class="our_offers_new_inner_hover signup_offer_cs">
+                                        <div class="offer_new_heading_paragraph">
+                                            <h4 class="spl_desk_signup_heading">Sunday Redefined</h4>
+                                        </div>
+                                        <div class="btn-grpOffer">
+                                            <div class="offer-links wow slideInRight2">
+                                                <a href="https://www.lemontreehotels.com/sunday-redefined" style="color: black !important;"
+                                                    class="spl_desk_signup_btn book-n Sign_up_ds">Explore</a>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div> -->
+                            <div class="our_offers_new_inner w-100">
+                                <div class="our_offers_new_inner_box">
+                                    <figure><img height="" width=""  loading="lazy"  alt="sunday Redefined" src="https://www.lemontreehotels.com/assets/fronts/new-images/getaway-festival-mob.jpg" />
+                                    </figure>
+                                    <div class="our_offers_new_inner_hover signup_offer_cs">
+                                        <div class="offer_new_heading_paragraph">
+                                            <h4 class="spl_desk_signup_heading">The Great Getaway Festival</h4>
+                                        </div>
+                                        <div class="btn-grpOffer">
+                                            <div class="offer-links wow slideInRight2">
+                                                <a href="https://www.lemontreehotels.com/getaway-offer" style="color: black !important;"
+                                                    class="spl_desk_signup_btn book-n Sign_up_ds">Explore</a>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="our_offers_new_inner w-100">
+                                <div class="our_offers_new_inner_box">
+                                    <figure><img height="" width=""  loading="lazy"  alt="member rate" src="https://www.lemontreehotels.com/assets/fronts/new-images/6638a8966b8a8sign-up.webp" /></figure>
+                                    <div class="our_offers_new_inner_hover signup_offer_cs">
+                                        <div class="offer_new_heading_paragraph">
+                                            <h4 class="spl_desk_Member_heading" style="display: none;">Member’s rate
+                                            </h4>
+                                            <h4 class="spl_desk_signup_heading">Member’s rate</h4>
+                                        </div>
+                                        <div class="btn-grpOffer">
+                                            <div class="offer-links wow slideInRight2" data-wow-duration=".5s"
+                                                data-wow-delay="1s"
+                                                style="visibility: visible; animation-duration: 0.5s; animation-delay: 1s; animation-name: slideInRight2;">
+                                                <a href="https://www.lemontreehotels.com/rewards" style="color: black !important;"
+                                                    onclick="explorestay();"
+                                                    class="spl_desk_signup_btn book-n Sign_up_ds">Explore</a>
+                                                <a href="javascript:void(0);" onclick="explorestay();"
+                                                    class="spl_desk_Member_btn book-n Sign_up_ds"
+                                                    style="display: none;">Book Now</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        
+
+
+
+                        <div class="item">
+                            <div class="our_offers_new_inner w-100">
+                                <div class="our_offers_new_inner_box">
+                                    <figure><img height="" width=""  loading="lazy"  alt="day room"
+                                            src="https://www.lemontreehotels.com/assets/fronts/new-images/2o-sep-2023-06-03-40april-23-day-cation-300x300.webp" />
+                                    </figure>
+                                    <div class="our_offers_new_inner_hover days_room day-room-home-text">
+                                        <div class="offer_new_heading_paragraph">
+                                            <h4>Day Rooms<span class="day_rooms_time">(10am - 5pm)</span></h4>
+                                        </div>
+                                        <div class="btn-grpOffer">
+                                            <div class="offer-links wow slideInRight2" data-wow-duration=".5s"
+                                                data-wow-delay="1s"
+                                                style="visibility: visible; animation-duration: 0.5s; animation-delay: 1s; animation-name: slideInRight2;">
+                                                <a href="https://www.lemontreehotels.com/day-use-rooms" class="book-n dayroom_bn_ds">Book Now</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </article>
+    </section>
+
+    <section class="whats-new-block">
+        <article class="container mt-4 p-0">
+                    <h2>What's New</h2>
+                    <div class="inner-content-block">
+                            <div class="row inner-main-section">
+                                <div class="col-lg-6 col-md-12 col-sm-6 col-xs-12 content-column">
+                                    <span><b>A Lookback at 2024</b></span>
+                                    <br />
+                                    <br />
+                                    As we reflect on the past year, we are excited to highlight key milestones we've achieved, including our expansion into a new international destination, Nepal, and the 20th anniversary of our first hotel in Udyog Vihar. Two decades of exceptional hospitality have also contributed to the growth of our robust portfolio, now comprising over 110 hotels.  
+                                    <br><br>
+                                    We are excited to sign our properties in Varanasi and Mussoorie.<br />
+                                    <br />
+                                    
+                                    <span class="whats-btn">
+                                        <a href="https://www.lemontreehotels.com/assets/front/newimg/lemonade_Brochure_December_compressed.pdf"
+                                            target="_blank" class="book-n Whats_New_cs_btn">Click here for more
+                                            details</a>
+                                        <span class="WhatsNewSection_subpara">*Best viewed on a desktop or in landscape
+                                            mode on a mobile </span>
+                                    </span>
+                                    
+                                </div>
+                                <div class="col-lg-6 col-md-12 col-sm-6 col-xs-12 image-column">
+                                    <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/1000X556.jpg" alt="Lemon Tree Hotels" class="custom-img-responsive" />
+                                </div>
+                            </div>
+                    </div>
+        </article>
+    </section>
+	
+	    <section class="our-reward-program">
+        <article class="container">
+            <div class="row">
+                <div class="col-lg-12 py-4">
+                    <h2>Our Rewards Program</h2>
+                </div>
+            </div>
+        </article>
+        <article class="reward-banner-section">
+            <div class="container">
+                <h2>Members exclusive rewards and privileges with endless possibilities, from free stays and upgrades to
+                    special offers and previews, and much more...</h2>
+                <p>Infinity Rewards</p>
+                <div class="reward-Btns-section">
+                    <a href="https://www.lemontreehotels.com/rewards" class="btm-explore-btn-white">Explore</a>
+                    <a href="https://www.lemontreehotels.com/member/signup" class="btm-explore-btn">Join us</a>
+                </div>
+            </div>
+        </article>
+    </section>
+    <section class="our-brands-section cs_our_brands pb-5 bg-light" id="updated_our_brand">
+        <div class="container">
+            <div class="row">
+                <div class="heading text-center pb-4 text-center w-100">
+                    <h4 class="text-uppercase">Our brands</h4>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <figure id="ourBrandsLeftImg" class="left_brands_img">
+                        <img height="" width=""  loading="lazy"  class="w-100 brands_img" src="https://www.lemontreehotels.com/assets/fronts/new-images/AHR.jpg" alt="Lemon Tree Aurika Mumbai" />
+                        <div class="our_brands_img_caption">Aurika, Mumbai Skycity</div>
+                    </figure>
+                </div>
+                <div class="col-md-6">
+                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                        <div class="panel panel-default">
+                            <div class="panel-heading" role="tab" id="headingOne">
+                                <h4 class="panel-title">
+                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne"
+                                        aria-expanded="true" aria-controls="collapseOne"
+                                        onclick="viewimg('AHR.jpg', 'Aurika, Mumbai Skycity');">
+                                        <span class="aurika_brand_label">Aurika Hotels & Resorts</span>
+                                        <figure class="aurika_brand_img"><img height="" width=""  loading="lazy"  class="mb-3 w-25 text-center mx-auto"
+                                                src="https://www.lemontreehotels.com/assets/fronts/new-images/aurika_color_logo.jpg" alt="Aurika Logo" /></figure>
+                                    </a>
+                                </h4>
+                            </div>
+                            <div id="collapseOne" class="panel-collapse collapse in show" role="tabpanel"
+                                aria-labelledby="headingOne">
+                                <div class="panel-body">
+                                    <div class="accordion_mobile_content_img">
+                                        <img height="" width=""  loading="lazy"  class="" src="https://www.lemontreehotels.com/assets/fronts/new-images/AHR.jpg" alt="Lemon Tree Hotels" />
+                                        <p>Aurika, Mumbai Skycity</p>
+                                    </div>
+                                    <p>
+                                        When you stay with us expect an unexpected kind of style. Aurika hotels are
+                                        exquisitely elegant and yet comfortably informal for you to be just as relaxed
+                                        as you want to be.
+                                        <a class="AurikaUdaipur-dsk" href="https://www.lemontreehotels.com/aurika-hotels-resorts">Explore</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading" role="tab" id="headingTwo">
+                                <h4 class="panel-title">
+                                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion"
+                                        href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"
+                                        onclick="viewimg('LTP.jpg', 'Lemon Tree Premier, Bhubaneswar');">
+                                        <span class="aurika_brand_label">Lemon Tree Premier</span>
+                                        <figure class="aurika_brand_img"><img height="" width=""  loading="lazy"  class="mb-3 w-25 text-center mx-auto"
+                                                src="https://www.lemontreehotels.com/assets/fronts/new-images/LTP_newupdated.jpg" alt="Lemon Tree Hotels" /></figure>
+                                    </a>
+                                </h4>
+                            </div>
+                            <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel"
+                                aria-labelledby="headingTwo">
+                                <div class="panel-body">
+                                    <div class="accordion_mobile_content_img">
+                                        <img height="" width=""  loading="lazy"  class="" src="https://www.lemontreehotels.com/assets/fronts/new-images/LTP.jpg" alt="Lemon Tree Hotels" />
+                                        <p>Lemon Tree Premier, Bhubaneswar</p>
+                                    </div>
+                                    <p>
+                                        The plush and spacious interiors at Lemon Tree Premier take the zing up a notch.
+                                        This chain of Upper Midscale business and leisure hotels elevates the Lemon Tree
+                                        experience while
+                                        <a class="lthBhubaneswar-dsk" href="https://www.lemontreehotels.com/lemon-tree-premier">Explore</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading" role="tab" id="headingThree">
+                                <h4 class="panel-title">
+                                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion"
+                                        href="#collapseThree" aria-expanded="false" aria-controls="collapseThree"
+                                        onclick="viewimg('LTH.jpg', 'Lemon Tree Hotel, Coimbatore');">
+                                        <span class="aurika_brand_label">Lemon Tree Hotels</span>
+                                        <figure class="aurika_brand_img"><img height="" width=""  loading="lazy"  class="mb-3 w-25 text-center mx-auto"
+                                                src="https://www.lemontreehotels.com/assets/fronts/new-images/LTH-newupdated.jpg" alt="Lemon Tree Hotels" /></figure>
+                                    </a>
+                                </h4>
+                            </div>
+                            <div id="collapseThree" class="panel-collapse collapse" role="tabpanel"
+                                aria-labelledby="headingThree">
+                                <div class="panel-body">
+                                    <div class="accordion_mobile_content_img">
+                                        <img height="" width=""  loading="lazy"  class="" src="https://www.lemontreehotels.com/assets/fronts/new-images/lth-66.webp"  alt="Lemon Tree Hotels"/>
+                                        <p>Lemon Tree Hotel, Coimbatore</p>
+                                    </div>
+                                    <p>
+                                        Lemon Tree Hotel are midscale business and leisure hotels that uplift your
+                                        spirits at the end of a long day. Like the fruit they are named after, Lemon
+                                        Tree Hotels are fresh, cool
+                                        <a class="lthCoimbatore-dsk" href="https://www.lemontreehotels.com/lemon-tree-hotel">Explore</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading" role="tab" id="headingFour">
+                                <h4 class="panel-title">
+                                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion"
+                                        href="#collapseFour" aria-expanded="false" aria-controls="collapseFour"
+                                        onclick="viewimg('RFH.jpg', 'Red Fox , Neelkanth');">
+                                        <span class="aurika_brand_label">Red Fox By Lemon Tree Hotels</span>
+                                        <figure class="aurika_brand_img"><img height="" width=""  loading="lazy"  class="mb-3 w-25 text-center mx-auto"
+                                                src="https://www.lemontreehotels.com/assets/fronts/new-images/red_newupdated.jpg" alt="Lemon Tree Hotels" /></figure>
+                                    </a>
+                                </h4>
+                            </div>
+                            <div id="collapseFour" class="panel-collapse collapse" role="tabpanel"
+                                aria-labelledby="headingFour">
+                                <div class="panel-body">
+                                    <div class="accordion_mobile_content_img">
+                                        <img height="" width=""  loading="lazy"  class="" src="https://www.lemontreehotels.com/assets/fronts/new-images/RFH.jpg" alt="Lemon Tree Hotels" />
+                                        <p>Red Fox , Neelkanth</p>
+                                    </div>
+                                    <p>
+                                        Red Fox welcomes you with its bold interiors as well as crisp and clean rooms.
+                                        These economy hotels delight you with their unbeatable value and reliable safety
+                                        standards.
+                                        <a class="lthNeelkanth-dsk" href="https://www.lemontreehotels.com/red-fox-hotel">Explore</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading" role="tab" id="headingFive">
+                                <h4 class="panel-title">
+                                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion"
+                                        href="#collapseFive" aria-expanded="false" aria-controls="collapseFive"
+                                        onclick="viewimg('KPH.jpg', 'Keys Prima By Lemon Tree Hotels, Thekaddy');">
+                                        <span class="aurika_brand_label">Keys Prima By Lemon Tree Hotels</span>
+                                        <figure class="aurika_brand_img"><img height="" width=""  loading="lazy"  class="mb-3 w-25 text-center mx-auto"
+                                                src="https://www.lemontreehotels.com/assets/fronts/new-images/keys-prima-LTH.jpg" alt="Lemon Tree Hotels" /></figure>
+                                    </a>
+                                </h4>
+                            </div>
+                            <div id="collapseFive" class="panel-collapse collapse" role="tabpanel"
+                                aria-labelledby="headingFive">
+                                <div class="panel-body">
+                                    <div class="accordion_mobile_content_img">
+                                        <img height="" width=""  loading="lazy"  class="" src="https://www.lemontreehotels.com/assets/fronts/new-images/KPH.jpg" alt="Lemon Tree Hotels" />
+                                        <p>Keys Prima By Lemon Tree Hotels, Thekaddy</p>
+                                    </div>
+                                    <p>
+                                        Our premium brand welcomes you with its stylish features and excellent service.
+                                        Experience exclusive hospitality with our customised services that make your
+                                        time with us unforg-
+                                        <a class="AketaDehradun-dsk" href="https://www.lemontreehotels.com/keys-prima-hotel">Explore </a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading" role="tab" id="headingSix">
+                                <h4 class="panel-title">
+                                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion"
+                                        href="#collapseSix" aria-expanded="false" aria-controls="collapseSix"
+                                        onclick="viewimg('KSH.jpg', 'Keys Select by Lemon Tree Hotels, Gandhi Ashram, Ahmedabad');">
+                                        <span class="aurika_brand_label">Keys Select By Lemon Tree Hotels</span>
+                                        <figure class="aurika_brand_img"><img height="" width=""  loading="lazy"  class="mb-3 w-25 text-center mx-auto"
+                                                src="https://www.lemontreehotels.com/assets/fronts/new-images/KeysSelectLogo-colour-MAIN.png" alt="Lemon Tree Hotels" /></figure>
+                                    </a>
+                                </h4>
+                            </div>
+                            <div id="collapseSix" class="panel-collapse collapse" role="tabpanel"
+                                aria-labelledby="headingSix">
+                                <div class="panel-body">
+                                    <div class="accordion_mobile_content_img">
+                                        <img height="" width=""  loading="lazy"  class="" src="https://www.lemontreehotels.com/assets/fronts/new-images/KSH.jpg" alt="Lemon Tree Hotels" />
+                                        <p>Keys Select by Lemon Tree Hotels, Gandhi Ashram, Ahmedabad</p>
+                                    </div>
+                                    <p>
+                                        Our popular brand invites you to enjoy the comfort and convenience at these
+                                        hotels, whether you are on business or leisure. A warm welcome, efficient
+                                        service, impeccable hyg-
+                                        <a class="GandhiAshramAhmedabad-dsk" href="https://www.lemontreehotels.com/keys-select-hotel">Explore </a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading" role="tab" id="headingSeven">
+                                <h4 class="panel-title">
+                                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion"
+                                        href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven"
+                                        onclick="viewimg('KLH.jpg', 'Keys Lite by Lemon Tree Hotels, Tapovan, Rishikesh');">
+                                        <span class="aurika_brand_label">Keys Lite By Lemon Tree Hotels</span>
+                                        <figure class="aurika_brand_img"><img height="" width=""  loading="lazy"  class="mb-3 w-25 text-center mx-auto"
+                                                src="https://www.lemontreehotels.com/assets/fronts/new-images/KeysLiteLogo-colour-MAIN.png" alt="Lemon Tree Hotels" /></figure>
+                                    </a>
+                                </h4>
+                            </div>
+                            <div id="collapseSeven" class="panel-collapse collapse" role="tabpanel"
+                                aria-labelledby="headingSeven">
+                                <div class="panel-body">
+                                    <div class="accordion_mobile_content_img">
+                                        <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/KLH.jpg" alt="Lemon Tree Hotels" class="" />
+                                        <p>Keys Lite by Lemon Tree Hotels, Tapovan, Rishikesh</p>
+                                    </div>
+                                    <p>
+                                        This budget brand is targeted at smart consumers who look for affordable and
+                                        stress free accommodation when they travel. These hotels offer hygienic rooms,
+                                        multiple ame-
+                                        <a class="TapovanRishikesh-dsk" href="https://www.lemontreehotels.com/keys-lite-hotel">Explore </a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="sustainability-section mt-1 mb-1">
+        <div class="container">
+            <div class="heading text-center mb-4">
+                <h2>Sustainability</h2>
+            </div>
+            <!-- <iframe id="video_sus" width="100%" height="624"
+                src="https://www.youtube-nocookie.com/embed/vZE35FI3wxw?playlist=vZE35FI3wxw&amp;iv_load_policy=3&amp;loop=1&amp;modestbranding=1&amp;mute=1"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; encrypted-media; gyroscope; picture-in-picture">
+                    
+                </iframe> -->
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="yt-embed" data-youtube-embed="vZE35FI3wxw">
+                        <div class="play"></div>
+                              <div class='embed-container' style="display:none" >
+                                    <iframe src='' width="100%" height="624" allow="autoplay"  frameborder='0' allowfullscreen></iframe>
+                              </div>
+                              <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/maxresdefault-1.webp"class="w-100" alt="Lemon Tree Hotels" loading="lazy" />
+                        </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <script type="text/javascript">
+        function hideImageAndLoadYoutubeEmbed(event) {
+
+  const element = event.target.closest(".yt-embed");
+  console.log(element);
+  // Get the image element.
+  const image = element.querySelector("img");
+  console.log(image);
+   
+  
+
+  // Set the iframe element.
+  const iframe = element.querySelector("iframe");
+  console.log(iframe);   
+
+  // Hide the image.
+  image.style.visibility = 'hidden';
+
+  // Get the YouTube embed code.
+  const embedCodeID = element.getAttribute("data-youtube-embed");
+  const embedCode = 'https://www.youtube.com/embed/'+embedCodeID+'?autoplay=1'
+ 
+   console.log(embedCode);
+  // Create the YouTube embed element.
+  iframe.src = embedCode;
+  const iframeWrap = element.querySelector(".embed-container"); 
+  iframeWrap.style.display = "block"; 
+
+}
+
+// Attach the event listener to all elements with the class `.yt-embed`.
+document.querySelectorAll(".yt-embed").forEach((event) => {
+ event.addEventListener("click", hideImageAndLoadYoutubeEmbed);
+});
+
+    </script>
+
+
+   <footer> 
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                <div class="our-presence">
+                    <div class="top-footer-heading">
+                        <h2><a href="javascript:void();" id="all-hotels-main">Our Presence <span>+</span></a></h2>
+                    </div> 
+                    <div class="hotels">
+                        <div class="" id="all-cities" style="display: none;">
+                            <ul class="footer-hotel-listing">
+                                <li><a href="https://www.lemontreehotels.com/agra-hotels"> HOTELS IN Agra</a></li>
+                                <li><a href="https://www.lemontreehotels.com/ahmedabad-hotels"> HOTELS IN Ahmedabad</a></li>
+                                <li><a href="https://www.lemontreehotels.com/aligarh-hotels"> HOTELS IN Aligarh</a></li>
+                                <li><a href="https://www.lemontreehotels.com/alleppey-hotels"> HOTELS IN Alleppey</a></li>
+                                <li><a href="https://www.lemontreehotels.com/alwar-hotels"> HOTELS IN Alwar</a></li>
+                                <li><a href="https://www.lemontreehotels.com/aurangabad-hotels"> HOTELS IN Aurangabad</a></li>
+                                <li><a href="https://www.lemontreehotels.com/baddi-hotels"> HOTELS IN Baddi</a></li>
+                                <li><a href="https://www.lemontreehotels.com/bandhavgarh-hotels"> HOTELS IN Bandhavgarh</a></li>
+                                <li><a href="https://www.lemontreehotels.com/bengaluru-hotels"> HOTELS IN Bengaluru</a></li>
+                                <li><a href="https://www.lemontreehotels.com/bhiwadi-hotels"> HOTELS IN Bhiwadi</a></li>
+                                <li><a href="https://www.lemontreehotels.com/bhopal-hotels"> HOTELS IN Bhopal</a></li>
+                                <li><a href="https://www.lemontreehotels.com/bhubaneswar-hotels"> HOTELS IN Bhubaneswar</a></li>
+                                <li><a href="https://www.lemontreehotels.com/chandigarh-hotels"> HOTELS IN Chandigarh</a></li>
+                                <li><a href="https://www.lemontreehotels.com/chennai-hotels"> HOTELS IN Chennai</a></li>
+                                <li><a href="https://www.lemontreehotels.com/coimbatore-hotels"> HOTELS IN Coimbatore</a></li>
+                                <li><a href="https://www.lemontreehotels.com/coorg-hotels"> HOTELS IN Coorg</a></li>
+                                <li><a href="https://www.lemontreehotels.com/corbett-hotels"> HOTELS IN Corbett</a></li>
+                                <li><a href="https://www.lemontreehotels.com/dapoli-hotels"> HOTELS IN Dapoli</a></li>
+                                <li><a href="https://www.lemontreehotels.com/dehradun-hotels"> HOTELS IN Dehradun</a></li>
+                                <li><a href="https://www.lemontreehotels.com/delhi-hotels"> HOTELS IN Delhi</a></li>
+                                <li><a href="https://www.lemontreehotels.com/dubai-hotels"> HOTELS IN Dubai</a></li>
+                                <li><a href="https://www.lemontreehotels.com/dwarka-hotels"> HOTELS IN Dwarka</a></li>
+                                <li><a href="https://www.lemontreehotels.com/gangtok-hotels"> HOTELS IN Gangtok</a></li>
+                                <li><a href="https://www.lemontreehotels.com/goa-hotels"> HOTELS IN Goa</a></li>
+                                <li><a href="https://www.lemontreehotels.com/gurugram-hotels"> HOTELS IN gurugram</a></li>
+                                <li><a href="https://www.lemontreehotels.com/haridwar-hotels"> HOTELS IN Haridwar</a></li>
+                                <li><a href="https://www.lemontreehotels.com/hisar-hotels"> HOTELS IN Hisar</a></li>
+                                <li><a href="https://www.lemontreehotels.com/hubli-hotels"> HOTELS IN Hubli</a></li>
+                                <li><a href="https://www.lemontreehotels.com/hyderabad-hotels"> HOTELS IN Hyderabad</a></li>
+                                <li><a href="https://www.lemontreehotels.com/indore-hotels"> HOTELS IN Indore</a></li>
+                                <li><a href="https://www.lemontreehotels.com/jaipur-hotels"> HOTELS IN Jaipur</a></li>
+                                <li><a href="https://www.lemontreehotels.com/jammu-hotels"> HOTELS IN Jammu</a></li>
+                                <li><a href="https://www.lemontreehotels.com/jamshedpur-hotels"> HOTELS IN Jamshedpur</a></li>
+                                <li><a href="https://www.lemontreehotels.com/jhansi-hotels"> HOTELS IN Jhansi</a></li>
+                                <li><a href="https://www.lemontreehotels.com/kasauli-hotels"> HOTELS IN Kasauli</a></li>
+                                <li><a href="https://www.lemontreehotels.com/katra-hotels"> HOTELS IN Katra</a></li>
+                                <li><a href="https://www.lemontreehotels.com/kochi-hotels"> HOTELS IN Kochi</a></li>
+                                <li><a href="https://www.lemontreehotels.com/kolkata-hotels"> HOTELS IN Kolkata</a></li>
+                                <li><a href="https://www.lemontreehotels.com/kozhikode-hotels"> HOTELS IN Kozhikode</a></li>
+                                <li><a href="https://www.lemontreehotels.com/kumbhalgarh-hotels"> HOTELS IN Kumbhalgarh</a></li>
+                                <li><a href="https://www.lemontreehotels.com/lucknow-hotels"> HOTELS IN Lucknow</a></li>
+                                <li><a href="https://www.lemontreehotels.com/ludhiana-hotels"> HOTELS IN Ludhiana</a></li>
+                                <li><a href="https://www.lemontreehotels.com/manali-hotels"> HOTELS IN Manali</a></li>
+                                <li><a href="https://www.lemontreehotels.com/manesar-hotels"> HOTELS IN Manesar</a></li>
+                                <li><a href="https://www.lemontreehotels.com/mcleodganj-hotels"> HOTELS IN McLeodganj</a></li>
+                                <li><a href="https://www.lemontreehotels.com/mukteshwar-hotels"> HOTELS IN Mukteshwar</a></li>
+                                <li><a href="https://www.lemontreehotels.com/mumbai-hotels"> HOTELS IN Mumbai</a></li>
+                                <li><a href="https://www.lemontreehotels.com/neelkanth-hotels"> HOTELS IN Neelkanth</a></li>
+                                <li><a href="https://www.lemontreehotels.com/nepal-hotels"> HOTELS IN Nepal</a></li>
+                                <li><a href="https://www.lemontreehotels.com/noida-hotels"> HOTELS IN Noida</a></li>
+                                <li><a href="https://www.lemontreehotels.com/patna-hotels"> HOTELS IN Patna</a></li>
+                                <li><a href="https://www.lemontreehotels.com/port-blair-hotels"> HOTELS IN Portblair</a></li>
+                                <li><a href="https://www.lemontreehotels.com/pune-hotels"> HOTELS IN Pune</a></li>
+                                <li><a href="https://www.lemontreehotels.com/rajkot-hotels"> HOTELS IN Rajkot</a></li>
+                                <li><a href="https://www.lemontreehotels.com/rishikesh-hotels"> HOTELS IN Rishikesh</a></li>
+                                <li><a href="https://www.lemontreehotels.com/siliguri-hotels"> HOTELS IN Siliguri</a></li>
+                                <li><a href="https://www.lemontreehotels.com/sonmarg-hotels"> HOTELS IN Sonmarg</a></li>
+                                <li><a href="https://www.lemontreehotels.com/srinagar-hotels"> HOTELS IN Srinagar</a></li>
+                                <li><a href="https://www.lemontreehotels.com/thekkady-hotels"> HOTELS IN Thekkady</a></li>
+                                <li><a href="https://www.lemontreehotels.com/thimphu-hotels"> HOTELS IN Thimphu</a></li>
+                                <li><a href="https://www.lemontreehotels.com/thiruvananthapuram-hotels"> HOTELS IN Thiruvananthapuram</a></li>
+                                <li><a href="https://www.lemontreehotels.com/tiruchirappalli-hotels"> HOTELS IN Tiruchirappalli</a></li>
+                                <li><a href="https://www.lemontreehotels.com/udaipur-hotels"> HOTELS IN Udaipur</a></li>
+                                <li><a href="https://www.lemontreehotels.com/vadodara-hotels"> HOTELS IN Vadodara</a></li>
+                                <li><a href="https://www.lemontreehotels.com/vijayawada-hotels"> HOTELS IN Vijayawada</a></li>
+                                <li><a href="https://www.lemontreehotels.com/visakhapatnam-hotels"> HOTELS IN Visakhapatnam</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer-page-links">
+                    <ul class="bottom-footer-links">
+                        <li><a href="https://www.lemontreehotels.com/awards">Awards</a></li>
+                        <li><a href="https://www.lemontreehotels.com/about-us">About us</a></li>
+                        <li><a href="https://careers.lemontreehotels.com/" target="_blank">Careers</a></li>
+                        <li><a href="https://www.lemontreehotels.com/contact-us">Contact us</a></li>
+                        <li><a href="https://www.lemontreehotels.com/privacy-policy">Privacy Policy</a></li>
+                        <li><a href="http://brochures.lemontreehotels.com/bookcase/bqlzc/">Newsletters</a></li>
+                    </ul>
+                    <ul class="bottom-footer-links">
+                        <li><a href="https://blog.lemontreehotels.com">Blogs</a></li>
+                        <li><a href="https://www.lemontreehotels.com/day-use-rooms">Day Use</a></li>
+                        <li><a href="https://www.lemontreehotels.com/assets/pdf/cookie_policy.pdf" target="_blank">cookies Policy</a></li>
+                        <li><a href="https://www.lemontreehotels.com/non-affiliation">Non Affiliation</a></li>
+                        <li><a href="https://www.lemontreehotels.com/term-condition">Terms &amp; Conditions</a></li>
+                    </ul>
+                    <ul class="bottom-footer-links">
+                        <li><a href="https://www.lemontreehotels.com/media">Media</a></li>
+                        <li><a href="https://www.lemontreehotels.com/sitemap">Site Map</a></li>
+                        <li><a href="https://www.lemontreehotels.com/travel-guide">Travel Guidelines</a></li>
+                        <li><a href="https://investors.lemontreehotels.com/">Investor relations</a></li>
+                    </ul>
+                    <ul class="bottom-footer-links">
+                        <li><a href="https://nidhi.tourism.gov.in/">Nidhi</a></li>
+                        <li><a href="https://utsav.gov.in/">utsav</a></li>
+                        <li><a href="https://saathi.qcin.org/">Saathi</a></li>
+                        <li><a href="https://www.lemontreehotels.com/rewards">Loyalty Program</a></li>
+                    </ul>
+                </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="footer-social-section">
+                        <div class="row">
+                            <div class="col-md-6 col-12 p-0 text-left ">
+                                <p>Join our newsletter</p>
+                                <div class="footer-subscribe-section">
+                                    <input type="email" id="newsemailId" placeholder="Enter Email ID" />
+                                    <input class="footer-submit-btn" type="button" value="Submit" onclick="return validatesubsemail();"/>
+                                    <div class="footer-bottom-form-check form-check">
+                                        
+										<input type="checkbox" checked class="form-check-input" id="checkSubscribeEmail"> <label class="form-check-label" for="checkSubscribeEmail">I agree to the <a href="https://www.lemontreehotels.com/privacy-policy">privacy policy.</a></label>
+                                    </div>
+                                    <div class="loadingPageSubscribe" style="display: none;"></div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 footer-right-social-block">
+                                <div class="footer-social-icons-block">
+                                    <h4>Follow us</h4>
+                                    <div class="footer-social-icons">
+                                        <ul>
+                                            <li class="social-i">
+                                                <a href="https://www.facebook.com/lemontreehotelsltd" target="_blank">
+                                                    <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/images/footer-fb-icon.png" alt="Lemon Tree Hotels" />
+                                                </a>
+                                            </li>
+                                            <li class="social-i">
+                                                <a href="https://twitter.com/LemonTreeHotels" target="_blank">
+                                                    <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/images/footer-linkedin-icon.png" alt="Lemon Tree Hotels" />
+                                                </a>
+                                            </li>
+                                            <li class="social-i">
+                                                <a href="https://www.instagram.com/lemontreehotels/" target="_blank">
+                                                    <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/images/footer-insta-icon.png" alt="Lemon Tree Hotels" />
+                                                </a>
+                                            </li>
+                                            <li class="social-i">
+                                                <a href="https://www.youtube.com/c/LemonTreeHotelsLtd" target="_blank">
+                                                    <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/images/footer-youtube-icon.png" alt="Lemon Tree Hotels" />
+                                                </a>
+                                            </li>
+                                            <li class="social-i">
+                                                <a href="https://www.threads.net/@lemontreehotels" target="_blank">
+                                                    <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/images/footer-threads-icon.png" alt="Lemon Tree Hotels" />
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="copy_right_text">©2024 by Lemon Tree Hotels Ltd. All Rights Reserved.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- <script src="https://www.lemontreehotels.com/assets/fronts/js/jquery.js"></script> -->
+    <script src="https://www.lemontreehotels.com/assets/fronts/js/owl.carousel.js" defer></script>
+    <script src="https://www.lemontreehotels.com/assets/fronts/js/select2.full.min.js"></script>
+    <script src="https://www.lemontreehotels.com/assets/fronts/js/custom.js" defer></script>
+    <script src="https://www.lemontreehotels.com/assets/front/js/common_be.js" defer></script>
+    <script src="https://www.lemontreehotels.com/assets/fronts/js/bootstrap.min.js" defer></script>
+    
+    <!-- <script src="https://www.lemontreehotels.com/assets/fronts/https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.0/js/select2.full.min.js"></script> -->
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            //   $('#long-weekend-offer').modal('show');
+        });
+        $('.advesory-btn').click(function () {
+            $('.advesory').hide();
+        });
+
+        $('.mob-menu-close').click(function () {
+            $('#navbarSupportedContent').removeClass("show");
+        });
+
+
+    </script>
+    <div id="long-weekend-offer" class="modal fade SkycityModal" role="dialog">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+
+                <div class="modal-body">
+                    <button type="button" class="close" data-dismiss="modal">×</button>
+                    <a href="https://www.lemontreehotels.com/long-weekend-offer">
+                        <img height="" width=""  loading="lazy"  src="https://www.lemontreehotels.com/assets/fronts/new-images/long-weekend-popup.webp" class="w-100" alt="Lemon Tree Hotels" />
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div id="UpcomingModalnoida" class="modal fade SkycityModal" role="dialog">
+        <div class="modal-dialog modal-dialog-centered">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Lemon Tree Hotel, Noida</h4>
+                    <button type="button" class="close" data-dismiss="modal">×</button>
+                </div>
+                <div class="modal-body">
+                    <ul>
+                        <li><strong> Name : </strong>Lemon Tree Hotel, Noida</li>
+                        <li><strong> Address : </strong>B-40B, Sector 1, Gautam Buddha Nagar, Noida, Uttar Pradesh-
+                            201301, India</li>
+                        <li><strong> No of rooms : </strong>40</li>
+                        <li><strong> Facilities : </strong>Citrus Café, Tangerine, Conference Room</li>
+                    </ul>
+                </div>
+            </div>
+
+
+
+
+        </div>
+    </div>
+
+    <div id="UpcomingModaludaipur" class="modal fade SkycityModal" role="dialog">
+        <div class="modal-dialog modal-dialog-centered">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Keys Lite by Lemon Tree Hotels, Urban Suites, Udaipur</h4>
+                    <button type="button" class="close" data-dismiss="modal">×</button>
+                </div>
+                <div class="modal-body">
+                    <ul>
+                        <li><strong> Name : </strong>Keys Lite by Lemon Tree Hotels, Urban Suites, Udaipur</li>
+                        <li><strong> Address : </strong>Urban Square Mall, Plot No. F, 210 to 223, Udyog Vihar, Gaurav
+                            Path, RIICO Industrial Area, Sukher, Udaipur, Rajasthan - 313001, India</li>
+                        <li><strong> No of rooms : </strong>68</li>
+                        <li><strong> Facilities : </strong></li>
+                    </ul>
+                </div>
+            </div>
+
+
+
+        </div>
+    </div>
+
+
+    <div id="UpcomingModalsomnath" class="modal fade SkycityModal" role="dialog">
+        <div class="modal-dialog modal-dialog-centered">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Lemon Tree Resort, Somnath</h4>
+                    <button type="button" class="close" data-dismiss="modal">×</button>
+                </div>
+                <div class="modal-body">
+                    <ul>
+                        <li><strong> Name : </strong>Lemon Tree Resort, Somnath</li>
+                        <li><strong> Address : </strong>Opposite Veraval Beach, Veraval, Somnath, Gujarat – 362265,
+                            India</li>
+                        <li><strong> No of rooms : </strong>52</li>
+                        <li><strong> Facilities : </strong>Citrus Café, Swimming Pool, Fitness Center, Tangerine Garden,
+                            1 Conference Room</li>
+                    </ul>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+
+    <div id="UpcomingModalchandausi" class="modal fade SkycityModal" role="dialog">
+        <div class="modal-dialog modal-dialog-centered">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Lemon Tree Hotel, Chandausi</h4>
+                    <button type="button" class="close" data-dismiss="modal">×</button>
+                </div>
+                <div class="modal-body">
+                    <ul>
+                        <li><strong> Name : </strong>Lemon Tree Hotel, Chandausi</li>
+                        <li><strong> Address : </strong>I Generation Mall, Village Aata, Agra Moradabad National
+                            Highway, Chandausi, Sambhal, Uttar Pradesh - 202412, India</li>
+                        <li><strong> No of rooms : </strong>63</li>
+                        <li><strong> Facilities : </strong>Citrus Café, Republic of Noodles, IRD, Swimming pool, Fitness
+                            Center, Spa, Tangerine, Tangerine Grand 1, Tangerine Grand 2, Tangerine Garden</li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+    <div id="UpcomingModalmussoorie" class="modal fade SkycityModal" role="dialog">
+        <div class="modal-dialog modal-dialog-centered">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Lemon Tree Resort, Mussoorie</h4>
+                    <button type="button" class="close" data-dismiss="modal">×</button>
+                </div>
+                <div class="modal-body">
+                    <ul>
+                        <li><strong> Name : </strong>Lemon Tree Resort, Mussoorie</li>
+                        <li><strong> Address : </strong> Big Bend, Picture Palace Road, Mussoorie, Uttarakhand – 248179,
+                            India</li>
+                        <li><strong> No of rooms : </strong>40</li>
+                        <li><strong> Facilities : </strong>Citrus Café, Fitness Center</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="UpcomingModalgoa" class="modal fade SkycityModal" role="dialog">
+        <div class="modal-dialog modal-dialog-centered">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Lemon Tree Hotel, Anjuna, Goa</h4>
+                    <button type="button" class="close" data-dismiss="modal">×</button>
+                </div>
+                <div class="modal-body">
+                    <ul>
+                        <li><strong> Name : </strong>Lemon Tree Hotel, Anjuna, Goa</li>
+                        <li><strong> Address : </strong>H No. 1647/2, Devul Waddo, Ozran Beach Road, Anjuna, Goa-
+                            403509, India</li>
+                        <li><strong> No of rooms : </strong>51</li>
+                        <li><strong> Facilities : </strong>Citrus Café, IRD, Fitness Center, Swimming Pool, Tangerine
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="UpcomingModaljamshedpur" class="modal fade SkycityModal" role="dialog">
+        <div class="modal-dialog modal-dialog-centered">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Lemon Tree Hotel, Centre Point, Jamshedpur</h4>
+                    <button type="button" class="close" data-dismiss="modal">×</button>
+                </div>
+                <div class="modal-body">
+                    <ul>
+                        <li><strong> Name : </strong>Lemon Tree Hotel, Centre Point, Jamshedpur</li>
+                        <li><strong> Address : </strong>2, Inner circle road, Bishtupur, Jamshedpur - 831001, Jharkhand,
+                            India</li>
+                        <li><strong> No of rooms : </strong>42</li>
+                        <li><strong> Facilities : </strong>RON, Slounge, Tangerine, 1 Board room, Fitness Center</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="UpcomingModalNepal1" class="modal fade SkycityModal" role="dialog">
+    <div class="modal-dialog modal-dialog-centered">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Lemon Tree Premier, Biratnagar, Nepal</h4>
+                <button type="button" class="close" data-dismiss="modal">×</button>
+            </div>
+            <div class="modal-body">
+                <ul>
+                    <li><strong> Name : </strong>Lemon Tree Premier, Biratnagar, Nepal</li>
+                    <li><strong> Address : </strong>Bhrikuti Chowk - 5, Dharan Road, Koshi Pradesh-56613, Nepal</li>
+                    <li><strong> No of rooms : </strong>80</li>
+                    <li><strong> Facilities : </strong>Citrus Café, Republic of Noodles, Slounge, Tangerine, Meeting Room</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id="UpcomingModalArpora1" class="modal fade SkycityModal" role="dialog">
+    <div class="modal-dialog modal-dialog-centered">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Lemon Tree Hotel, Arpora, Goa</h4>
+                <button type="button" class="close" data-dismiss="modal">×</button>
+            </div>
+            <div class="modal-body">
+                <ul>
+                    <li><strong> Name : </strong>Lemon Tree Hotel, Arpora, Goa</li>
+                    <li><strong> Address : </strong>54/1A, Mainath Bhati, Arpora, Bardez, North Goa 403516</li>
+                    <li><strong> No of rooms : </strong>57</li>
+                    <li><strong> Facilities : </strong>Citrus Café, Slounge, Tangerine, Fitness Center, Swimming Pool, Spa</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="UpcomingModalGurugram1" class="modal fade SkycityModal" role="dialog">
+    <div class="modal-dialog modal-dialog-centered">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Skywave Suites, operated by Lemon Tree Hotels, Gurugram</h4>
+                <button type="button" class="close" data-dismiss="modal">×</button>
+            </div>
+            <div class="modal-body">
+                <ul>
+                    <li><strong> Name : </strong>Skywave Suites, operated by Lemon Tree Hotels, Gurugram</li>
+                    <li><strong> Address : </strong>Sector - 82A, Gurugram – 122012, India</li>
+                    <li><strong> No of rooms : </strong>246</li>
+                    <li><strong> Facilities : </strong>Citrus Café, Prism Bar, Swimming Pool, Fitness Center, Spa</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div> 
+
+    <div id="UpcomingModalthimphu" class="modal fade SkycityModal" role="dialog">
+        <div class="modal-dialog modal-dialog-centered">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Lemon Tree Resort, Thimphu, Bhutan</h4>
+                    <button type="button" class="close" data-dismiss="modal">×</button>
+                </div>
+                <div class="modal-body">
+                    <ul>
+                        <li><strong> Name : </strong>Lemon Tree Resort, Thimphu, Bhutan</li>
+                        <li><strong> Address : </strong>Hankuna, Taba, Thimpu - 11001, Bhutan </li>
+                        <li><strong> No of rooms : </strong>49</li>
+                        <li><strong> Facilities : </strong>Citrus Café, Slounge, Tangerine, Conference Rooms, Spa,
+                            Fitness Center</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="UpcomingModalvadodara" class="modal fade SkycityModal" role="dialog">
+        <div class="modal-dialog modal-dialog-centered">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Keys Lite by Lemon Tree Hotels, Vadodara</h4>
+                    <button type="button" class="close" data-dismiss="modal">×</button>
+                </div>
+                <div class="modal-body">
+                    <ul>
+                        <li><strong> Name : </strong>Keys Lite by Lemon Tree Hotels, Vadodara</li>
+                        <li><strong> Address : </strong>Samruddhi Trade Centre, Wathodia Daboli Ring Road, Vadodara
+                        </li>
+                        <li><strong> No of rooms : </strong>63</li>
+                        <li><strong> Facilities : </strong>Keys Café, Grand Chamber, Chamber</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- <div class="modal fade bgpopup" id="offerpopup" role="dialog">
+        <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <a href="https://www.lemontreehotels.com/happy-hour">
+                    <img src="https://www.lemontreehotels.com/assets/fronts/new-images/happy-hour.jpg" class="w-100 m-0" />
+                </a>
+                <a href="https://www.lemontreehotels.com/happy-hour" class="btn btn-link mx-auto w-100" style="text-decoration:underline;color:#000000;border:none;padding:10px 0 0 0">
+                        Explore More
+                    </a>
+            </div>
+        </div> 
+        </div>
+    </div> -->
+
+
+
+
+
+
+
+
+
+
+    <script>
+	function gotosearchroomonbe() {
+		
+      var turl = window.location.href;
+      var getidval = $("#getBeCityHotel").val();
+    
+	  var hotelid='';
+	  var cityname='';
+	  result = getidval.match("hid_");
+	  if(result=='hid_'){
+		  hotelid= getidval.replace("hid_", "");
+	  }else{
+		  var cityname = getidval.toLowerCase();
+		   var hotelid = getidval.toLowerCase();
+	  }
+      //var cc = $("[id$=_txtCitySearch1]").val();
+      //var hurl = $("[id$=hidurl1]").val().toLowerCase();
+     
+	 
+      //var isyes4 = $('#yes41').prop('checked');
+      var isyes4 = $('#mySwitch').prop('checked');
+      
+      if (cityname == "Alwar".toLowerCase()) {
+          cityname = "ALW";
+      }
+      else if (cityname == "Aurangabad".toLowerCase()) {
+          cityname = "IXU";
+      }
+      else if (cityname == "Bengaluru".toLowerCase()) {
+          cityname = "BLR";
+      }
+      else if (cityname == "Chennai".toLowerCase()) {
+          cityname = "MAA";
+      }
+      else if (cityname == "Gangtok".toLowerCase()) {
+          cityname = "GN02";
+      }
+      else if (cityname == "Ghaziabad".toLowerCase()) {
+          cityname = "GZD";
+      }
+      else if (cityname == "Gurgaon".toLowerCase()) {
+          cityname = "Gurugram";
+      }
+      else if (cityname == "Hyderabad".toLowerCase()) {
+          cityname = "HYD";
+      }
+      else if (cityname == "Jaipur".toLowerCase()) {
+          cityname = "JAI";
+      }
+      else if (cityname == "Pune".toLowerCase()) {
+          cityname = "PNQ";
+      }
+      else if (cityname == "Tiruchirappalli".toLowerCase()) {
+          cityname = "Trichy";
+      }
+      else if (cityname == "Port-Blair".toLowerCase()) {
+          cityname = "ANDAMAN";
+      }
+      else if (cityname == "Bhubaneswar".toLowerCase()) {
+          cityname = "BHU";
+      }
+      else if (cityname == "Coimbatore".toLowerCase()) {
+          cityname = "COIMBOTORE";
+      }
+      else if (cityname == "Thiruvananthapuram".toLowerCase()) {
+          cityname = "TRI";
+      }
+      else if (cityname == "Visakhapatnam".toLowerCase()) {
+          cityname = "VASA";
+      }
+      /* if (cc == "" || $("[id$=hidtxt1]").val() == "") {
+          alert("Please Enter Your Destination or Hotel");
+          cityname.focus();
+          return false;
+      } */
+      else {
+			var checkin;
+			var checkout;
+			var rooms;
+			var adul;
+			var promo12 = '';
+			
+			checkin = $("#checkindate").val();
+              checkout = $("#checkoutdate").val();
+              var roomsadultchilds = $("#rooms_childs_showT").val().split(" - ");
+              rooms = roomsadultchilds[0].split(' ')[1];
+              adul = roomsadultchilds[1].split(' ')[1];
+              chil = roomsadultchilds[2].split(' ')[1];
+
+
+              var d11 = new Date();
+              var d21 = new Date(checkin);
+
+              var timeDiff = d21.getTime() - d11.getTime();
+              var DaysDiff = timeDiff / (1000 * 3600 * 24);
+
+              var sla
+              if (DaysDiff <= 3) {
+                  sla = 'B3';
+              }
+              else if (DaysDiff > 3 && DaysDiff <= 7) {
+                  sla = 'B7';
+              }
+              else if (DaysDiff > 7 && DaysDiff <= 15) {
+                  sla = 'B15';
+              }
+              else if (DaysDiff > 15) {
+                  sla = 'B25';
+              }
+              var Geturl = window.location.pathname;
+              //******************************************
+              var values = "";
+			  var values_be = "";
+              var n = $(".adult-inputT").length;
+              //alert(n);
+              var i = 1;
+              $(".adult-inputT").each(function () {
+                  if (i < n) {
+                      values += $(this).val() + ",\n";
+					  values_be += "&Adults_"+i+"="+$(this).val();
+                  }
+                  else {
+                      values += $(this).val();
+					  values_be += "&Adults_"+i+"="+$(this).val();
+                  }
+                  i++;
+              });
+              adul1 = values;
+			  var adul1_be = values_be;
+              aduls_num = n;
+
+              var valueschilds = "";
+			   var valueschilds_be = "";
+              var n = $(".child-inputT").length;
+              //alert(n);
+              var i = 1;
+              $(".child-inputT").each(function () {
+                  if (i < n) {
+                      valueschilds += $(this).val() + ",\n";
+					  valueschilds_be += "&Children_"+i+"="+$(this).val();
+                  }
+                  else {
+                      valueschilds += $(this).val();
+					  valueschilds_be += "&Children_"+i+"="+$(this).val();
+                  }
+                  i++;
+              });
+              chil1 = valueschilds;
+			  var chil1_be = valueschilds_be;
+              chil1_num = n;
+			var dayusefor="";
+				var templateuse="SBE";
+			  var checkedValue = $('#top_booking_updated_switch:checked').val();
+			  if(checkedValue=='on'){
+				  templateuse="DAYUSESBE";
+				  dayusefor="&config=dayUse";
+		  }
+			    
+			$.ajax({
+        type: "POST",
+        url: 'https://www.lemontreehotels.com/getmpromocode',
+        data: {  synxis_id: hotelid },
+		cache: false,
+		beforeSend: function (request) {
+			return request.setRequestHeader('X-CSRF-Token', '6PZcnaneUT5FnnmUgNGiCQhCIqmsXDWDJ32du4EQ');
+		},
+        success: function (data) {
+			/* promo12=data.pcode; */
+			promo12='';
+			
+			
+			if(hotelid!=""){
+				
+				var d1 = new Date(checkin);
+				var d2 = new Date(checkout);
+				var timeDiff = d2.getTime() - d1.getTime();
+				var days = Math.ceil(timeDiff / (1000 * 3600 * 24));
+				
+				var arr = checkin.split("/");
+      
+				 var newcheckindate = arr[2]+'-'+arr[0]+'-'+arr[1];
+				
+			 $.ajax({
+						type: "POST",
+						url: 'https://www.lemontreehotels.com/geservebe',
+						data: {  hotel_id: hotelid },
+						cache: false,
+						beforeSend: function (request) {
+							return request.setRequestHeader('X-CSRF-Token', '6PZcnaneUT5FnnmUgNGiCQhCIqmsXDWDJ32du4EQ');
+						},
+						success: function (data) {
+							$("#btnCitySearch").fadeOut();
+							if(data.reserveurl!="" && cityname==""){
+								var be_link_new=data.reserveurl;
+								var hotelcode=data.hotelcode;
+								var location11 = be_link_new+"/rooms?Rooms="+rooms+"&CheckinDate="+newcheckindate+"&LOS="+days+""+adul1_be+""+chil1_be+"&locale=en&Currency=INR&offerCode=&iataNumber=&flow=tf&multi=false&accessCode=&isSpecialRate=false&hotel="+hotelcode+"&token=";
+								 
+								window.open(location11,"_self");
+							}else{
+								var be_link_new=data.reserveurl;
+								var hotelcode=data.hotelcode;
+								var location11 = be_link_new+"/?Rooms="+rooms+"&CheckinDate="+newcheckindate+"&LOS="+days+""+adul1_be+""+chil1_be+"&locale=en&Currency=INR&offerCode=&iataNumber=&flow=tf&multi=false&accessCode="+"&token=";
+								
+							window.open(location11,"_self");
+							}
+							
+							
+						},
+						error: function (jqXHR, textStatus, ex) { }
+				});	
+				
+			}else{
+				if(cityname!=""){
+					alert("Please select hotel");
+					return false;
+					/* var location11 = "https://be.synxis.com/?Chain=7710&Dest=" + cityname + '&template='+templateuse+'&shell=SBE&theme=initialTheme2&arrive=' + checkin + '&depart=' + checkout + '&Adult=' + adul1 + '&Rooms=' + rooms + '&Child=' + chil1 + '&promo=' + promo12 + '&clientId=&start=availresults&locale=en-US'+dayusefor;
+					window.open(location11,"_self"); */
+				}else{
+					alert("Please select hotel");
+					return false;
+					/* var location11 = "https://be.synxis.com/?Chain=7710&Hotel=" + hotelid + '&template='+templateuse+'&shell=SBE&theme=initialTheme2&arrive=' + checkin + '&depart=' + checkout + '&Adult=' + adul1 + '&Rooms=' + rooms + '&Child=' + chil1 + '&promo=' + promo12 + '&clientId=&start=availresults&locale=en-US'+dayusefor;
+					window.open(location11,"_self"); */
+				} 
+			}
+			$("#btnCitySearch1").attr("disabled", false);
+        },
+        error: function (jqXHR, textStatus, ex) { }
+    });	
+				/* $.ajax({
+        type: "POST",
+        url: 'https://www.lemontreehotels.com/getmpromocode',
+        data: {  synxis_id: hotelid },
+		cache: false,
+		beforeSend: function (request) {
+			return request.setRequestHeader('X-CSRF-Token', '6PZcnaneUT5FnnmUgNGiCQhCIqmsXDWDJ32du4EQ');
+		},
+        success: function (data) {
+			promo12=data.pcode;
+			
+			
+			if(hotelid!=""){
+				
+				var d1 = new Date(checkin);
+				var d2 = new Date(checkout);
+				var timeDiff = d2.getTime() - d1.getTime();
+				var days = Math.ceil(timeDiff / (1000 * 3600 * 24));
+				
+				var arr = checkin.split("/");
+      
+				 var newcheckindate = arr[2]+'-'+arr[0]+'-'+arr[1];
+				
+			 $.ajax({
+						type: "POST",
+						url: 'https://www.lemontreehotels.com/geservebe',
+						data: {  hotel_id: hotelid },
+						cache: false,
+						beforeSend: function (request) {
+							return request.setRequestHeader('X-CSRF-Token', '6PZcnaneUT5FnnmUgNGiCQhCIqmsXDWDJ32du4EQ');
+						},
+						success: function (data) {
+							$("#btnCitySearch").fadeOut();
+							if(data.reserveurl!="" && cityname==""){
+								var be_link_new=data.reserveurl;
+								var hotelcode=data.hotelcode;
+								var location11 = be_link_new+"/rooms?Rooms="+rooms+"&CheckinDate="+newcheckindate+"&LOS="+days+""+adul1_be+""+chil1_be+"&locale=en&Currency=INR&offerCode=&iataNumber=&flow=tf&multi=false&accessCode=&isSpecialRate=false&hotel="+hotelcode;
+								 
+								window.open(location11,"_self");
+							}else{
+								var be_link_new=data.reserveurl;
+								var hotelcode=data.hotelcode;
+								var location11 = be_link_new+"/search?Rooms="+rooms+"&CheckinDate="+newcheckindate+"&LOS="+days+""+adul1_be+""+chil1_be+"&locale=en&Currency=INR&offerCode=&iataNumber=&flow=tf&multi=false&accessCode=&isSpecialRate=false&hotel="+hotelcode;
+							window.open(location11,"_self");
+							}
+							
+							
+						},
+						error: function (jqXHR, textStatus, ex) { }
+				});	
+				
+			}else{
+				if(cityname!=""){
+					var location11 = "https://be.synxis.com/?Chain=7710&Dest=" + cityname + '&template='+templateuse+'&shell=SBE&theme=initialTheme2&arrive=' + checkin + '&depart=' + checkout + '&Adult=' + adul1 + '&Rooms=' + rooms + '&Child=' + chil1 + '&promo=' + promo12 + '&clientId=&start=availresults&locale=en-US'+dayusefor;
+					window.open(location11,"_self");
+				}else{
+					var location11 = "https://be.synxis.com/?Chain=7710&Hotel=" + hotelid + '&template='+templateuse+'&shell=SBE&theme=initialTheme2&arrive=' + checkin + '&depart=' + checkout + '&Adult=' + adul1 + '&Rooms=' + rooms + '&Child=' + chil1 + '&promo=' + promo12 + '&clientId=&start=availresults&locale=en-US'+dayusefor;
+					window.open(location11,"_self");
+				} 
+			}
+			$("#btnCitySearch1").attr("disabled", false);
+        },
+        error: function (jqXHR, textStatus, ex) { }
+    }); */
+	
+	
+			  
+		  return false;
+		  
+          window.location.reload();
+      }
+  }
+	
+	
+        $(document).ready(function () {
+            $("#rjInput1").focus(function () {
+                $("#filterable-data-rj1").show();
+            });
+
+            $("#rjInput1").on("keyup", function () {
+                debugger;
+                var value = $(this).val().toLowerCase();
+                // if (value == 'gurgaon' || value == 'gurga' || value == 'gurgao' || value == 'gurg') {
+                //     value = 'gurugram';
+                // }
+                $("#filterable-data-rj1 a").filter(function () {
+                    if (value == 'bangalore' || value == 'bang' || value == 'banga' || value == 'bangal' || value == 'bangalo' || value == 'bangalor') {
+                        $(this).toggle($(this).text().toLowerCase().indexOf('bengaluru') > -1);
+                    } 
+                    else if (value == 'gurgaon' || value == 'gurga' || value == 'gurgao' || value == 'gurg') {
+                        $(this).toggle($(this).text().toLowerCase().indexOf('gurugram') > -1);
+                }else {
+                        $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1);
+                    }
+                });
+            });
+        });
+
+        $("#rjInput1").on("change, blur", function () {
+            setTimeout(function () { $("#filterable-data-rj1").slideUp().hide(250) }, 3000)
+        });
+    </script>
+
+    <script>
+        $("#checkindate").datepicker({
+            numberOfMonths: 2,
+            minDate: 0,
+            dateFormat: 'mm/dd/yy',
+            showCurrentAtPos: 0,
+            onSelect: function (selectedDate) {
+                var d = $('#checkindate').datepicker('getDate');
+                d.setDate(d.getDate() + 1);
+                $('#checkoutdate').datepicker('option', 'minDate', d, { autoOpen: true });
+                $('#checkoutdate').datepicker('setDate', d);
+            }
+        });
+
+        $('#checkindate').datepicker({
+            minDate: new Date(),
+            numberOfMonth: 2,
+
+        });
+
+        $('#checkoutdate').datepicker({
+            minDate: new Date(),
+            showCurrentAtPos: 0,
+            dateFormat: 'mm/dd/yy',
+
+        });
+
+        if ($('#checkindate').length) {
+            $('#checkindate').datepicker('setDate', new Date());
+            var d2 = $('#checkindate').datepicker('getDate');
+            d2.setDate(d2.getDate() + 1);
+            $('#checkoutdate').datepicker('option', {
+                numberOfMonths: 2,
+                showCurrentAtPos: 1,
+            }, 'minDate', d2);
+            $('#checkoutdate').datepicker('setDate', d2);
+        }
+
+    </script>
+   
+
+    
+    <script>
+         $(document).ready(function() {
+
+    $("#search-box").keyup(function() {
+
+		$.ajax({
+
+        type: "POST",
+
+        url: "https://www.lemontreehotels.com/get/propertycity",
+
+        data: {  keyword: $(this).val() },
+
+		cache: false,
+
+		beforeSend: function (request) {
+
+           $("#search-box").css("background", "#FFF url(https://www.lemontreehotels.com/assets/front/images/LoaderIcon.gif) no-repeat 165px");
+
+			return request.setRequestHeader('X-CSRF-Token', '6PZcnaneUT5FnnmUgNGiCQhCIqmsXDWDJ32du4EQ');
+
+		},
+
+        success: function (data) {
+
+			$("#suggesstion-box").show();
+
+                $("#suggesstion-box").html(data);
+
+                $("#search-box").css("background", "#FFF");
+
+
+
+
+
+        }
+
+    });
+
+
+    }); 
+
+
+});
+        
+    </script>
+
+     <script>
+        function viewimg(imgname, imgTitle) {
+            var img = document.querySelector(".brands_img");
+            img.src = "assets/fronts/images/" + imgname;
+            $(".our_brands_img_caption").html(imgTitle);
+            // $('').setAttribute('src', 'kimages/' + imgname);
+        }
+        $(".panel-collapse").on("show.bs.collapse", function (e) {
+            $(e.target).closest(".panel").siblings().find(".panel-collapse").collapse("hide");
+        });
+    </script>
+
+    
+    <script type="text/javascript">
+        function clearsearch() {
+            setTimeout(function () {
+                $("#search-box").val("");
+                $("#suggesstion-box").fadeOut("fast");
+            }, 1000);
+
+        }
+        function selectCountry(val) {
+
+            $("#suggesstion-box").hide();
+            window.location.href = "/" + val;
+        }
+
+        $(function () {
+            $("#getBeCityHotel").select2();
+        });
+    </script>
+
+    <script type="text/javascript">
+
+        function myFunction() {
+            var element = document.getElementById("navbarDropdown");
+            element.classList.add("d_none");
+        }
+        function closepop() {
+            var x = document.getElementById("navbarDropdown");
+            x.classList.remove("d_none");
+        }
+    </script>
+    <script>
+        $(document).ready(function () {
+
+            let panels = $("#accordionExample > .accordion-item > .accordion-button").hide();
+
+            images = $("#accordion__img > img");
+
+            panels.first().show();
+
+            images.first().show();
+
+            $("#accordionExample .accordion-item .accordion-header").click(function () {
+                let panel = $(this).parent(),
+
+                    tabName = panel.attr("tab-name"),
+                    image = $("#" + tabName + "-img");
+
+                panels.slideUp();
+                images.slideUp();
+
+                panel.find(".accordion-body").show();
+                image.show().addClass("displaythis");
+
+                return false;
+            });
+        });
+    </script>
+    <script type="text/javascript">
+        var checker = document.getElementById("mySwitch");
+        var sendbtn = document.getElementById("select_end_date");
+        checker.onchange = function () {
+			 if ($(this).is(':checked')) {
+                sendbtn.disabled = !!this.checked;
+            }else{
+				$('#checkoutdate').prop('disabled', false);
+			}
+            
+        };
+		
+function validatesubsemail(){
+	 var regEmails = /^[a-zA-Z][\w\.-]*[a-zA-Z0-9]@[a-zA-Z][\w\.-]*[a-zA-Z0-9]\.[a-zA-Z][a-zA-Z\.]*[a-zA-Z]$/;
+	 var email = $.trim($("#newsemailId").val());
+	 var AlphaNumeric = /[0-9a-zA-Z' ']{0,}/;
+	 if (email == "" || email == "Email") {
+        alert("Please enter email id !");
+        $("#newsemailId").focus();
+        return false;
+    }
+    else if (!AlphaNumeric.test(email)) {
+        alert("Please enter a valid Email Id ! ");
+        $("#SubscribeEmailNew").focus();
+        return false;
+    }
+    else if (!regEmails.test(email)) {
+        alert("Please enter a valid Email Id !");
+        $("#newsemailId").focus();
+        return false;
+    }else{
+		$.ajax({
+			type: "POST",
+			url: 'https://www.lemontreehotels.com/enquiry/subscribeenquiry',
+			data: {  email:$("#newsemailId").val()},
+			cache: false,
+			beforeSend: function (request) {
+				return request.setRequestHeader('X-CSRF-Token', 'BtE3OzRs48eAGcckFjk0WyBlchiu9Qo3oIvSkiKC');
+			},
+			success: function (data) {
+				$('#newsemailId').val('');
+				alert("Sign Up Enquiry Submitted Successfully");
+			},
+			error: function (jqXHR, textStatus, ex) { }
+		});
+	}
+}
+    </script>
+
+
+    <script type="text/javascript">
+         $(document).ready(function () {
+            $(".round").click(function () {
+                $("#checkoutdate").prop("disabled", true);
+            });
+        });             
+    </script>
+
+<script>
+         window.onload = function () {
+        OpenBootstrapPopup();
+    };
+    function OpenBootstrapPopup() {
+        $("#offerpopup").modal('show');
+    } 
+    </script>
+    <style>
+	header ul.hbe-header_linklist.hbe-header_linklist-style-woh {
+    list-style: none;
+}
+    </style>
+</body>
+
+</html>

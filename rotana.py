@@ -125,7 +125,7 @@ with open(csv_file_name, mode="w", newline="", encoding="utf-8") as file:
         else:
             image_name = None
         
-        upload_photo_to_ftp(image_name,"/public_html/storage/information/")
+        # upload_photo_to_ftp(image_name,"/public_html/storage/information/")
         
         title = generate_title(title)
         # Write the extracted data to the CSV file
@@ -148,6 +148,7 @@ with open(csv_file_name, mode="w", newline="", encoding="utf-8") as file:
         driver.quit()
 
 if date_format(date_text)==date_format(datetime.now().today()):
+    upload_photo_to_ftp(image_name,"/public_html/storage/information/")
     append_unique_records("news_data.csv","combined_news_data.csv")
     insert_csv_data(csv_file_name,"informations")
 

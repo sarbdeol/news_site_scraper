@@ -120,7 +120,7 @@ if recent_news_url:
 
     download_image(image_url,img_name)
 
-    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+    # upload_photo_to_ftp(img_name,"/public_html/storage/information/")
 
     
     # Extract date (assuming date is in <p> tag with class 'date')
@@ -174,9 +174,9 @@ with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
 
 print(f"Data saved to {csv_file}")
 
-if date == date_format(datetime.now().today()):
-    
-    insert_csv_data(csv_file,'informations')
+if date != date_format(datetime.now().today()):
+    # upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+    # insert_csv_data(csv_file,'informations')
     append_unique_records(csv_file,"combined_news_data.csv")
 
 else:

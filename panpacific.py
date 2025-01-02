@@ -175,7 +175,7 @@ try:
 
         download_image(recent_news["image"],img_name)
 
-        upload_photo_to_ftp(img_name,recent_news["image"])
+        # upload_photo_to_ftp(img_name,recent_news["image"])
 
         # Save to CSV file
         with open(csv_file, mode="w", newline="", encoding="utf-8") as file:
@@ -221,6 +221,7 @@ finally:
 
 
 if date_format(recent_news["date"]) ==  date_format(time.strftime("%Y-%m-%d %H:%M:%S")):
+    upload_photo_to_ftp(img_name,recent_news["image"])
     insert_into_db(csv_file,'informations')
     append_unique_records(csv_file,"combined_news_data.csv")
 else:

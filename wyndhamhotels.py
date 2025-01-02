@@ -119,7 +119,7 @@ if most_recent_href:
 
     download_image(image_url,img_name)
 
-    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+    # upload_photo_to_ftp(img_name,"/public_html/storage/information/")
 
     # JavaScript code to get all <p> tags and store their content as a string
     js_code = """
@@ -186,6 +186,7 @@ driver.quit()
 
 if date==date_format(datetime.now().today()):
     # Insert the CSV data into the database
+    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
     insert_csv_data(csv_file, "informations")
     append_unique_records(csv_file,"combined_news_data.csv")
 

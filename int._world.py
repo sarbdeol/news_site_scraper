@@ -101,9 +101,10 @@ content = driver.execute_script("""
 """)
 title = generate_title(title)
 date = date_format(date)
+print(date)
 img_nam = generate_random_filename()
 download_image(full_image_url,img_nam)
-upload_photo_to_ftp(img_nam,"/public_html/storage/information/")
+# upload_photo_to_ftp(img_nam,"/public_html/storage/information/")
 
 
 # Define a dummy row of data (you can replace this with actual extracted data)
@@ -141,6 +142,7 @@ print(f"Data has been saved to {csv_file}")
 
 
 if date==date_format(time.time()):
+    upload_photo_to_ftp(img_nam,"/public_html/storage/information/")
     append_unique_records(csv_file,"combined_news_data.csv")
     insert_csv_data(csv_file,"informations")
 else:

@@ -72,7 +72,7 @@ try:
 
     download_image(recent_news['image'],img_name)
 
-    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+    # upload_photo_to_ftp(img_name,"/public_html/storage/information/")
     title = generate_title(recent_news['title'])
     date = date_format(recent_news['date'])
     print(date)
@@ -114,6 +114,7 @@ finally:
 
 
 if date == date_format(datetime.now().today()):
+    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
     insert_csv_data(csv_file_path,'informations')
     append_unique_records(csv_file_path,"combined_news_data.csv")
 

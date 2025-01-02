@@ -257,7 +257,7 @@ if recent_link != "No recent news found":
 
     download_image(image_url['imageUrl'],img_name)
 
-    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+    # upload_photo_to_ftp(img_name,"/public_html/storage/information/")
 
     
     # Generate unique ID for the record
@@ -320,6 +320,7 @@ print(f"\n--- All News Data Saved to {output_file} ---")
 
 
 if date == date_format(current_timestamp):
+    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
     insert_csv_data(output_file,"informations")
     append_unique_records(output_file,"combined_news_data.csv")
 

@@ -165,7 +165,7 @@ if article_data['images']:
     if image_filename:
         image_filenames.append(image_filename)
 
-upload_photo_to_ftp(image_filename, "/public_html/storage/information/")
+# upload_photo_to_ftp(image_filename, "/public_html/storage/information/")
 
 # Update the CSV data with the local image filename(s)
 csv_data["image"] = "information/"+ image_filename
@@ -192,7 +192,8 @@ with open(csv_file_path, mode='a', newline='', encoding='utf-8') as file:
 driver.quit()
 
 if date_format(article_data['date'])==date_format(datetime.now().date()):
-    print("Exeuction ended no new data")
+    print("new data")
+    upload_photo_to_ftp(image_filename, "/public_html/storage/information/")
     insert_csv_data(csv_file_path,"informations")
     append_unique_records(csv_file_path,"combined_news_data.csv")
 

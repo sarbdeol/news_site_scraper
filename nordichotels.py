@@ -101,7 +101,7 @@ date = date_format(result.get('date', ''))
 print(date)
 img_name = generate_random_filename()
 download_image(result.get('image_url', ''),img_name)
-upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+# upload_photo_to_ftp(img_name,"/public_html/storage/information/")
 # Generate a new row of data to save in CSV (example data for fields)
 row = [
     1,  # id
@@ -143,6 +143,7 @@ driver.quit()
 
 if date==date_format(datetime.now().today()):
     # Insert the CSV data into the database
+    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
     insert_csv_data(csv_file, "informations")
     append_unique_records(csv_file,"combined_news_data.csv")
 

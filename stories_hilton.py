@@ -112,7 +112,7 @@ return mainImageUrl
 
     download_image(img_url,img_name)
 
-    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+    # upload_photo_to_ftp(img_name,"/public_html/storage/information/")
 
     latest_title= generate_title(latest_title)
     date = date_format(latest_date)
@@ -158,6 +158,7 @@ print(f"Data saved to {csv_file}")
 # append_unique_records(csv_file,"combined_news_data.csv")
 
 if date==date_format(datetime.now().today()):
+    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
     append_unique_records(csv_file,"combined_news_data.csv")
     insert_csv_data(csv_file,"informations")
 else:

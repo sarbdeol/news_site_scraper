@@ -134,7 +134,7 @@ if result['href']:
 
     download_image("https://www.oberoihotels.com/"+image_url, img_name)
 
-    upload_photo_to_ftp(img_name, "/public_html/storage/information/")
+    # upload_photo_to_ftp(img_name, "/public_html/storage/information/")
 
     title = generate_title(title)
     date  = date_format(date)
@@ -194,6 +194,7 @@ driver.quit()
 
 
 if date == date_format(datetime.now().today()):
+    upload_photo_to_ftp(img_name, "/public_html/storage/information/")
     insert_csv_data("oberoihotels_news_data.csv","informations")
     append_unique_records("oberoihotels_news_data.csv","combined_news_data.csv")
 else:

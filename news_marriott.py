@@ -88,7 +88,7 @@ with open("marriott_news_data.csv", mode="w", newline='', encoding="utf-8") as f
 
             download_image(image_url,img_name)
 
-            upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+            # upload_photo_to_ftp(img_name,"/public_html/storage/information/")
     
             date = date_format(date)
 
@@ -126,6 +126,7 @@ print("Data extraction completed.")
 
 
 if date==date_format(datetime.now().today()):
+    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
     insert_csv_data("marriott_news_data.csv","informations")
     append_unique_records("marriott_news_data.csv","combined_news_data.csv")
 

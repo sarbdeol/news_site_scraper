@@ -1,0 +1,51 @@
+Opening the link: https://www.tuigroup.com/en-en/media/press-releases/2024/2024-12-27-empowering-emerging-artists-and-creatives-tui-care-foundation-launches-new-tui-colourful-cultures-programme-in-morocco
+Image successfully downloaded: 2LjQaPhtHg.jpg
+Connected to FTP server: hotelexplorer.net
+Photo '2LjQaPhtHg.jpg' uploaded successfully to '/public_html/storage/information/'.
+Data saved to tuigroup_output.csv
+Database error: 1045 (28000): Access denied for user 'root'@'135.181.138.186' (using password: NO)
+Traceback (most recent call last):
+  File "/root/news_site_scraper/tuigroup.py", line 169, in <module>
+    insert_csv_data(output_file, "informations")
+  File "/root/news_site_scraper/insert_csv_into_sql_db.py", line 394, in insert_csv_data
+    if connection.is_connected():
+UnboundLocalError: local variable 'connection' referenced before assignment
+Opening the link: https://www.tuigroup.com/en-en/media/press-releases/2024/2024-12-27-empowering-emerging-artists-and-creatives-tui-care-foundation-launches-new-tui-colourful-cultures-programme-in-morocco
+Image successfully downloaded: 6AbFnv1QzV.jpg
+Connected to FTP server: hotelexplorer.net
+Photo '6AbFnv1QzV.jpg' uploaded successfully to '/public_html/storage/information/'.
+Data saved to tuigroup_output.csv
+--------WE DO NOT HAVE DATA FOR TODAY--------
+Opening the link: https://www.tuigroup.com/en-en/media/press-releases/2024/2024-12-27-empowering-emerging-artists-and-creatives-tui-care-foundation-launches-new-tui-colourful-cultures-programme-in-morocco
+Image successfully downloaded: 0L85EwDaRX.jpg
+Connected to FTP server: hotelexplorer.net
+Photo '0L85EwDaRX.jpg' uploaded successfully to '/public_html/storage/information/'.
+Data saved to tuigroup_output.csv
+--------WE DO NOT HAVE DATA FOR TODAY--------
+Opening the link: https://www.tuigroup.com/en-en/media/press-releases/2024/2024-12-27-empowering-emerging-artists-and-creatives-tui-care-foundation-launches-new-tui-colourful-cultures-programme-in-morocco
+Image successfully downloaded: 83BdExfxQy.jpg
+Data saved to tuigroup_output.csv
+--------WE DO NOT HAVE DATA FOR TODAY--------
+Opening the link: https://www.tuigroup.com/en-en/media/press-releases/2024/2024-12-27-empowering-emerging-artists-and-creatives-tui-care-foundation-launches-new-tui-colourful-cultures-programme-in-morocco
+27 Dec 2024
+Image successfully downloaded: FfF27GchZv.jpg
+Data saved to tuigroup_output.csv
+--------WE DO NOT HAVE DATA FOR TODAY--------
+Opening the link: https://www.tuigroup.com/en-en/media/press-releases/2024/2024-12-27-empowering-emerging-artists-and-creatives-tui-care-foundation-launches-new-tui-colourful-cultures-programme-in-morocco
+27 Dec 2024
+Image successfully downloaded: Dbndk8PLSs.jpg
+Data saved to tuigroup_output.csv
+--------WE DO NOT HAVE DATA FOR TODAY--------
+Opening the link: https://www.tuigroup.com/en-en/media/press-releases/2025/2025-01-02-combating-waste-in-small-island-destinations-tui-care-foundation-launches-new-destination-zero-waste-programme-in-mauritius
+02 Jan 2025
+Image successfully downloaded: 05d9N6d36g.jpg
+Data saved to tuigroup_output.csv
+Connected to FTP server: hotelexplorer.net
+Photo '05d9N6d36g.jpg' uploaded successfully to '/public_html/storage/information/'.
+Database error: 1045 (28000): Access denied for user 'root'@'135.181.138.186' (using password: NO)
+Traceback (most recent call last):
+  File "/root/news_site_scraper/tuigroup.py", line 172, in <module>
+    insert_csv_data(output_file, "informations")
+  File "/root/news_site_scraper/insert_csv_into_sql_db.py", line 394, in insert_csv_data
+    if connection.is_connected():
+UnboundLocalError: local variable 'connection' referenced before assignment

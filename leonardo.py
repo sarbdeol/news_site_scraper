@@ -95,7 +95,7 @@ try:
 
     download_image(data['image'],img_name)
 
-    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
+    # upload_photo_to_ftp(img_name,"/public_html/storage/information/")
 
     # Wait for the article to load
     article_element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "article.col-12.w-lg-75.mx-auto.my-5.images_fix")))
@@ -171,6 +171,7 @@ finally:
     driver.quit()
 
 if date_format(date) ==  datetime.now().today():
+    upload_photo_to_ftp(img_name,"/public_html/storage/information/")
     insert_csv_data(csv_file,"informations")
     append_unique_records(csv_file,"combined_news_data.csv")
 else:
